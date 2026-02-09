@@ -77,12 +77,16 @@ export const main = () => {
     State.update({ currentView: route.replace('#', '') });
   };
 
-  const renderNav = (title = '', bgColor = 'bg-violet') => {
+  const renderNav = (title = '', bgColor = 'bg-violet', showBack = false) => {
+    const backControl = showBack
+      ? `<button class="circle-btn" id="nav-back" aria-label="Go back">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
+        </button>`
+      : '<div aria-hidden="true" style="width: 48px; height: 48px;"></div>';
+
     return `
       <header class="app-nav">
-        <button class="circle-btn" id="nav-back">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M19 12H5M12 19l-7-7 7-7"/></svg>
-        </button>
+        ${backControl}
         <span class="font-black text-white text-xl">${title}</span>
         <button class="circle-btn" id="nav-settings">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="3"/><path d="M19.4 15a1.65 1.65 0 0 0 .33 1.82l.06.06a2 2 0 0 1 0 2.83 2 2 0 0 1-2.83 0l-.06-.06a1.65 1.65 0 0 0-1.82-.33 1.65 1.65 0 0 0-1 1.51V21a2 2 0 0 1-2 2 2 2 0 0 1-2-2v-.09A1.65 1.65 0 0 0 9 19.4a1.65 1.65 0 0 0-1.82.33l-.06.06a2 2 0 0 1-2.83 0 2 2 0 0 1 0-2.83l.06-.06a1.65 1.65 0 0 0 .33-1.82 1.65 1.65 0 0 0-1.51-1H3a2 2 0 0 1-2-2 2 2 0 0 1 2-2h.09A1.65 1.65 0 0 0 4.6 9a1.65 1.65 0 0 0-.33-1.82l-.06-.06a2 2 0 0 1 0-2.83 2 2 0 0 1 2.83 0l.06.06a1.65 1.65 0 0 0 1.82.33H9a1.65 1.65 0 0 0 1-1.51V3a2 2 0 0 1 2-2 2 2 0 0 1 2 2v.09a1.65 1.65 0 0 0 1 1.51 1.65 1.65 0 0 0 1.82-.33l.06-.06a2 2 0 0 1 2.83 0 2 2 0 0 1 0 2.83l-.06.06a1.65 1.65 0 0 0-.33 1.82V9a1.65 1.65 0 0 0 1.51 1H21a2 2 0 0 1 2 2 2 2 0 0 1-2 2h-.09a1.65 1.65 0 0 0-1.51 1z"/></svg>
@@ -111,7 +115,7 @@ export const main = () => {
 
     container.className = 'flex-1 bg-coral dot-grid';
     container.innerHTML = `
-      ${renderNav('', 'bg-coral')}
+      ${renderNav('', 'bg-coral', true)}
       <div class="home-view">
         <div class="decks-headline">
           <h2>Today's practice decks</h2>
@@ -191,16 +195,7 @@ export const main = () => {
               Review in short bursts, listen before you read, and let the pattern stick.
             </p>
             
-            <div style="margin-top: 1rem;">
-              <p style="font-weight: 800; color: var(--plum); margin-bottom: 0.75rem;">Choose your English flavor</p>
-              <div class="flex-center" style="justify-content: flex-start; gap: 1rem;">
-                <span style="font-weight: 800; font-size: 0.875rem; color: ${settings.englishVariant === 'american' ? 'var(--plum)' : 'var(--muted-plum)'}">American</span>
-                <div class="kawaii-toggle ${settings.englishVariant === 'british' ? 'active' : ''}" id="flavor-toggle">
-                  <div class="kawaii-toggle-thumb">${settings.englishVariant === 'american' ? 'US' : 'UK'}</div>
-                </div>
-                <span style="font-weight: 800; font-size: 0.875rem; color: ${settings.englishVariant === 'british' ? 'var(--plum)' : 'var(--muted-plum)'}">British</span>
-              </div>
-            </div>
+            <div style="margin-top: 1rem;"></div>
           </div>
         </div>
       </div>
@@ -212,14 +207,6 @@ export const main = () => {
     `;
 
     setupNavListeners();
-
-    const toggle = document.getElementById('flavor-toggle');
-    toggle.addEventListener('click', async () => {
-      const newVariant = settings.englishVariant === 'american' ? 'british' : 'american';
-      settings.englishVariant = newVariant;
-      await saveSettings({ englishVariant: newVariant });
-      renderOnboarding(container, settings);
-    });
 
     document.getElementById('onboarding-start').addEventListener('click', async () => {
       await saveSettings({ onboardingCompleted: true });
@@ -238,7 +225,7 @@ export const main = () => {
     
     container.className = 'flex-1 bg-violet dot-grid';
     container.innerHTML = `
-      ${renderNav('', 'bg-violet')}
+      ${renderNav('', 'bg-violet', true)}
       <div class="review-view">
         <div class="flex-center" style="gap: 0.75rem; margin-bottom: 1.5rem;">
           <div class="kawaii-pill bg-sunny">
@@ -370,7 +357,7 @@ export const main = () => {
   const renderSettings = async (container, settings) => {
     container.className = 'flex-1 bg-violet dot-grid';
     container.innerHTML = `
-      ${renderNav('Settings', 'bg-violet')}
+      ${renderNav('Settings', 'bg-violet', true)}
       <div class="settings-view">
         <div class="kawaii-card" style="margin-bottom: 1.5rem;">
           <label class="flex-center" style="justify-content: space-between; cursor: pointer;">

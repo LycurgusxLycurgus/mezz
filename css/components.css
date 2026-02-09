@@ -119,6 +119,7 @@
   gap: 0.5rem;
   width: 100%;
   max-width: var(--card-max-width);
+  margin: 0 auto;
 }
 
 .rating-btn {
@@ -148,7 +149,7 @@
   box-shadow: 0 2px 0 var(--plum);
 }
 
-.rating-again { background-color: #FF6A6A; color: white; }
+.rating-again { background-color: #FF6A6A; color: var(--plum); }
 .rating-hard { background-color: #FFB366; color: var(--plum); }
 .rating-good { background-color: #7BFFC4; color: var(--plum); }
 .rating-easy { background-color: #C9FF7B; color: var(--plum); }
