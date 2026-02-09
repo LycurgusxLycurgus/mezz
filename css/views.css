@@ -1,0 +1,232 @@
+/* View-Specific Layouts */
+
+/* --- Onboarding View --- */
+.onboarding-view {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.onboarding-card {
+  width: 100%;
+  max-width: 900px;
+  min-height: 500px;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  padding: 0;
+}
+
+@media (min-width: 768px) {
+  .onboarding-card {
+    flex-direction: row;
+  }
+}
+
+.onboarding-hero {
+  background-color: #F7F4FF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+
+@media (min-width: 768px) {
+  .onboarding-hero {
+    width: 40%;
+  }
+}
+
+.onboarding-hero img {
+  width: 100%;
+  max-width: 240px;
+  filter: drop-shadow(0 10px 20px rgba(0,0,0,0.1));
+}
+
+.onboarding-content {
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+@media (min-width: 768px) {
+  .onboarding-content {
+    width: 60%;
+    padding: 3rem;
+  }
+}
+
+.onboarding-title {
+  font-size: 2rem;
+  font-weight: 900;
+  line-height: 1.1;
+  margin-bottom: 1rem;
+  color: var(--plum);
+}
+
+@media (min-width: 768px) {
+  .onboarding-title {
+    font-size: 2.5rem;
+  }
+}
+
+.onboarding-body {
+  font-size: 1.125rem;
+  color: var(--muted-plum);
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+}
+
+/* --- Home View (Deck Selection) --- */
+.home-view {
+  padding: 1.5rem;
+  padding-bottom: 8rem;
+}
+
+.decks-headline {
+  margin-bottom: 2rem;
+}
+
+.decks-headline h2 {
+  font-size: 2.25rem;
+  font-weight: 900;
+  color: white;
+  margin-bottom: 0.5rem;
+}
+
+.decks-headline p {
+  font-size: 1.125rem;
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: 700;
+}
+
+.deck-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+@media (min-width: 768px) {
+  .deck-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+.deck-card--large {
+  grid-row: span 2;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.deck-card--large img {
+  width: 160px;
+  height: 160px;
+  margin: 1.5rem 0;
+}
+
+.deck-card--small {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.deck-card--small img {
+  width: 64px;
+  height: 64px;
+}
+
+.deck-card h3 {
+  font-size: 1.25rem;
+  font-weight: 900;
+  color: var(--plum);
+}
+
+.deck-card p {
+  font-size: 0.875rem;
+  color: var(--muted-plum);
+}
+
+/* --- Review View --- */
+.review-view {
+  padding: 1.5rem;
+  padding-bottom: 10rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.review-flashcard {
+  width: 100%;
+  max-width: var(--card-max-width);
+  margin: 2rem 0;
+  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.flashcard-prompt {
+  font-size: 1.75rem;
+  font-weight: 800;
+  color: var(--plum);
+  margin-bottom: 1.5rem;
+}
+
+.flashcard-answer {
+  font-size: 1.5rem;
+  font-weight: 800;
+  color: #7B61FF;
+  margin-bottom: 0.5rem;
+}
+
+.flashcard-ipa {
+  font-family: var(--font-mono);
+  font-size: 1.125rem;
+  color: var(--muted-plum);
+  margin-bottom: 1rem;
+}
+
+.flashcard-example {
+  background-color: #F7F4FF;
+  border-radius: var(--radius-md);
+  padding: 1rem;
+  border: 2px solid rgba(42, 30, 79, 0.1);
+  margin-bottom: 1rem;
+}
+
+.flashcard-example p {
+  font-size: 1rem;
+  color: var(--plum);
+}
+
+.flashcard-example .ipa {
+  font-size: 0.875rem;
+  opacity: 0.7;
+  margin-top: 0.25rem;
+}
+
+.analysis-content {
+  background-color: #F7F4FF;
+  border-radius: var(--radius-md);
+  padding: 1rem;
+  border: 2px solid rgba(42, 30, 79, 0.1);
+  margin-top: 1rem;
+  font-size: 0.875rem;
+  white-space: pre-line;
+}
+
+/* --- Navigation Header --- */
+.app-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+}
+
+/* --- Layout Utils --- */
+.hidden { display: none !important; }

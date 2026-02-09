@@ -1,0 +1,527 @@
+App/page info or user flow: 
+
+I want o create an app based on the DOC below, basically the two most important things i want is that we have a method for spaced repetition, a good database of words, phrases and more sophisticated content to learn english, good explanations of how english language works based on the doc below, and simple tips telling the person to focus 10-20 minutes ideally 2 times per day to increase attention, understanding and memorization.... also, if possible to have a native english speaker pronouncing things in english so the user can repeat. Finally the app most likely will be mobile first and its and MVP so if it uses local storage and some sort of local notifications that would be fine for this first version. 
+
+DOC
+# English Learning Protocol for Spanish Speakers
+
+This document is a **complete manual** for learning **English** when your native language is **Spanish**.
+
+It is **self‑referential**: it explains the method, the words it uses, the tests, and how to use the document itself.
+
+If you feel lost, do this:
+
+1. Go to **Section 2 (Roadmap)**.
+2. Pick your **current step**.
+3. Follow the checklist for that step.
+
+---
+
+## 1) The idea in one sentence
+
+You learn English fast when you do this in order:
+**Blueprint → Sound → Core words → Real input/output → High‑stakes practice → Repeat**.
+
+---
+
+## 2) Roadmap (the 4 Modules)
+
+These 4 modules repeat forever. Each cycle is harder.
+
+* **Module I — Deconstruction (Legos):** find the basic grammar rules by using a few “golden sentences.”
+* **Module II — Selection (80/20):** learn the small set of words and patterns that appear all the time.
+* **Module III — Sequencing (Real Life):** use English with easy real content (input) and simple speaking (output).
+* **Module IV — Stakes (High Stakes):** do English in your specific domain (work, study, travel, crypto, etc.) with pressure.
+
+**Rule:** you do not “finish” English. You do cycles.
+
+Before you start a cycle, answer this:
+
+* What is my goal this cycle? (Example: “I want to hold a 10‑minute call about my job.”)
+
+---
+
+## 3) What “mastery” means here
+
+Mastery is not “I know many words.” Mastery is:
+
+* **Understanding:** you can explain the rule in simple words.
+* **Memorization:** you can recall the word/pattern later.
+* **Prediction:** you can guess what comes next in a sentence or conversation.
+* **Creation:** you can build new sentences for new situations.
+
+If you only memorize, you are fragile. If you can predict and create, you are strong.
+
+---
+
+## 4) Plain words (mini glossary)
+
+This document uses a few terms. Here they are in simple language.
+
+* **Blueprint:** a small map of how English works, before you learn many words.
+* **Golden sentences:** a tiny set of sentences that show many core grammar rules.
+* **Shadowing:** you listen, then you copy the sound immediately (like a parrot, but careful).
+* **IPA:** a “sound alphabet.” It tells you the real sound, not the confusing spelling.
+* **SRS (Spaced Repetition):** a memory system that shows you a card **right before you forget**.
+* **Comprehensible input:** content you mostly understand (about 70–80%). A little hard, not too hard.
+* **Language island:** a short speech you memorize perfectly (a safe “island” to start conversations).
+* **Gate:** a rule to move forward. You must pass the gate.
+
+---
+
+## 5) Why this method works (the principles)
+
+### Principle A — Map first, details later
+
+If you learn random words first, you feel busy but you are blind.
+A blueprint stops confusion. You see the “machine”.
+
+**Metaphor:**
+
+* Grammar is the **skeleton**.
+* Words are the **meat**.
+  You need both. But the skeleton gives structure.
+
+### Principle B — Sound first, spelling later
+
+English spelling is tricky. If you read too early, you may lock a strong Spanish accent.
+You want your brain to store **sound → meaning**.
+
+**Metaphor:**
+Words are like songs. If you learn the lyrics without the melody, you sing wrong.
+
+### Principle C — Small set, used a lot
+
+The most common words build most sentences.
+Learn the “busy” words first.
+
+### Principle D — Memory needs timing
+
+If you don’t review, you forget.
+SRS is a “forgetting alarm.”
+
+### Principle E — Input builds intuition
+
+When you see patterns many times, your brain learns rules without lectures.
+Babies do this. Adults can do it too.
+
+### Principle F — Output makes you honest
+
+Speaking and writing show your real level.
+Mistakes are not shame. Mistakes are data.
+
+---
+
+## 6) The method (step‑by‑step)
+
+This is the full algorithm. Each step has:
+
+* **Goal** (what you are building)
+* **Daily actions** (small repeatable work)
+* **Gate** (how you prove you can move on)
+
+### Step 0 — Setup (1 day)
+
+**Goal:** create a simple learning machine.
+
+**Actions:**
+
+* Choose your **English variant**: General American or British (pick one for consistency).
+* Pick your **SRS tool** (Anki or similar).
+* Pick 1–2 sources for easy input (graded reader, beginner podcast, simple videos).
+
+**Gate:** you can describe your plan in 3 simple sentences.
+
+---
+
+### Step 1 — Blueprint (Days 1–2) — “Golden Sentences”
+
+**Goal:** see the core grammar quickly.
+
+**Actions:**
+
+1. Get these Spanish sentences translated into English by a native speaker or AI.
+2. Put them in a small table: Spanish → English.
+3. Analyze the patterns (not memorization yet).
+
+#### The 12 Golden Sentences (Spanish → English)
+
+1. **La manzana es roja.** → The apple is red.
+2. **Es la manzana de Juan.** → It is John’s apple.
+3. **Le doy la manzana a Juan.** → I give John the apple.
+4. **Se la damos.** → We give it to him.
+5. **Él se la da a Juan.** → He gives it to John.
+6. **Ella se la da a él.** → She gives it to him.
+7. **Debo dársela.** → I must give it to him.
+8. **Quiero dársela.** → I want to give it to her.
+9. **Voy a saber mañana.** → I’m going to know tomorrow.
+10. **No puedo comer la manzana.** → I cannot / can’t eat the apple.
+11. **Me he comido la manzana.** → I have eaten the apple.
+12. **Me como la manzana.** → I eat the apple.
+
+#### How to analyze (ask these questions)
+
+Look at the English lines and ask:
+
+* Where is the adjective? (red apple / apple red)
+* Does English use **articles** (a/an/the) where Spanish may omit?
+* What changes when the subject changes? (I give / he gives)
+* How does English show **possession**? (John’s)
+* Where does **not** go? (can’t eat)
+* How does English build questions? (later you will add: Do you…?)
+* Where does time live? (tomorrow)
+
+#### Quick English facts you should notice
+
+* English word order is often **Subject–Verb–Object**.
+* In simple present, **he/she/it** often adds **-s** (he gives).
+* Negation often needs an **auxiliary** (can’t, don’t, doesn’t).
+* English uses **articles** a lot (a/an/the).
+
+**Gate (Blueprint):**
+
+* You can explain, in Spanish or simple English, 5 rules you discovered from the sentences.
+* You can produce 10 new sentences by swapping words (apple → book; John → Maria) while keeping the same pattern.
+
+---
+
+### Step 2 — Sound Lab (Week 1) — “Phonetic Upload”
+
+**Goal:** train ears + mouth so your English is clear.
+
+**Rule:** for the first week, **limit reading**. Use audio first.
+
+**Daily actions (20–40 min):**
+
+1. **Listen** to clear slow English (beginner audio).
+2. **Shadow**: repeat immediately, copy rhythm and stress.
+3. Record yourself once per day (30 seconds).
+4. Fix only **one** sound per day.
+
+#### The big difference: Spanish vs English rhythm
+
+* Spanish is more **syllable‑timed** (each syllable similar length).
+* English is more **stress‑timed** (some syllables are strong, many are weak).
+
+**Metaphor:** English is like a drumbeat: **STRONG weak weak STRONG weak**.
+
+#### Common Spanish‑speaker sound traps (English)
+
+Work on these early:
+
+* **/ɪ/ vs /iː/**: ship vs sheep
+* **/æ/**: cat (not “ket”)
+* **/ʌ/**: cup (not “cap”)
+* **TH**: **/θ/** (think) and **/ð/** (this)
+* **H**: house (don’t drop the h)
+* Final consonants: “work”, “tests” (don’t eat the last sound)
+* **-ed endings**: worked /t/, played /d/, wanted /ɪd/
+
+If you want to use IPA, keep it small. Learn only the sounds you need.
+
+**Gate (Sound):**
+
+* You can read your 12 sentences out loud with clear stress and no “Spanish reading voice.”
+* A listener can understand you without asking “What?” more than once per minute.
+
+---
+
+### Step 3 — Core Database (Weeks 2–4) — “80/20 words”
+
+**Goal:** build a small word set that powers many sentences.
+
+Target: **~625 high‑frequency items** (words + chunks).
+
+#### What to learn first (groups)
+
+* **Connectors:** and, but, because, if, so, although
+* **Core verbs:** be, have, do, go, get, make, take, give, want, need
+* **Pronouns:** I, you, he, she, it, we, they
+* **Time words:** now, today, tomorrow, always, never, usually
+* **Question tools:** what, where, when, why, how
+* **Polite tools:** please, sorry, excuse me
+
+#### “No translation” rule (what it really means)
+
+Goal: concept → English, not Spanish → English.
+
+* Bad card: “dog = perro”.
+* Better card: picture/audio of dog → “dog”.
+
+If you *must* use Spanish sometimes, use it only as a temporary scaffold.
+
+#### SRS card templates (simple)
+
+* **Word card:** Image + audio → type or say the word.
+* **Chunk card:** Audio of a phrase → repeat + type.
+* **Cloze card:** “I ____ to go.” (want/need/have) → choose the right one.
+
+**Daily actions (20–40 min):**
+
+* New cards: 10–20/day.
+* Reviews: do them every day, no skips.
+
+**Gate (Database):**
+
+* You can use 300+ of your items in short sentences without Spanish help.
+* In SRS, your mature cards stay above a stable success rate (example: 80–90%).
+
+---
+
+### Step 4 — Immersion Loop (Week 4 onward) — “Sequencing”
+
+**Goal:** turn pieces into real language.
+
+You need both:
+
+* **Input** (listen/read)
+* **Output** (speak/write)
+
+#### Input (30–60 min/day)
+
+Use content where you understand **70–80%**.
+
+* If you understand 95%, it is too easy.
+* If you understand 40%, it is too hard.
+
+**Rule:** do not stop every 5 seconds to translate.
+Instead:
+
+1. Keep going.
+2. Mark the unknown word.
+3. Look it up later (only the important ones).
+
+#### Output (10–30 min/day)
+
+Pick one:
+
+* Talk to a tutor/partner.
+* Record yourself answering prompts.
+* Write short texts and get corrections.
+
+**The “Mistake Rule”:** speak from day one.
+Sound stupid fast. Fix fast.
+
+#### “Glue grammar” (only when stuck)
+
+Do not study grammar like a religion.
+Use it like a wrench.
+
+When you get stuck:
+
+1. Find the smallest rule that fixes the problem.
+2. Make 10 example sentences.
+3. Put 3 of them into SRS.
+
+**Gate (Immersion):**
+
+* You can hold a 10‑minute conversation using simple words.
+* You can understand a beginner podcast/video without subtitles most of the time.
+
+---
+
+### Step 5 — Language Islands (start in Week 4)
+
+**Goal:** have safe starting scripts for real talk.
+
+Build 3–4 islands:
+
+1. Who I am
+2. What I do
+3. My hobbies
+4. Why I am learning English
+
+**Template (simple):**
+
+* I am…
+* I live in…
+* I work/study…
+* I like…
+* Right now, I am learning English because…
+* My next goal is…
+
+**Gate (Islands):**
+
+* You can say each island smoothly, with good rhythm, without long pauses.
+* You can answer 5 follow‑up questions about each island.
+
+---
+
+### Step 6 — Stakes (Module IV) — Your domain
+
+**Goal:** be competent under pressure.
+
+Pick ONE domain:
+
+* Work meetings
+* Job interviews
+* University lectures
+* Travel + airports
+* Tech + programming
+* Sales + negotiation
+* Any other domain you care about
+
+**Actions:**
+
+1. Make a “domain list” of 50 words/chunks you truly need.
+2. Make 10 role‑play scenarios.
+3. Practice with time pressure.
+
+**Gate (Stakes):**
+
+* You can complete 3 scenarios with: clear speech, correct core grammar, and good repair (“Sorry, I mean…”) when you fail.
+
+---
+
+## 7) The universal daily routine (simple)
+
+Use this minimal routine when busy:
+
+* **SRS:** 15–25 minutes (non‑negotiable)
+* **Input:** 20 minutes
+* **Output:** 5–10 minutes
+
+When you have more time:
+
+* Add pronunciation drills.
+* Add longer conversations.
+
+---
+
+## 8) The universal gate system (how you move forward)
+
+For each sub‑skill (a sound, a grammar pattern, a word group):
+
+1. **Explain:** you learn it in simple words.
+2. **Check:** you paraphrase it.
+3. **Test:** you answer questions that require prediction and creation.
+4. **Gate:** you need **3 correct answers in a row** (or 3 out of 4) to move on.
+
+If you fail:
+
+* You do not “restart life.”
+* You go back one small step, fix the weak piece, then test again.
+
+---
+
+## 9) Spanish‑speaker pitfalls (and fixes)
+
+These are common traps. Use them as a checklist.
+
+### Pitfall 1 — Dropping the subject
+
+Spanish can omit the subject. English usually cannot.
+
+* Spanish: “Estoy cansado.”
+* English: “**I** am tired.”
+
+**Fix:** train “I / you / he / she / we / they” until it is automatic.
+
+### Pitfall 2 — Articles (a/an/the)
+
+English uses articles constantly.
+
+**Fix (simple rule):**
+
+* **a/an** = one of many
+* **the** = the one we both know
+
+### Pitfall 3 — Negation and questions need helpers
+
+English often uses **do/does/did**.
+
+* I eat apples.
+* I **do not** eat apples.
+* **Do** you eat apples?
+
+**Fix:** add “do‑support” into your golden sentence set early.
+
+### Pitfall 4 — False friends
+
+Example: “actually” ≠ “actualmente.”
+
+**Fix:** collect false friends as a special deck.
+
+### Pitfall 5 — Phrasal verbs
+
+“get up, turn on, figure out.”
+
+**Fix:** learn them as **chunks**, not as separate words.
+
+---
+
+## 10) Progress tracking (simple)
+
+Track only what matters:
+
+* Minutes of SRS (done / not done)
+* Minutes of input
+* Minutes of output
+* One “big mistake of the day” + fix
+
+If you do this, you will not lie to yourself.
+
+---
+
+## 11) Mastery tests (simple but real)
+
+Use these as “final bosses.”
+
+### Test A — Prediction
+
+Listen to a sentence and predict the next word or the next grammar shape.
+
+### Test B — Creation
+
+Given a situation, build 5 correct sentences fast.
+
+### Test C — Repair
+
+When you make a mistake, you can fix it in real time:
+
+* “Sorry, I mean…”
+* “Let me say that again.”
+
+### Test D — Transfer
+
+You can use the same pattern in a new topic (not just memorized sentences).
+
+---
+
+## 12) Appendix: upgraded golden set (optional)
+
+After you finish Step 1, add 6 more sentences that expose missing English mechanics:
+
+* Do you like apples? (question formation)
+* I don’t like the apple. (do‑negation)
+* I didn’t eat the apple. (past + did)
+* I’m eating the apple. (present continuous)
+* I’ve been eating apples. (perfect continuous)
+* If I had time, I would study. (conditional)
+
+Use the same analysis style.
+
+---
+
+## 13) How to use this manual with an AI tutor
+
+If you use a tutor bot:
+
+* Always tell it your **current step**.
+* Ask it to test you with **new scenarios**, not memorized examples.
+* Demand **gates** before moving on.
+
+This is how you avoid feeling progress without having progress.
+
+
+---
+
+App/page narrative and aesthetic:
+
+The narrative should be kind of something related to the polyglot mezzofanti, but the aesthetic should be more along the lines of something kawaii, cute but with some creative sections that when the user succeds is super kawaii, but if it fails it transforms for a second in a cosmic horror kind of thing. 
+
+---
+
+Other info about app/page: 
+
+n/a

@@ -1,0 +1,8 @@
+# To add
+
+    1. Create an AI that asks about users general interests and specific interests related to the target language they want to learn.
+        1.1. Specific interests: by this we mean that the AI should ask the user about what exactly they want learn so they can talk/read/watch/listen the target language.
+        1.2. General interests: by this we mean that the AI should ask the user about what they are interested in general in their life so that gives a general context to the specific interests.
+    2. ... 
+
+# To experiment with

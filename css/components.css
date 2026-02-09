@@ -1,0 +1,247 @@
+/* Kawaii Component System */
+
+/* --- Cards --- */
+.kawaii-card {
+  background-color: var(--surface);
+  border-radius: var(--radius-xl);
+  border: 4px solid var(--plum);
+  position: relative;
+  box-shadow: 0 14px 0 rgba(42, 30, 79, 0.18);
+  padding: 1.5rem;
+  transition: transform 0.15s var(--easing-default), box-shadow 0.15s var(--easing-default);
+}
+
+.card--interactive:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 16px 0 rgba(42, 30, 79, 0.18);
+}
+
+.card--interactive:active {
+  transform: translateY(10px);
+  box-shadow: 0 4px 0 rgba(42, 30, 79, 0.18);
+}
+
+/* --- Buttons --- */
+.kawaii-btn {
+  background-color: var(--sunny);
+  color: var(--plum);
+  font-weight: 900;
+  font-size: 1.125rem;
+  border-radius: var(--radius-full);
+  border: 4px solid var(--plum);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  padding: 1rem 2rem;
+  min-height: 64px;
+  cursor: pointer;
+  transition: all 0.15s var(--easing-default);
+  box-shadow: 0 8px 0 var(--plum);
+  width: 100%;
+  text-decoration: none;
+}
+
+.kawaii-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 10px 0 var(--plum);
+}
+
+.kawaii-btn:active {
+  transform: translateY(5px);
+  box-shadow: 0 3px 0 var(--plum);
+}
+
+.kawaii-btn-secondary {
+  background-color: var(--surface);
+  color: var(--plum);
+  font-weight: 700;
+  font-size: 1rem;
+  border-radius: var(--radius-md);
+  border: 3px solid var(--plum);
+  padding: 0.75rem 1.5rem;
+  min-height: 48px;
+  cursor: pointer;
+  transition: all 0.15s var(--easing-default);
+  box-shadow: 0 6px 0 var(--plum);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+}
+
+.kawaii-btn-secondary:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 0 var(--plum);
+}
+
+.kawaii-btn-secondary:active {
+  transform: translateY(4px);
+  box-shadow: 0 2px 0 var(--plum);
+}
+
+/* --- Navigation Buttons --- */
+.circle-btn {
+  width: 48px;
+  height: 48px;
+  border-radius: 50%;
+  background-color: var(--surface);
+  border: 4px solid var(--plum);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.15s var(--easing-default);
+  box-shadow: 0 4px 0 var(--plum);
+  padding: 0;
+}
+
+.circle-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 0 var(--plum);
+}
+
+.circle-btn:active {
+  transform: translateY(3px);
+  box-shadow: 0 1px 0 var(--plum);
+}
+
+.circle-btn svg {
+  width: 24px;
+  height: 24px;
+  color: var(--plum);
+}
+
+/* --- Rating Buttons --- */
+.rating-buttons {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.5rem;
+  width: 100%;
+  max-width: var(--card-max-width);
+}
+
+.rating-btn {
+  border-radius: var(--radius-md);
+  border: 4px solid var(--plum);
+  font-weight: 700;
+  font-size: 0.875rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.25rem;
+  padding: 0.75rem 0.5rem;
+  cursor: pointer;
+  transition: all 0.15s var(--easing-default);
+  box-shadow: 0 6px 0 var(--plum);
+  min-height: 72px;
+}
+
+.rating-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 0 var(--plum);
+}
+
+.rating-btn:active {
+  transform: translateY(4px);
+  box-shadow: 0 2px 0 var(--plum);
+}
+
+.rating-again { background-color: #FF6A6A; color: white; }
+.rating-hard { background-color: #FFB366; color: var(--plum); }
+.rating-good { background-color: #7BFFC4; color: var(--plum); }
+.rating-easy { background-color: #C9FF7B; color: var(--plum); }
+
+/* --- Pills & Badges --- */
+.kawaii-pill {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius-full);
+  border: 3px solid var(--plum);
+  font-weight: 700;
+  font-size: 0.875rem;
+  box-shadow: 0 4px 0 rgba(42, 30, 79, 0.15);
+}
+
+/* --- Toggles --- */
+.kawaii-toggle {
+  position: relative;
+  display: inline-flex;
+  height: 48px;
+  width: 112px;
+  border-radius: var(--radius-full);
+  border: 4px solid var(--plum);
+  background-color: #F7F4FF;
+  cursor: pointer;
+  box-shadow: inset 0 2px 4px rgba(42, 30, 79, 0.1);
+}
+
+.kawaii-toggle-thumb {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+  height: 36px;
+  width: 56px;
+  border-radius: var(--radius-full);
+  background-color: var(--sunny);
+  border: 4px solid var(--plum);
+  transition: transform 0.2s var(--easing-default);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  font-size: 0.75rem;
+  box-shadow: 0 3px 0 rgba(42, 30, 79, 0.2);
+}
+
+.kawaii-toggle.active .kawaii-toggle-thumb {
+  transform: translateX(48px);
+}
+
+/* --- Action Bar --- */
+.action-bar {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: white;
+  border-top: 4px solid var(--plum);
+  padding: 1rem 1.5rem;
+  z-index: 50;
+  box-shadow: 0 -8px 24px rgba(42, 30, 79, 0.12);
+}
+
+/* --- Progress Bar --- */
+.kawaii-progress {
+  height: 12px;
+  background-color: rgba(255, 255, 255, 0.3);
+  border-radius: var(--radius-full);
+  border: 2px solid var(--plum);
+  overflow: hidden;
+  width: 100%;
+}
+
+.kawaii-progress__fill {
+  height: 100%;
+  background-color: var(--sunny);
+  transition: width 0.3s var(--easing-default);
+}
+
+/* --- Badges --- */
+.badge {
+  display: inline-flex;
+  padding: 0.25rem 0.75rem;
+  border-radius: var(--radius-full);
+  font-size: 0.75rem;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  border: 2px solid var(--plum);
+}
+
+.badge--golden { background-color: var(--sunny); color: var(--plum); }
+.badge--success { background-color: var(--mint); color: var(--plum); }
+.badge--warning { background-color: var(--sunny); color: var(--plum); }
