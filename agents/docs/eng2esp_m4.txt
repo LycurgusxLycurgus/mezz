@@ -238,7 +238,7 @@ Target: **~625 high‑frequency items** (words + chunks). But we build it in a s
 
 Si estás apurado, prioriza en este orden:
 
-1. **Top 100** palabras de alta frecuencia (función).
+1. **Top 100** palabras (top 100 habladas y top 100 escritas) de alta frecuencia (función).
 2. **10 conectores** (porque / pero / si…).
 3. **10 pantry verbs** (verbos despensa).
 4. **Modales** (can, must, should…).
@@ -1056,7 +1056,7 @@ Este apéndice profundiza Step 3.
 
 ### 15.1 El orden correcto (para no perder tiempo)
 
-1. **Top 100** (palabras función)
+1. **Top 100 Habladas y Escritas** (palabras función)
 2. **Conectores** (pegamento)
 3. **Pantry verbs** (multiherramientas)
 4. **Modales** (atajo gramatical)
