@@ -1,0 +1,649 @@
+# 625 high-frequency items
+
+## 200 — Estructura (function/grammar)
+
+* the  
+* a  
+* an  
+* this  
+* that  
+* these  
+* those  
+* some  
+* any  
+* no  
+* none  
+* each  
+* every  
+* either  
+* neither  
+* both  
+* all  
+* most  
+* another  
+* other  
+* others  
+* same  
+* such  
+* my  
+* your  
+* his  
+* her  
+* its  
+* our  
+* their  
+* mine  
+* yours  
+* hers  
+* ours  
+* theirs  
+* own  
+* few  
+* little  
+* many  
+* much  
+* more  
+* less  
+* enough  
+* several  
+* various  
+* one  
+* ones  
+* two  
+* three  
+* four  
+* five  
+* first  
+* second  
+* next  
+* last  
+* i  
+* you  
+* he  
+* she  
+* it  
+* we  
+* they  
+* me  
+* him  
+* us  
+* them  
+* myself  
+* yourself  
+* himself  
+* herself  
+* itself  
+* ourselves  
+* yourselves  
+* themselves  
+* someone  
+* anyone  
+* everyone  
+* nobody  
+* somebody  
+* anybody  
+* everybody  
+* something  
+* anything  
+* everything  
+* nothing  
+* who  
+* whom  
+* whose  
+* which  
+* what  
+* where  
+* why  
+* how  
+* whatever  
+* whichever  
+* whoever  
+* whenever  
+* wherever  
+* of  
+* to  
+* for  
+* with  
+* from  
+* by  
+* about  
+* as  
+* at  
+* in  
+* on  
+* into  
+* out  
+* over  
+* under  
+* between  
+* among  
+* around  
+* across  
+* along  
+* through  
+* during  
+* within  
+* without  
+* behind  
+* beyond  
+* beside  
+* beneath  
+* inside  
+* outside  
+* near  
+* past  
+* toward  
+* upon  
+* onto  
+* off  
+* up  
+* down  
+* than  
+* like  
+* not  
+* n't  
+* never  
+* ever  
+* always  
+* usually  
+* often  
+* sometimes  
+* just  
+* only  
+* even  
+* also  
+* too  
+* very  
+* really  
+* quite  
+* rather  
+* almost  
+* maybe  
+* perhaps  
+* probably  
+* definitely  
+* certainly  
+* already  
+* still  
+* yet  
+* again  
+* soon  
+* now  
+* today  
+* tomorrow  
+* yesterday  
+* tonight  
+* here  
+* there  
+* somewhere  
+* anywhere  
+* nowhere  
+* yes  
+* yeah  
+* nope  
+* ok  
+* okay  
+* please  
+* sorry  
+* well  
+* right  
+* actually  
+* basically  
+* anyway  
+* else  
+* per  
+* via  
+* despite  
+* except  
+* concerning  
+* regarding  
+* versus  
+* amid  
+* throughout  
+* alongside  
+* towards
+
+## 40 — Conectores
+
+* and  
+* but  
+* or  
+* so  
+* because  
+* if  
+* though  
+* although  
+* however  
+* therefore  
+* unless  
+* once  
+* before  
+* after  
+* while  
+* when  
+* then  
+* until  
+* since  
+* as soon as  
+* as long as  
+* even if  
+* even though  
+* in case  
+* so that  
+* as a result  
+* for example  
+* for instance  
+* in fact  
+* on the other hand  
+* at least  
+* at most  
+* in the end  
+* in general  
+* besides  
+* otherwise  
+* meanwhile  
+* instead  
+* plus  
+* in addition
+
+## 80 — Verbos (10 pantry \+ 70 alta frecuencia)
+
+* be  
+* have  
+* do  
+* say  
+* get  
+* make  
+* go  
+* know  
+* take  
+* see  
+* come  
+* think  
+* look  
+* want  
+* give  
+* use  
+* find  
+* tell  
+* ask  
+* work  
+* seem  
+* feel  
+* try  
+* leave  
+* call  
+* put  
+* mean  
+* keep  
+* let  
+* help  
+* talk  
+* turn  
+* start  
+* show  
+* hear  
+* play  
+* live  
+* believe  
+* bring  
+* happen  
+* write  
+* read  
+* learn  
+* change  
+* lead  
+* understand  
+* watch  
+* follow  
+* stop  
+* create  
+* speak  
+* buy  
+* pay  
+* meet  
+* include  
+* continue  
+* set  
+* hold  
+* open  
+* close  
+* wait  
+* need  
+* become  
+* begin  
+* return  
+* stay  
+* run  
+* walk  
+* sit  
+* stand  
+* lose  
+* win  
+* offer  
+* remember  
+* forget  
+* choose  
+* send  
+* spend  
+* agree
+
+## 15 — Modales / auxiliares extra
+
+* can  
+* could  
+* will  
+* would  
+* should  
+* must  
+* might  
+* may  
+* shall  
+* ought to  
+* have to  
+* need to  
+* be able to  
+* be going to  
+* would like to
+
+## 35 — Prime chunks (supervivencia)
+
+* How do you say \_\_\_?  
+* What does \_\_\_ mean?  
+* How do you spell \_\_\_?  
+* How do you pronounce \_\_\_?  
+* Can you say that again?  
+* Can you say that slower?  
+* Could you repeat that?  
+* Could you speak more slowly?  
+* Sorry, I didn't catch that.  
+* What did you say?  
+* What do you mean?  
+* I don't understand.  
+* I understand.  
+* I'm not sure.  
+* I'm trying to say \_\_\_.  
+* Let me think.  
+* Just a second.  
+* Hold on.  
+* Wait, sorry.  
+* Let me try again.  
+* Can you write it down?  
+* Can you type it?  
+* Can you show me?  
+* Can you give me an example?  
+* What's the difference between \_\_\_ and \_\_\_?  
+* Is that correct?  
+* Did I say that right?  
+* Do you mean \_\_\_?  
+* So you mean \_\_\_?  
+* How do you use \_\_\_?  
+* What's the word for \_\_\_?  
+* Can we practice that?  
+* Can we start over?  
+* Could you help me?  
+* Thanks, that helps.
+
+## 100 — Sentence frames (plantillas)
+
+* I am \_\_\_.  
+* I'm \_\_\_.  
+* I feel \_\_\_.  
+* I have \_\_\_.  
+* I don't have \_\_\_.  
+* I need \_\_\_.  
+* I need to \_\_\_.  
+* I want \_\_\_.  
+* I want to \_\_\_.  
+* I would like to \_\_\_.  
+* I like \_\_\_.  
+* I don't like \_\_\_.  
+* I love \_\_\_.  
+* I hate \_\_\_.  
+* I think \_\_\_.  
+* I don't think \_\_\_.  
+* I believe \_\_\_.  
+* I know \_\_\_.  
+* I don't know \_\_\_.  
+* I understand \_\_\_.  
+* I don't understand \_\_\_.  
+* I remember \_\_\_.  
+* I forgot \_\_\_.  
+* I have to \_\_\_.  
+* I don't have to \_\_\_.  
+* I can \_\_\_.  
+* I can't \_\_\_.  
+* I could \_\_\_.  
+* I should \_\_\_.  
+* I shouldn't \_\_\_.  
+* I must \_\_\_.  
+* I might \_\_\_.  
+* I will \_\_\_.  
+* I won't \_\_\_.  
+* I'm going to \_\_\_.  
+* I'm not going to \_\_\_.  
+* I used to \_\_\_.  
+* I'm trying to \_\_\_.  
+* I'm learning to \_\_\_.  
+* I'm ready to \_\_\_.  
+* I'm not ready to \_\_\_.  
+* I need help with \_\_\_.  
+* I have a question about \_\_\_.  
+* I'm looking for \_\_\_.  
+* I'm from \_\_\_.  
+* I live in \_\_\_.  
+* I work at \_\_\_.  
+* I'm working on \_\_\_.  
+* It's in \_\_\_.  
+* It's on \_\_\_.  
+* It's at \_\_\_.  
+* It's about \_\_\_.  
+* There is \_\_\_.  
+* There are \_\_\_.  
+* It depends on \_\_\_.  
+* The reason is \_\_\_.  
+* The problem is \_\_\_.  
+* In my opinion, \_\_\_.  
+* I guess \_\_\_.  
+* I agree with \_\_\_.  
+* I don't agree with \_\_\_.  
+* It's the same as \_\_\_.  
+* It's different from \_\_\_.  
+* It's better to \_\_\_ than \_\_\_ .  
+* Because \_\_\_, \_\_\_ .  
+* So \_\_\_ .  
+* If \_\_\_, then \_\_\_ .  
+* If I \_\_\_, I will \_\_\_ .  
+* If I \_\_\_, I would \_\_\_ .  
+* When \_\_\_, I \_\_\_ .  
+* Before I \_\_\_, I \_\_\_ .  
+* After I \_\_\_, I \_\_\_ .  
+* While I \_\_\_, I \_\_\_ .  
+* Please \_\_\_ .  
+* Let's \_\_\_ .  
+* Let's not \_\_\_ .  
+* I need you to \_\_\_ .  
+* I want you to \_\_\_ .  
+* Could you please \_\_\_ ?  
+* Do you mind if I \_\_\_?  
+* Would you mind \_\_\_ing?  
+* Is there \_\_\_?  
+* Are there \_\_\_?  
+* Do you \_\_\_?  
+* Did you \_\_\_?  
+* Have you ever \_\_\_?  
+* Do you have \_\_\_?  
+* Can you \_\_\_?  
+* Could you \_\_\_?  
+* Would you \_\_\_?  
+* Should I \_\_\_?  
+* Should we \_\_\_?  
+* What is \_\_\_?  
+* What's \_\_\_?  
+* Who is \_\_\_?  
+* Where is \_\_\_?  
+* When do you \_\_\_?  
+* Where do you \_\_\_?  
+* Why do you \_\_\_?  
+* How do you \_\_\_?
+
+## 100 — Pragmatic chunks (fluidez hablada)
+
+* by the way  
+* you know  
+* i mean  
+* kind of  
+* sort of  
+* to be honest  
+* to be fair  
+* as far as i know  
+* as far as i'm concerned  
+* from my point of view  
+* in my experience  
+* at the same time  
+* in other words  
+* that said  
+* to put it simply  
+* to be clear  
+* just so you know  
+* just in case  
+* for now  
+* so far  
+* right now  
+* at the moment  
+* from time to time  
+* once in a while  
+* sooner or later  
+* no problem  
+* no worries  
+* it's fine  
+* it's okay  
+* that makes sense  
+* i get it  
+* i see what you mean  
+* got it  
+* fair enough  
+* sounds good  
+* works for me  
+* up to you  
+* it's up to you  
+* if you want  
+* if you'd like  
+* why not  
+* of course  
+* not really  
+* not at all  
+* exactly  
+* absolutely  
+* yeah, definitely  
+* hopefully  
+* fingers crossed  
+* i guess so  
+* i think so  
+* i don't think so  
+* i'm not sure  
+* it depends  
+* that's the thing  
+* the point is  
+* the problem is  
+* the good news is  
+* the bad news is  
+* the truth is  
+* here's the deal  
+* long story short  
+* at the end of the day  
+* let's see  
+* we'll see  
+* we'll figure it out  
+* let me check  
+* let me see  
+* let me know  
+* i'll let you know  
+* i'll get back to you  
+* i'll take care of it  
+* i'll do my best  
+* i can't remember  
+* i don't know yet  
+* that's not what i meant  
+* what i mean is  
+* to be honest with you  
+* to be safe  
+* just a sec  
+* hold on a second  
+* wait a minute  
+* give me a second  
+* one moment  
+* i appreciate it  
+* that's awesome  
+* that's interesting  
+* that's a good point  
+* that’s a good question  
+* that's weird  
+* that's tough  
+* that's crazy  
+* no way  
+* come on  
+* my bad  
+* no kidding  
+* i'm serious  
+* just kidding  
+* i hear you  
+* i'm with you
+
+## 55 — Nouns/adjectives universales
+
+* time  
+* day  
+* week  
+* month  
+* year  
+* moment  
+* hour  
+* minute  
+* morning  
+* night  
+* people  
+* person  
+* friend  
+* family  
+* home  
+* house  
+* job  
+* school  
+* city  
+* country  
+* world  
+* life  
+* way  
+* thing  
+* stuff  
+* place  
+* point  
+* idea  
+* problem  
+* question  
+* answer  
+* reason  
+* example  
+* case  
+* fact  
+* plan  
+* goal  
+* choice  
+* money  
+* price  
+* number  
+* part  
+* side  
+* team  
+* story  
+* name  
+* office  
+* meeting  
+* food  
+* good  
+* bad  
+* big  
+* small  
+* new  
+* old

@@ -1,31 +1,32 @@
 # English Learning Protocol for Spanish Speakers
 
+## M4 Methodology
+
 This document is a **complete manual** for learning **English** when your native language is **Spanish**.
 
 It is **self‑referential**: it explains the method, the words it uses, the tests, and how to use the document itself.
 
 If you feel lost, do this:
 
-1. Go to **Section 2 (Roadmap)**.
-2. Pick your **current step**.
+1. Go to **Section 2 (Roadmap)**.  
+2. Pick your **current step**.  
 3. Follow the checklist for that step.
 
 ---
 
-## 1) The idea in one sentence
+## 1\) The idea in one sentence
 
-You learn English fast when you do this in order:
-**Blueprint → Sound → Core words → Real input/output → High‑stakes practice → Repeat**.
+You learn English fast when you do this in order: **Blueprint → Sound → Core words → Real input/output → High‑stakes practice → Repeat**.
 
 ---
 
-## 2) Roadmap (the 4 Modules)
+## 2\) Roadmap (the 4 Modules)
 
 These 4 modules repeat forever. Each cycle is harder.
 
-* **Module I — Deconstruction (Legos):** find the basic grammar rules by using a few “golden sentences.”
-* **Module II — Selection (80/20):** learn the small set of words and patterns that appear all the time.
-* **Module III — Sequencing (Real Life):** use English with easy real content (input) and simple speaking (output).
+* **Module I — Deconstruction (Legos):** find the basic grammar rules by using a few “golden sentences.”  
+* **Module II — Selection (80/20):** learn the small set of words and patterns that appear all the time.  
+* **Module III — Sequencing (Real Life):** use English with easy real content (input) and simple speaking (output).  
 * **Module IV — Stakes (High Stakes):** do English in your specific domain (work, study, travel, crypto, etc.) with pressure.
 
 **Rule:** you do not “finish” English. You do cycles.
@@ -36,83 +37,75 @@ Before you start a cycle, answer this:
 
 ---
 
-## 3) What “mastery” means here
+## 3\) What “mastery” means here
 
 Mastery is not “I know many words.” Mastery is:
 
-* **Understanding:** you can explain the rule in simple words.
-* **Memorization:** you can recall the word/pattern later.
-* **Prediction:** you can guess what comes next in a sentence or conversation.
+* **Understanding:** you can explain the rule in simple words.  
+* **Memorization:** you can recall the word/pattern later.  
+* **Prediction:** you can guess what comes next in a sentence or conversation.  
 * **Creation:** you can build new sentences for new situations.
 
 If you only memorize, you are fragile. If you can predict and create, you are strong.
 
 ---
 
-## 4) Plain words (mini glossary)
+## 4\) Plain words (mini glossary)
 
 This document uses a few terms. Here they are in simple language.
 
-* **Blueprint:** a small map of how English works, before you learn many words.
-* **Golden sentences:** a tiny set of sentences that show many core grammar rules.
-* **Shadowing:** you listen, then you copy the sound immediately (like a parrot, but careful).
-* **IPA:** a “sound alphabet.” It tells you the real sound, not the confusing spelling.
-* **SRS (Spaced Repetition):** a memory system that shows you a card **right before you forget**.
-* **Comprehensible input:** content you mostly understand (about 70–80%). A little hard, not too hard.
-* **Language island:** a short speech you memorize perfectly (a safe “island” to start conversations).
+* **Blueprint:** a small map of how English works, before you learn many words.  
+* **Golden sentences:** a tiny set of sentences that show many core grammar rules.  
+* **Shadowing:** you listen, then you copy the sound immediately (like a parrot, but careful).  
+* **IPA:** a “sound alphabet.” It tells you the real sound, not the confusing spelling.  
+* **SRS (Spaced Repetition):** a memory system that shows you a card **right before you forget**.  
+* **Comprehensible input:** content you mostly understand (about 70–80%). A little hard, not too hard.  
+* **Language island:** a short speech you memorize perfectly (a safe “island” to start conversations).  
 * **Gate:** a rule to move forward. You must pass the gate.
 
 ---
 
-## 5) Why this method works (the principles)
+## 5\) Why this method works (the principles)
 
 ### Principle A — Map first, details later
 
-If you learn random words first, you feel busy but you are blind.
-A blueprint stops confusion. You see the “machine”.
+If you learn random words first, you feel busy but you are blind. A blueprint stops confusion. You see the “machine”.
 
 **Metaphor:**
 
-* Grammar is the **skeleton**.
-* Words are the **meat**.
-  You need both. But the skeleton gives structure.
+* Grammar is the **skeleton**.  
+* Words are the **meat**. You need both. But the skeleton gives structure.
 
 ### Principle B — Sound first, spelling later
 
-English spelling is tricky. If you read too early, you may lock a strong Spanish accent.
-You want your brain to store **sound → meaning**.
+English spelling is tricky. If you read too early, you may lock a strong Spanish accent. You want your brain to store **sound → meaning**.
 
-**Metaphor:**
-Words are like songs. If you learn the lyrics without the melody, you sing wrong.
+**Metaphor:** Words are like songs. If you learn the lyrics without the melody, you sing wrong.
 
 ### Principle C — Small set, used a lot
 
-The most common words build most sentences.
-Learn the “busy” words first.
+The most common words build most sentences. Learn the “busy” words first.
 
 ### Principle D — Memory needs timing
 
-If you don’t review, you forget.
-SRS is a “forgetting alarm.”
+If you don’t review, you forget. SRS is a “forgetting alarm.”
 
 ### Principle E — Input builds intuition
 
-When you see patterns many times, your brain learns rules without lectures.
-Babies do this. Adults can do it too.
+When you see patterns many times, your brain learns rules without lectures. Babies do this. Adults can do it too.
 
 ### Principle F — Output makes you honest
 
-Speaking and writing show your real level.
-Mistakes are not shame. Mistakes are data.
+Speaking and writing show your real level. Mistakes are not shame. Mistakes are data.
 
 ---
 
-## 6) The method (step‑by‑step)
+## 6\) The method (step‑by‑step)
 
 This is the full algorithm. Each step has:
 
-* **Goal** (what you are building)
-* **Daily actions** (small repeatable work)
+* **Goal** (what you are building)  
+* **Daily actions** (small repeatable work)  
 * **Gate** (how you prove you can move on)
 
 ### Step 0 — Setup (1 day)
@@ -121,8 +114,8 @@ This is the full algorithm. Each step has:
 
 **Actions:**
 
-* Choose your **English variant**: General American or British (pick one for consistency).
-* Pick your **SRS tool** (Anki or similar).
+* Choose your **English variant**: General American or British (pick one for consistency).  
+* Pick your **SRS tool** (Anki or similar).  
 * Pick 1–2 sources for easy input (graded reader, beginner podcast, simple videos).
 
 **Gate:** you can describe your plan in 3 simple sentences.
@@ -135,67 +128,67 @@ This is the full algorithm. Each step has:
 
 **Actions:**
 
-1. Get these Spanish sentences translated into English by a native speaker or AI.
-2. Put them in a small table: Spanish → English.
+1. Get these Spanish sentences translated into English by a native speaker or AI.  
+2. Put them in a small table: Spanish → English.  
 3. Analyze the patterns (not memorization yet).
 
 #### The 12 Golden Sentences (Spanish → English)
 
-1. **La manzana es roja.** → The apple is red.
-2. **Es la manzana de Juan.** → It is John’s apple.
-3. **Le doy la manzana a Juan.** → I give John the apple.
-4. **Se la damos.** → We give it to him.
-5. **Él se la da a Juan.** → He gives it to John.
-6. **Ella se la da a él.** → She gives it to him.
-7. **Debo dársela.** → I must give it to him.
-8. **Quiero dársela.** → I want to give it to her.
-9. **Voy a saber mañana.** → I’m going to know tomorrow.
-10. **No puedo comer la manzana.** → I cannot / can’t eat the apple.
-11. **Me he comido la manzana.** → I have eaten the apple.
+1. **La manzana es roja.** → The apple is red.  
+2. **Es la manzana de Juan.** → It is John’s apple.  
+3. **Le doy la manzana a Juan.** → I give John the apple.  
+4. **Se la damos.** → We give it to him.  
+5. **Él se la da a Juan.** → He gives it to John.  
+6. **Ella se la da a él.** → She gives it to him.  
+7. **Debo dársela.** → I must give it to him.  
+8. **Quiero dársela.** → I want to give it to her.  
+9. **Voy a saber mañana.** → I’m going to know tomorrow.  
+10. **No puedo comer la manzana.** → I cannot / can’t eat the apple.  
+11. **Me he comido la manzana.** → I have eaten the apple.  
 12. **Me como la manzana.** → I eat the apple.
 
 #### How to analyze (ask these questions)
 
 Look at the English lines and ask:
 
-* Where is the adjective? (red apple / apple red)
-* Does English use **articles** (a/an/the) where Spanish may omit?
-* What changes when the subject changes? (I give / he gives)
-* How does English show **possession**? (John’s)
-* Where does **not** go? (can’t eat)
-* How does English build questions? (later you will add: Do you…?)
+* Where is the adjective? (red apple / apple red)  
+* Does English use **articles** (a/an/the) where Spanish may omit?  
+* What changes when the subject changes? (I give / he gives)  
+* How does English show **possession**? (John’s)  
+* Where does **not** go? (can’t eat)  
+* How does English build questions? (later you will add: Do you…?)  
 * Where does time live? (tomorrow)
 
 #### Quick English facts you should notice
 
-* English word order is often **Subject–Verb–Object**.
-* In simple present, **he/she/it** often adds **-s** (he gives).
-* Negation often needs an **auxiliary** (can’t, don’t, doesn’t).
+* English word order is often **Subject–Verb–Object**.  
+* In simple present, **he/she/it** often adds **\-s** (he gives).  
+* Negation often needs an **auxiliary** (can’t, don’t, doesn’t).  
 * English uses **articles** a lot (a/an/the).
 
 **Gate (Blueprint):**
 
-* You can explain, in Spanish or simple English, 5 rules you discovered from the sentences.
+* You can explain, in Spanish or simple English, 5 rules you discovered from the sentences.  
 * You can produce 10 new sentences by swapping words (apple → book; John → Maria) while keeping the same pattern.
 
 ---
 
-### Step 2 — Sound Lab (Week 1) — “Phonetic Upload”
+### Step 2 — Sound Lab (Week 1\) — “Phonetic Upload”
 
-**Goal:** train ears + mouth so your English is clear.
+**Goal:** train ears \+ mouth so your English is clear.
 
 **Rule:** for the first week, **limit reading**. Use audio first.
 
 **Daily actions (20–40 min):**
 
-1. **Listen** to clear slow English (beginner audio).
-2. **Shadow**: repeat immediately, copy rhythm and stress.
-3. Record yourself once per day (30 seconds).
+1. **Listen** to clear slow English (beginner audio).  
+2. **Shadow**: repeat immediately, copy rhythm and stress.  
+3. Record yourself once per day (30 seconds).  
 4. Fix only **one** sound per day.
 
 #### The big difference: Spanish vs English rhythm
 
-* Spanish is more **syllable‑timed** (each syllable similar length).
+* Spanish is more **syllable‑timed** (each syllable similar length).  
 * English is more **stress‑timed** (some syllables are strong, many are weak).
 
 **Metaphor:** English is like a drumbeat: **STRONG weak weak STRONG weak**.
@@ -204,46 +197,52 @@ Look at the English lines and ask:
 
 Work on these early:
 
-* **/ɪ/ vs /iː/**: ship vs sheep
-* **/æ/**: cat (not “ket”)
-* **/ʌ/**: cup (not “cap”)
-* **TH**: **/θ/** (think) and **/ð/** (this)
-* **H**: house (don’t drop the h)
-* Final consonants: “work”, “tests” (don’t eat the last sound)
-* **-ed endings**: worked /t/, played /d/, wanted /ɪd/
+* **/ɪ/ vs /iː/**: ship vs sheep  
+* **/æ/**: cat (not “ket”)  
+* **/ʌ/**: cup (not “cap”)  
+* **TH**: **/θ/** (think) and **/ð/** (this)  
+* **H**: house (don’t drop the h)  
+* Final consonants: “work”, “tests” (don’t eat the last sound)  
+* **\-ed endings**: worked /t/, played /d/, wanted /ɪd/
 
 If you want to use IPA, keep it small. Learn only the sounds you need.
 
 **Gate (Sound):**
 
-* You can read your 12 sentences out loud with clear stress and no “Spanish reading voice.”
+* You can read your 12 sentences out loud with clear stress and no “Spanish reading voice.”  
 * A listener can understand you without asking “What?” more than once per minute.
 
 ---
 
 ### Step 3 — Core Database (Weeks 2–4) — “80/20 engine”
 
-**Goal:** build a small “engine” of words + chunks that powers most sentences.
+**Goal:** build a small “engine” of words \+ chunks that powers most sentences.
 
-Target: **~625 high‑frequency items** (words + chunks). But we build it in a smart order.
+Target: **\~625 high‑frequency items** (words \+ chunks). But we build it in a smart order.
 
 **Idea simple:**
 
-* Sin “palabras pegamento”, no hay frases.
-* Sin “verbos despensa”, no puedes improvisar.
-* Sin “chunks”, suenas robot.
+* Sin “palabras pegamento”, no hay frases.  
+* Sin “verbos despensa”, no puedes improvisar.  
+* Sin “chunks”, suenas robot.  
 * Sin “frases de emergencia”, vuelves al español.
 
 #### 3.0 — El kit mínimo (si vas rápido)
 
 Si estás apurado, prioriza en este orden:
 
-1. **Top 100** palabras (top 100 habladas y top 100 escritas) de alta frecuencia (función).
-2. **10 conectores** (porque / pero / si…).
-3. **10 pantry verbs** (verbos despensa).
-4. **Modales** (can, must, should…).
-5. **Prime chunks** (frases de emergencia).
+1. **Top 100** palabras (top 100 habladas y top 100 escritas) de alta frecuencia (función).  
+2. **10 conectores** (porque / pero / si…).  
+3. **10 pantry verbs** (verbos despensa).  
+4. **Modales** (can, must, should…).  
+5. **Prime chunks** (frases de emergencia).  
 6. **Pragmatic chunks** (frases “fluídas”).
+
+#### 3.1 — El kit de 625 items de alta frecuencia
+
+A continuación encuentras el listado de los 625 items de alta frecuencia para inglés hablado:
+
+* **625 high-frecuency items:** [625 high-frequency items](https://docs.google.com/document/d/13RXvvKJJ9BxPJ938xydunmRQV0JssZIbK73fvoZEpZw/edit?usp=sharing) 
 
 ---
 
@@ -257,11 +256,12 @@ Ejemplos (EN): **the, a, to, of, in, on, for, with, is, are, you, it, that**.
 
 **Cómo meterlas en SRS:**
 
-* No uses “traducción = palabra”.
-* Mejor: mini‑frase + audio.
-
-  * Card: “___ is in the ___.” → the
-  * Card: “I go ___ work.” → to
+* No uses “traducción \= palabra”.  
+    
+* Mejor: mini‑frase \+ audio.  
+    
+  * Card: “\_\_\_ is in the \_\_\_.” → the  
+  * Card: “I go \_\_\_ work.” → to
 
 ---
 
@@ -269,12 +269,12 @@ Ejemplos (EN): **the, a, to, of, in, on, for, with, is, are, you, it, that**.
 
 **Meta:** aprender pocos conectores que multiplican tus frases.
 
-* **Lógicos:** but, because, although, however, if, or, so
+* **Lógicos:** but, because, although, however, if, or, so  
 * **Tiempo:** then, before, after, while, now
 
 **Ejemplo simple:**
 
-* I want coffee **but** I have no time.
+* I want coffee **but** I have no time.  
 * I stayed home **because** it was raining.
 
 **Regla:** aprende conectores como **chunks**, no como lista.
@@ -289,8 +289,8 @@ Ejemplos (EN): **the, a, to, of, in, on, for, with, is, are, you, it, that**.
 
 **Ejemplos (caveman):**
 
-* No sé “construir” → I **make** a house.
-* No sé “abandonar” → I **go** away.
+* No sé “construir” → I **make** a house.  
+* No sé “abandonar” → I **go** away.  
 * No sé “obtener” → I **get** it.
 
 **Clave:** estos verbos aparecen muchísimo. Son “multiherramientas”.
@@ -311,17 +311,17 @@ Ejemplos (EN): **the, a, to, of, in, on, for, with, is, are, you, it, that**.
 
 ---
 
-### 3E — Prime Chunks (kit de supervivencia — Day 1)
+### 3E — Prime Chunks (kit de supervivencia — Day 1\)
 
 **Son frases meta** para no “morir” en conversación.
 
 Memoriza y practica estas temprano:
 
-* “How do you say ___?”
-* “What does ___ mean?”
-* “Can you say that slower?”
-* “How do you spell that?”
-* “Can you repeat that?”
+* “How do you say \_\_\_?”  
+* “What does \_\_\_ mean?”  
+* “Can you say that slower?”  
+* “How do you spell that?”  
+* “Can you repeat that?”  
 * “Sorry, I mean…”
 
 **Regla:** estas frases te mantienen en inglés aunque estés perdido.
@@ -334,14 +334,14 @@ Memoriza y practica estas temprano:
 
 Ejemplos:
 
-* “It turns out…”
-* “As far as I know…”
-* “By the way…”
+* “It turns out…”  
+* “As far as I know…”  
+* “By the way…”  
 * “I was wondering if…”
 
 **Cómo aprenderlos:**
 
-* Audio → repite igual (ritmo + estrés).
+* Audio → repite igual (ritmo \+ estrés).  
 * Úsalos en 3 mini‑historias.
 
 ---
@@ -350,32 +350,32 @@ Ejemplos:
 
 Aquí entran dos cosas:
 
-* **Cognados + reglas de sufijos** (vocabulario “gratis”).
+* **Cognados \+ reglas de sufijos** (vocabulario “gratis”).  
 * **False friends** (trampas peligrosas).
 
 Esto es tan importante que tiene un apéndice propio. (Ver Apéndice 16).
 
 ---
 
-#### SRS card templates (para Step 3)
+#### SRS card templates (para Step 3\)
 
-* **Function word card:** mini‑frase con hueco + audio.
-* **Connector card:** dos frases conectadas (because/but/if).
-* **Pantry verb card:** “I ____ a decision.” → make
-* **Modal card:** “He must ____ now.” → go
-* **Prime chunk card:** audio de la frase completa → repetir + escribir.
+* **Function word card:** mini‑frase con hueco \+ audio.  
+* **Connector card:** dos frases conectadas (because/but/if).  
+* **Pantry verb card:** “I \_\_\_\_ a decision.” → make  
+* **Modal card:** “He must \_\_\_\_ now.” → go  
+* **Prime chunk card:** audio de la frase completa → repetir \+ escribir.  
 * **Pragmatic chunk card:** audio → repetir con entonación.
 
 **Daily actions (20–40 min):**
 
-* New cards: 10–20/day.
-* Reviews: todos los días.
+* New cards: 10–20/day.  
+* Reviews: todos los días.  
 * 5 minutos extra: usar 3 chunks en voz alta.
 
 **Gate (Database):**
 
-* Puedes usar **Top 100 + 10 conectores + 10 pantry verbs + 5 modales + 6 prime chunks** en frases reales.
-* En SRS, mantienes estabilidad (ej. 80–90% en maduras).
+* Puedes usar **Top 100 \+ 10 conectores \+ 10 pantry verbs \+ 5 modales \+ 6 prime chunks** en frases reales.  
+* En SRS, mantienes estabilidad (ej. 80–90% en maduras).  
 * Puedes improvisar (circunloquio) 5 veces: explicar algo sin la palabra exacta.
 
 ---
@@ -386,75 +386,72 @@ Esto es tan importante que tiene un apéndice propio. (Ver Apéndice 16).
 
 You need both:
 
-* **Input** (listen/read)
+* **Input** (listen/read)  
 * **Output** (speak/write)
 
 #### Input (30–60 min/day)
 
 Use content where you understand **70–80%**.
 
-* If you understand 95%, it is too easy.
+* If you understand 95%, it is too easy.  
 * If you understand 40%, it is too hard.
 
-**Rule:** do not stop every 5 seconds to translate.
-Instead:
+**Rule:** do not stop every 5 seconds to translate. Instead:
 
-1. Keep going.
-2. Mark the unknown word.
+1. Keep going.  
+2. Mark the unknown word.  
 3. Look it up later (only the important ones).
 
 #### Output (10–30 min/day)
 
 Pick one:
 
-* Talk to a tutor/partner.
-* Record yourself answering prompts.
+* Talk to a tutor/partner.  
+* Record yourself answering prompts.  
 * Write short texts and get corrections.
 
-**The “Mistake Rule”:** speak from day one.
-Sound stupid fast. Fix fast.
+**The “Mistake Rule”:** speak from day one. Sound stupid fast. Fix fast.
 
 #### “Glue grammar” (only when stuck)
 
-Do not study grammar like a religion.
-Use it like a wrench.
+Do not study grammar like a religion. Use it like a wrench.
 
 When you get stuck:
 
-1. Find the smallest rule that fixes the problem.
-2. Make 10 example sentences.
+1. Find the smallest rule that fixes the problem.  
+2. Make 10 example sentences.  
 3. Put 3 of them into SRS.
 
 **Gate (Immersion):**
 
-* You can hold a 10‑minute conversation using simple words.
+* You can hold a 10‑minute conversation using simple words.  
 * You can understand a beginner podcast/video without subtitles most of the time.
 
 ---
 
-### Step 5 — Language Islands (start in Week 4)
+### Step 5 — Language Islands (start in Week 4\)
 
 **Goal:** have safe starting scripts for real talk.
 
 Build 3–4 islands:
 
-1. Who I am
-2. What I do
-3. My hobbies
+1. Who I am  
+2. What I do  
+3. My hobbies  
 4. Why I am learning English
 
 **Template (simple):**
 
-* I am…
-* I live in…
-* I work/study…
-* I like…
-* Right now, I am learning English because…
+* I am…  
+* I live in…  
+* I work/study…  
+* I like…  
+* Right now, I am learning English because…  
 * My next goal is…
 
 **Gate (Islands):**
 
-* You can say each island smoothly, with good rhythm, without long pauses.
+* You can say each island smoothly, with good rhythm, without long pauses.  
 * You can answer 5 follow‑up questions about each island.
 
 ---
@@ -465,75 +462,75 @@ Build 3–4 islands:
 
 Pick ONE domain:
 
-* Work meetings
-* Job interviews
-* University lectures
-* Travel + airports
-* Tech + programming
-* Sales + negotiation
+* Work meetings  
+* Job interviews  
+* University lectures  
+* Travel \+ airports  
+* Tech \+ programming  
+* Sales \+ negotiation  
 * Any other domain you care about
 
 **Actions (core):**
 
-1. Make a “domain list” of 50 words/chunks you truly need.
-2. Make 10 role‑play scenarios.
+1. Make a “domain list” of 50 words/chunks you truly need.  
+2. Make 10 role‑play scenarios.  
 3. Practice with time pressure.
 
 ### 6.1 — Nota importante (tu “siguiente 625”)
 
-Después de dominar lo **más común general** (Top 100 + 625 + chunks base), tu siguiente gran salto es:
+Después de dominar lo **más común general** (Top 100 \+ 625 \+ chunks base), tu siguiente gran salto es:
 
-* Aprender **625 palabras/frases** de un área que te interese mucho.
-* Pero no “a ojo”.
+* Aprender **625 palabras/frases** de un área que te interese mucho.  
+* Pero no “a ojo”.  
 * Con **frecuencia real** del dominio.
 
 **Cómo:** usa una IA para generar una lista de **alta frecuencia** en tu tema (por ejemplo: programación, medicina, gaming, negocios).
 
-* Le das a la IA: 10–30 textos o transcripciones del dominio.
-* Le pides: “dame las palabras y chunks más frecuentes (sin stopwords) y ejemplos cortos.”
-* Luego lo metes a SRS como chunks + mini‑frases.
+* Le das a la IA: 10–30 textos o transcripciones del dominio.  
+* Le pides: “dame las palabras y chunks más frecuentes (sin stopwords) y ejemplos cortos.”  
+* Luego lo metes a SRS como chunks \+ mini‑frases.
 
 Esto es un “atajo de relevancia”: tu cerebro aprende más rápido cuando le importa.
 
 **Gate (Stakes):**
 
-* You can complete 3 scenarios with: clear speech, correct core grammar, and good repair (“Sorry, I mean…”) when you fail.
+* You can complete 3 scenarios with: clear speech, correct core grammar, and good repair (“Sorry, I mean…”) when you fail.  
 * Puedes mantener una conversación de 10–15 minutos sobre tu dominio con vocabulario específico.
 
 ---
 
-## 7) The universal daily routine (simple)
+## 7\) The universal daily routine (simple)
 
 Use this minimal routine when busy:
 
-* **SRS:** 15–25 minutes (non‑negotiable)
-* **Input:** 20 minutes
+* **SRS:** 15–25 minutes (non‑negotiable)  
+* **Input:** 20 minutes  
 * **Output:** 5–10 minutes
 
 When you have more time:
 
-* Add pronunciation drills.
+* Add pronunciation drills.  
 * Add longer conversations.
 
 ---
 
-## 8) The universal gate system (how you move forward)
+## 8\) The universal gate system (how you move forward)
 
 For each sub‑skill (a sound, a grammar pattern, a word group):
 
-1. **Explain:** you learn it in simple words.
-2. **Check:** you paraphrase it.
-3. **Test:** you answer questions that require prediction and creation.
-4. **Gate:** you need **3 correct answers in a row** (or 3 out of 4) to move on.
+1. **Explain:** you learn it in simple words.  
+2. **Check:** you paraphrase it.  
+3. **Test:** you answer questions that require prediction and creation.  
+4. **Gate:** you need **3 correct answers in a row** (or 3 out of 4\) to move on.
 
 If you fail:
 
-* You do not “restart life.”
+* You do not “restart life.”  
 * You go back one small step, fix the weak piece, then test again.
 
 ---
 
-## 9) Spanish‑speaker pitfalls (and fixes)
+## 9\) Spanish‑speaker pitfalls (and fixes)
 
 These are common traps. Use them as a checklist.
 
@@ -541,7 +538,7 @@ These are common traps. Use them as a checklist.
 
 Spanish can omit the subject. English usually cannot.
 
-* Spanish: “Estoy cansado.”
+* Spanish: “Estoy cansado.”  
 * English: “**I** am tired.”
 
 **Fix:** train “I / you / he / she / we / they” until it is automatic.
@@ -552,15 +549,15 @@ English uses articles constantly.
 
 **Fix (simple rule):**
 
-* **a/an** = one of many
-* **the** = the one we both know
+* **a/an** \= one of many  
+* **the** \= the one we both know
 
 ### Pitfall 3 — Negation and questions need helpers
 
 English often uses **do/does/did**.
 
-* I eat apples.
-* I **do not** eat apples.
+* I eat apples.  
+* I **do not** eat apples.  
 * **Do** you eat apples?
 
 **Fix:** add “do‑support” into your golden sentence set early.
@@ -579,20 +576,20 @@ Example: “actually” ≠ “actualmente.”
 
 ---
 
-## 10) Progress tracking (simple)
+## 10\) Progress tracking (simple)
 
 Track only what matters:
 
-* Minutes of SRS (done / not done)
-* Minutes of input
-* Minutes of output
-* One “big mistake of the day” + fix
+* Minutes of SRS (done / not done)  
+* Minutes of input  
+* Minutes of output  
+* One “big mistake of the day” \+ fix
 
 If you do this, you will not lie to yourself.
 
 ---
 
-## 11) Mastery tests (simple but real)
+## 11\) Mastery tests (simple but real)
 
 Use these as “final bosses.”
 
@@ -608,7 +605,7 @@ Given a situation, build 5 correct sentences fast.
 
 When you make a mistake, you can fix it in real time:
 
-* “Sorry, I mean…”
+* “Sorry, I mean…”  
 * “Let me say that again.”
 
 ### Test D — Transfer
@@ -617,62 +614,62 @@ You can use the same pattern in a new topic (not just memorized sentences).
 
 ---
 
-## 12) Appendix: upgraded golden set (optional)
+## 12\) Appendix: upgraded golden set (optional)
 
 After you finish Step 1, add 6 more sentences that expose missing English mechanics:
 
-* Do you like apples? (question formation)
-* I don’t like the apple. (do‑negation)
-* I didn’t eat the apple. (past + did)
-* I’m eating the apple. (present continuous)
-* I’ve been eating apples. (perfect continuous)
+* Do you like apples? (question formation)  
+* I don’t like the apple. (do‑negation)  
+* I didn’t eat the apple. (past \+ did)  
+* I’m eating the apple. (present continuous)  
+* I’ve been eating apples. (perfect continuous)  
 * If I had time, I would study. (conditional)
 
 Use the same analysis style.
 
 ---
 
-## 13) How to use this manual with an AI tutor
+## 13\) How to use this manual with an AI tutor
 
 If you use a tutor bot:
 
-* Always tell it your **current step**.
-* Ask it to test you with **new scenarios**, not memorized examples.
+* Always tell it your **current step**.  
+* Ask it to test you with **new scenarios**, not memorized examples.  
 * Demand **gates** before moving on.
 
 This is how you avoid feeling progress without having progress.
 
 ---
 
-## 14) Apéndice: Blueprint Deep Dive — “Español con huesos de inglés” (Golden Sentences)
+## 14\) Apéndice: Blueprint Deep Dive — “Español con huesos de inglés” (Golden Sentences)
 
 Este apéndice es una **expansión** de Step 1 (Blueprint).
 
 **Idea simple:**
 
-* Tú aún no tienes mucho vocabulario.
-* Pero sí puedes aprender el **esqueleto** (estructura).
-* Entonces tú escribes una frase en español, pero con el **orden** del inglés.
+* Tú aún no tienes mucho vocabulario.  
+* Pero sí puedes aprender el **esqueleto** (estructura).  
+* Entonces tú escribes una frase en español, pero con el **orden** del inglés.  
 * Eso te entrena a “pensar” en inglés, incluso con pocas palabras.
 
 **Importante:**
 
-* Las líneas “Español espejo” suenan raras. Eso está bien.
-* No es para hablar así con gente.
+* Las líneas “Español espejo” suenan raras. Eso está bien.  
+* No es para hablar así con gente.  
 * Es para ver el orden y la lógica del inglés.
 
 ### Cómo usar este apéndice (modo cavernícola)
 
-1. Lee la frase en español.
-2. Mira el inglés.
-3. Mira la **plantilla** (la fórmula).
-4. Mira el **Español espejo** (español en orden inglés).
-5. Cambia 1 cosa (un nombre, un objeto, un verbo) y repite.
+1. Lee la frase en español.  
+2. Mira el inglés.  
+3. Mira la **plantilla** (la fórmula).  
+4. Mira el **Español espejo** (español en orden inglés).  
+5. Cambia 1 cosa (un nombre, un objeto, un verbo) y repite.  
 6. Cuando puedas, deja el español y usa palabras reales en inglés.
 
-### La lista “oficial” (12 + bonus 13)
+### La lista “oficial” (12 \+ bonus 13\)
 
-En **The 4‑Hour Chef**, la lista se llama **“Deconstruction Dozen”** (12 frases) + una **bonus 13**.
+En **The 4‑Hour Chef**, la lista se llama **“Deconstruction Dozen”** (12 frases) \+ una **bonus 13**.
 
 A continuación van esas 13, y luego una extensión.
 
@@ -680,161 +677,216 @@ A continuación van esas 13, y luego una extensión.
 
 ## A) Las 13 Golden Sentences (oficiales) — con espejo estructural
 
-> **Formato**
->
-> * **ES (natural):** español normal.
-> * **EN:** la meta.
-> * **Plantilla:** fórmula de orden.
-> * **ES espejo:** español puesto con orden inglés.
-> * **Explicación:** por qué funciona.
+**Formato**
+
+* **ES (natural):** español normal.  
+* **EN:** la meta.  
+* **Plantilla:** fórmula de orden.  
+* **ES espejo:** español puesto con orden inglés.  
+* **Explicación:** por qué funciona.
 
 ### GS1
 
-* **ES (natural):** La manzana es roja.
-* **EN:** The apple is red.
-* **Plantilla:** **[The] + [NOUN] + [BE] + [ADJECTIVE]**
-* **ES espejo:** La manzana es roja. (aquí casi coincide)
-* **Explicación (simple):**
-
-  * En inglés casi siempre pones un artículo: **the / a**.
-  * “is” = “es/está” según el caso. Aquí es **is**.
+* **ES (natural):** La manzana es roja.  
+    
+* **EN:** The apple is red.  
+    
+* **Plantilla:** **\[The\] \+ \[NOUN\] \+ \[BE\] \+ \[ADJECTIVE\]**  
+    
+* **ES espejo:** La manzana es roja. (aquí casi coincide)  
+    
+* **Explicación (simple):**  
+    
+  * En inglés casi siempre pones un artículo: **the / a**.  
+  * “is” \= “es/está” según el caso. Aquí es **is**.
 
 ### GS2
 
-* **ES (natural):** Es la manzana de Juan.
-* **EN:** It is John’s apple.
-* **Plantilla:** **[IT] + [BE] + [OWNER]’s + [THING]**
-* **ES espejo:** Eso es **Juan‑su** manzana.
-* **Explicación (simple):**
-
-  * Inglés puede marcar posesión con **’s**.
-  * La idea es: **dueño primero**, cosa después.
+* **ES (natural):** Es la manzana de Juan.  
+    
+* **EN:** It is John’s apple.  
+    
+* **Plantilla:** **\[IT\] \+ \[BE\] \+ \[OWNER\]’s \+ \[THING\]**  
+    
+* **ES espejo:** Eso es **Juan‑su** manzana.  
+    
+* **Explicación (simple):**  
+    
+  * Inglés puede marcar posesión con **’s**.  
+  * La idea es: **dueño primero**, cosa después.  
   * “it” (eso/esto) se usa mucho. Inglés no lo omite fácil.
 
 ### GS3
 
-* **ES (natural):** Le doy la manzana a Juan.
-* **EN:** I give John the apple.
-* **Plantilla:** **[SUBJ] + [VERB] + [INDIRECT PERSON] + [DIRECT THING]**
-* **ES espejo:** Yo doy Juan la manzana.
-* **Explicación (simple):**
+* **ES (natural):** Le doy la manzana a Juan.  
+    
+* **EN:** I give John the apple.  
+    
+* **Plantilla:** **\[SUBJ\] \+ \[VERB\] \+ \[INDIRECT PERSON\] \+ \[DIRECT THING\]**  
+    
+* **ES espejo:** Yo doy Juan la manzana.  
+    
+* **Explicación (simple):**  
+    
+  * Inglés permite dos estructuras:  
+      
+    1. **I give John the apple.** (persona primero)  
+    2. **I give the apple to John.** (cosa primero \+ to)
 
-  * Inglés permite dos estructuras:
+    
 
-    1. **I give John the apple.** (persona primero)
-    2. **I give the apple to John.** (cosa primero + to)
   * Con poco vocabulario, tú aprendes el orden, y luego cambias “apple” por cualquier cosa.
 
 ### GS4
 
-* **ES (natural):** Le damos la manzana.
-* **EN:** We give him the apple.
-* **Plantilla:** **[SUBJ] + [VERB] + [HIM/HER/THEM] + [THING]**
-* **ES espejo:** Nosotros damos **él** la manzana.
-* **Explicación (simple):**
-
-  * Inglés pone el pronombre de persona después del verbo: **give him**.
+* **ES (natural):** Le damos la manzana.  
+    
+* **EN:** We give him the apple.  
+    
+* **Plantilla:** **\[SUBJ\] \+ \[VERB\] \+ \[HIM/HER/THEM\] \+ \[THING\]**  
+    
+* **ES espejo:** Nosotros damos **él** la manzana.  
+    
+* **Explicación (simple):**  
+    
+  * Inglés pone el pronombre de persona después del verbo: **give him**.  
   * Nota: en inglés aquí no dice “to him” porque usa la forma “doble objeto” implícita.
 
 ### GS5
 
-* **ES (natural):** Él se la da a Juan.
-* **EN:** He gives it to John.
-* **Plantilla:** **[SUBJ] + [VERB] + [IT] + to + [NAME]**
-* **ES espejo:** Él da **eso** a Juan.
-* **Explicación (simple):**
-
-  * Aquí el objeto es “it” (eso).
+* **ES (natural):** Él se la da a Juan.  
+    
+* **EN:** He gives it to John.  
+    
+* **Plantilla:** **\[SUBJ\] \+ \[VERB\] \+ \[IT\] \+ to \+ \[NAME\]**  
+    
+* **ES espejo:** Él da **eso** a Juan.  
+    
+* **Explicación (simple):**  
+    
+  * Aquí el objeto es “it” (eso).  
   * Regla clave: si el objeto es pronombre (“it”), suele ir **antes** de “to John”.
 
 ### GS6
 
-* **ES (natural):** Ella se la da a él.
-* **EN:** She gives it to him.
-* **Plantilla:** **[SUBJ] + [VERB] + [IT] + to + [HIM]**
-* **ES espejo:** Ella da eso a él.
-* **Explicación (simple):**
-
-  * “him”/“her”/“them” son pronombres de objeto.
+* **ES (natural):** Ella se la da a él.  
+    
+* **EN:** She gives it to him.  
+    
+* **Plantilla:** **\[SUBJ\] \+ \[VERB\] \+ \[IT\] \+ to \+ \[HIM\]**  
+    
+* **ES espejo:** Ella da eso a él.  
+    
+* **Explicación (simple):**  
+    
+  * “him”/“her”/“them” son pronombres de objeto.  
   * En inglés, muchas veces los necesitas explícitos.
 
 ### GS7
 
-* **ES (natural):** ¿La manzana es roja?
-* **EN:** Is the apple red?
-* **Plantilla:** **[BE] + [SUBJ] + [ADJECTIVE]?**
-* **ES espejo:** ¿Es la manzana roja?
-* **Explicación (simple):**
-
-  * Con “to be”, el inglés hace pregunta con **inversión**:
-
+* **ES (natural):** ¿La manzana es roja?  
+    
+* **EN:** Is the apple red?  
+    
+* **Plantilla:** **\[BE\] \+ \[SUBJ\] \+ \[ADJECTIVE\]?**  
+    
+* **ES espejo:** ¿Es la manzana roja?  
+    
+* **Explicación (simple):**  
+    
+  * Con “to be”, el inglés hace pregunta con **inversión**:  
+      
     * The apple **is** red. → **Is** the apple red?
 
 ### GS8
 
-* **ES (natural):** Las manzanas son rojas.
-* **EN:** The apples are red.
-* **Plantilla:** **[The] + [PLURAL NOUN] + [ARE] + [ADJECTIVE]**
-* **ES espejo:** Las manzanas son rojas.
-* **Explicación (simple):**
-
-  * Plural en inglés normalmente = **-s** (apples).
+* **ES (natural):** Las manzanas son rojas.  
+    
+* **EN:** The apples are red.  
+    
+* **Plantilla:** **\[The\] \+ \[PLURAL NOUN\] \+ \[ARE\] \+ \[ADJECTIVE\]**  
+    
+* **ES espejo:** Las manzanas son rojas.  
+    
+* **Explicación (simple):**  
+    
+  * Plural en inglés normalmente \= **\-s** (apples).  
   * “are” se usa con plural.
 
 ### GS9
 
-* **ES (natural):** Debo dársela a él.
-* **EN:** I must give it to him.
-* **Plantilla:** **[SUBJ] + MUST + [BASE VERB] + [IT] + to + [HIM]**
-* **ES espejo:** Yo debo dar eso a él.
-* **Explicación (simple):**
-
-  * “must” es un **modal** (verbo ayudante fuerte).
+* **ES (natural):** Debo dársela a él.  
+    
+* **EN:** I must give it to him.  
+    
+* **Plantilla:** **\[SUBJ\] \+ MUST \+ \[BASE VERB\] \+ \[IT\] \+ to \+ \[HIM\]**  
+    
+* **ES espejo:** Yo debo dar eso a él.  
+    
+* **Explicación (simple):**  
+    
+  * “must” es un **modal** (verbo ayudante fuerte).  
   * Después de “must”, el verbo va **en forma base**: give (no gives).
 
 ### GS10
 
-* **ES (natural):** Quiero dársela a ella.
-* **EN:** I want to give it to her.
-* **Plantilla:** **[SUBJ] + WANT + to + [BASE VERB] + [IT] + to + [HER]**
-* **ES espejo:** Yo quiero **a** dar eso a ella.
-* **Explicación (simple):**
-
-  * Inglés usa “to” para el infinitivo: **want to give**.
+* **ES (natural):** Quiero dársela a ella.  
+    
+* **EN:** I want to give it to her.  
+    
+* **Plantilla:** **\[SUBJ\] \+ WANT \+ to \+ \[BASE VERB\] \+ \[IT\] \+ to \+ \[HER\]**  
+    
+* **ES espejo:** Yo quiero **a** dar eso a ella.  
+    
+* **Explicación (simple):**  
+    
+  * Inglés usa “to” para el infinitivo: **want to give**.  
   * Español muchas veces no lo pone (“quiero dar”).
 
 ### GS11
 
-* **ES (natural):** Voy a saber mañana.
-* **EN:** I’m going to know tomorrow.
-* **Plantilla:** **[SUBJ] + AM/IS/ARE + going to + [BASE VERB] + [TIME]**
-* **ES espejo:** Yo estoy yendo a saber mañana.
-* **Explicación (simple):**
-
-  * “going to” aquí no es caminar. Es **futuro planeado**.
+* **ES (natural):** Voy a saber mañana.  
+    
+* **EN:** I’m going to know tomorrow.  
+    
+* **Plantilla:** **\[SUBJ\] \+ AM/IS/ARE \+ going to \+ \[BASE VERB\] \+ \[TIME\]**  
+    
+* **ES espejo:** Yo estoy yendo a saber mañana.  
+    
+* **Explicación (simple):**  
+    
+  * “going to” aquí no es caminar. Es **futuro planeado**.  
   * Inglés usa “am/is/are” como motor del tiempo.
 
 ### GS12
 
-* **ES (natural):** No puedo comer la manzana.
-* **EN:** I can’t eat the apple.
-* **Plantilla:** **[SUBJ] + CAN’T + [BASE VERB] + [OBJECT]**
-* **ES espejo:** Yo no‑puedo comer la manzana.
-* **Explicación (simple):**
-
-  * “can’t” = **can + not**.
+* **ES (natural):** No puedo comer la manzana.  
+    
+* **EN:** I can’t eat the apple.  
+    
+* **Plantilla:** **\[SUBJ\] \+ CAN’T \+ \[BASE VERB\] \+ \[OBJECT\]**  
+    
+* **ES espejo:** Yo no‑puedo comer la manzana.  
+    
+* **Explicación (simple):**  
+    
+  * “can’t” \= **can \+ not**.  
   * Después de “can/can’t”, el verbo va base: eat.
 
 ### GS13 (Bonus)
 
-* **ES (natural):** He comido la manzana.
-* **EN:** I have eaten the apple.
-* **Plantilla:** **[SUBJ] + HAVE/HAS + [PAST PARTICIPLE] + [OBJECT]**
-* **ES espejo:** Yo he comido la manzana.
-* **Explicación (simple):**
-
-  * Esto es **present perfect**.
-  * “have” aquí no es “tener” literal. Es un ayudante de tiempo.
+* **ES (natural):** He comido la manzana.  
+    
+* **EN:** I have eaten the apple.  
+    
+* **Plantilla:** **\[SUBJ\] \+ HAVE/HAS \+ \[PAST PARTICIPLE\] \+ \[OBJECT\]**  
+    
+* **ES espejo:** Yo he comido la manzana.  
+    
+* **Explicación (simple):**  
+    
+  * Esto es **present perfect**.  
+  * “have” aquí no es “tener” literal. Es un ayudante de tiempo.  
   * “eaten” es participio (irregular). Con regular sería: worked, played.
 
 ---
@@ -845,66 +897,90 @@ Estas 6 enseñan cosas que el set base no muestra lo suficiente: **preguntas con
 
 ### EX1 — Pregunta con DO (do‑support)
 
-* **ES (natural):** ¿Te gustan las manzanas?
-* **EN:** Do you like apples?
-* **Plantilla:** **DO + [SUBJ] + [BASE VERB] + [OBJECT]?**
-* **ES espejo:** ¿Haces tú gustar manzanas?
-* **Explicación (simple):**
-
-  * Con la mayoría de verbos (no “to be”), inglés usa **do/does** para preguntar.
+* **ES (natural):** ¿Te gustan las manzanas?  
+    
+* **EN:** Do you like apples?  
+    
+* **Plantilla:** **DO \+ \[SUBJ\] \+ \[BASE VERB\] \+ \[OBJECT\]?**  
+    
+* **ES espejo:** ¿Haces tú gustar manzanas?  
+    
+* **Explicación (simple):**  
+    
+  * Con la mayoría de verbos (no “to be”), inglés usa **do/does** para preguntar.  
   * Ojo: aquí “do” no significa “hacer” real. Es un **botón de pregunta**.
 
 ### EX2 — Negación con DON’T
 
-* **ES (natural):** No me gusta la manzana.
-* **EN:** I don’t like the apple.
-* **Plantilla:** **[SUBJ] + DON’T + [BASE VERB] + [OBJECT]**
-* **ES espejo:** Yo no‑hago gustar la manzana.
-* **Explicación (simple):**
-
-  * “don’t” = do + not.
+* **ES (natural):** No me gusta la manzana.  
+    
+* **EN:** I don’t like the apple.  
+    
+* **Plantilla:** **\[SUBJ\] \+ DON’T \+ \[BASE VERB\] \+ \[OBJECT\]**  
+    
+* **ES espejo:** Yo no‑hago gustar la manzana.  
+    
+* **Explicación (simple):**  
+    
+  * “don’t” \= do \+ not.  
   * Regla clave: el verbo principal queda en base: like (no likes).
 
 ### EX3 — Pasado negativo con DIDN’T
 
-* **ES (natural):** No comí la manzana.
-* **EN:** I didn’t eat the apple.
-* **Plantilla:** **[SUBJ] + DIDN’T + [BASE VERB] + [OBJECT]**
-* **ES espejo:** Yo no‑hice comer la manzana.
-* **Explicación (simple):**
-
-  * “did” carga el pasado.
+* **ES (natural):** No comí la manzana.  
+    
+* **EN:** I didn’t eat the apple.  
+    
+* **Plantilla:** **\[SUBJ\] \+ DIDN’T \+ \[BASE VERB\] \+ \[OBJECT\]**  
+    
+* **ES espejo:** Yo no‑hice comer la manzana.  
+    
+* **Explicación (simple):**  
+    
+  * “did” carga el pasado.  
   * Por eso el verbo principal vuelve a base: eat (no ate).
 
 ### EX4 — Presente continuo
 
-* **ES (natural):** Estoy comiendo la manzana.
-* **EN:** I’m eating the apple.
-* **Plantilla:** **[SUBJ] + AM/IS/ARE + [VERB‑ING] + [OBJECT]**
-* **ES espejo:** Yo estoy comiendo la manzana.
-* **Explicación (simple):**
-
-  * “be” + “‑ing” = acción en progreso (ahora / alrededor de ahora).
+* **ES (natural):** Estoy comiendo la manzana.  
+    
+* **EN:** I’m eating the apple.  
+    
+* **Plantilla:** **\[SUBJ\] \+ AM/IS/ARE \+ \[VERB‑ING\] \+ \[OBJECT\]**  
+    
+* **ES espejo:** Yo estoy comiendo la manzana.  
+    
+* **Explicación (simple):**  
+    
+  * “be” \+ “‑ing” \= acción en progreso (ahora / alrededor de ahora).
 
 ### EX5 — Perfecto continuo
 
-* **ES (natural):** He estado comiendo manzanas.
-* **EN:** I’ve been eating apples.
-* **Plantilla:** **[SUBJ] + HAVE/HAS + BEEN + [VERB‑ING] + [OBJECT]**
-* **ES espejo:** Yo he sido/estado comiendo manzanas.
-* **Explicación (simple):**
-
-  * “have been” + “‑ing” = empezó antes y sigue / tiene continuidad.
+* **ES (natural):** He estado comiendo manzanas.  
+    
+* **EN:** I’ve been eating apples.  
+    
+* **Plantilla:** **\[SUBJ\] \+ HAVE/HAS \+ BEEN \+ \[VERB‑ING\] \+ \[OBJECT\]**  
+    
+* **ES espejo:** Yo he sido/estado comiendo manzanas.  
+    
+* **Explicación (simple):**  
+    
+  * “have been” \+ “‑ing” \= empezó antes y sigue / tiene continuidad.
 
 ### EX6 — Condicional (irreal)
 
-* **ES (natural):** Si tuviera tiempo, estudiaría.
-* **EN:** If I had time, I would study.
-* **Plantilla:** **IF + [PAST FORM] , [WOULD] + [BASE VERB]**
-* **ES espejo:** Si yo tenía tiempo, yo haría estudiar.
-* **Explicación (simple):**
-
-  * “had” aquí no es pasado real. Es “irreal / hipotético”.
+* **ES (natural):** Si tuviera tiempo, estudiaría.  
+    
+* **EN:** If I had time, I would study.  
+    
+* **Plantilla:** **IF \+ \[PAST FORM\] , \[WOULD\] \+ \[BASE VERB\]**  
+    
+* **ES espejo:** Si yo tenía tiempo, yo haría estudiar.  
+    
+* **Explicación (simple):**  
+    
+  * “had” aquí no es pasado real. Es “irreal / hipotético”.  
   * “would” marca el resultado.
 
 ---
@@ -915,104 +991,144 @@ Si quieres más “huesos” del inglés, usa estas.
 
 ### P1 — Existencia (There is / There are)
 
-* **ES (natural):** Hay un problema.
-* **EN:** There is a problem.
-* **Plantilla:** **THERE + IS + [NOUN]**
-* **ES espejo:** Allí‑hay un problema.
-* **Explicación (simple):**
-
+* **ES (natural):** Hay un problema.  
+    
+* **EN:** There is a problem.  
+    
+* **Plantilla:** **THERE \+ IS \+ \[NOUN\]**  
+    
+* **ES espejo:** Allí‑hay un problema.  
+    
+* **Explicación (simple):**  
+    
   * “there” aquí no es lugar real. Es un **muñeco** (sujeto falso) para decir “existe”.
 
 ### P2 — Plural de existencia
 
-* **ES (natural):** Hay dos problemas.
-* **EN:** There are two problems.
-* **Plantilla:** **THERE + ARE + [NUMBER] + [PLURAL NOUN]**
-* **ES espejo:** Allí‑hay dos problemas.
-* **Explicación (simple):**
-
+* **ES (natural):** Hay dos problemas.  
+    
+* **EN:** There are two problems.  
+    
+* **Plantilla:** **THERE \+ ARE \+ \[NUMBER\] \+ \[PLURAL NOUN\]**  
+    
+* **ES espejo:** Allí‑hay dos problemas.  
+    
+* **Explicación (simple):**  
+    
   * “are” va con plural.
 
 ### P3 — Obligación común (have to)
 
-* **ES (natural):** Tengo que irme.
-* **EN:** I have to go.
-* **Plantilla:** **[SUBJ] + HAVE TO + [BASE VERB]**
-* **ES espejo:** Yo tengo que ir.
-* **Explicación (simple):**
-
-  * “have to” = obligación (como “tener que”).
+* **ES (natural):** Tengo que irme.  
+    
+* **EN:** I have to go.  
+    
+* **Plantilla:** **\[SUBJ\] \+ HAVE TO \+ \[BASE VERB\]**  
+    
+* **ES espejo:** Yo tengo que ir.  
+    
+* **Explicación (simple):**  
+    
+  * “have to” \= obligación (como “tener que”).
 
 ### P4 — Necesito que tú… (need you to…)
 
-* **ES (natural):** Necesito que me ayudes.
-* **EN:** I need you to help me.
-* **Plantilla:** **[SUBJ] + NEED + [PERSON] + to + [BASE VERB] + [OBJECT]**
-* **ES espejo:** Yo necesito tú a ayudarme.
-* **Explicación (simple):**
-
-  * Inglés pone la persona directa: “you”.
-  * Luego “to + verbo”.
+* **ES (natural):** Necesito que me ayudes.  
+    
+* **EN:** I need you to help me.  
+    
+* **Plantilla:** **\[SUBJ\] \+ NEED \+ \[PERSON\] \+ to \+ \[BASE VERB\] \+ \[OBJECT\]**  
+    
+* **ES espejo:** Yo necesito tú a ayudarme.  
+    
+* **Explicación (simple):**  
+    
+  * Inglés pone la persona directa: “you”.  
+  * Luego “to \+ verbo”.
 
 ### P5 — Pregunta con CAN
 
-* **ES (natural):** ¿Puedes ayudarme?
-* **EN:** Can you help me?
-* **Plantilla:** **CAN + [SUBJ] + [BASE VERB] + [OBJECT]?**
-* **ES espejo:** ¿Puedes tú ayudarme?
-* **Explicación (simple):**
-
+* **ES (natural):** ¿Puedes ayudarme?  
+    
+* **EN:** Can you help me?  
+    
+* **Plantilla:** **CAN \+ \[SUBJ\] \+ \[BASE VERB\] \+ \[OBJECT\]?**  
+    
+* **ES espejo:** ¿Puedes tú ayudarme?  
+    
+* **Explicación (simple):**  
+    
   * Modal al inicio para pregunta: Can you…?
 
 ### P6 — WH‑pregunta con DO
 
-* **ES (natural):** ¿Dónde vives?
-* **EN:** Where do you live?
-* **Plantilla:** **WHERE + DO + [SUBJ] + [BASE VERB]?**
-* **ES espejo:** ¿Dónde haces tú vivir?
-* **Explicación (simple):**
-
-  * WH‑palabra + do + sujeto + verbo base.
+* **ES (natural):** ¿Dónde vives?  
+    
+* **EN:** Where do you live?  
+    
+* **Plantilla:** **WHERE \+ DO \+ \[SUBJ\] \+ \[BASE VERB\]?**  
+    
+* **ES espejo:** ¿Dónde haces tú vivir?  
+    
+* **Explicación (simple):**  
+    
+  * WH‑palabra \+ do \+ sujeto \+ verbo base.
 
 ### P7 — “No sé” en inglés real
 
-* **ES (natural):** No sé.
-* **EN:** I don’t know.
-* **Plantilla:** **[SUBJ] + DON’T + [BASE VERB]**
-* **ES espejo:** Yo no‑hago saber.
-* **Explicación (simple):**
-
-  * De nuevo: don’t = do not.
+* **ES (natural):** No sé.  
+    
+* **EN:** I don’t know.  
+    
+* **Plantilla:** **\[SUBJ\] \+ DON’T \+ \[BASE VERB\]**  
+    
+* **ES espejo:** Yo no‑hago saber.  
+    
+* **Explicación (simple):**  
+    
+  * De nuevo: don’t \= do not.
 
 ### P8 — Comparación
 
-* **ES (natural):** Esto es más grande que eso.
-* **EN:** This is bigger than that.
-* **Plantilla:** **THIS + IS + [COMPARATIVE] + THAN + THAT**
-* **ES espejo:** Esto es más‑grande que eso.
-* **Explicación (simple):**
-
-  * Muchas comparaciones usan “‑er” + than.
+* **ES (natural):** Esto es más grande que eso.  
+    
+* **EN:** This is bigger than that.  
+    
+* **Plantilla:** **THIS \+ IS \+ \[COMPARATIVE\] \+ THAN \+ THAT**  
+    
+* **ES espejo:** Esto es más‑grande que eso.  
+    
+* **Explicación (simple):**  
+    
+  * Muchas comparaciones usan “‑er” \+ than.
 
 ### P9 — Frase con “that” (sub‑oración)
 
-* **ES (natural):** Creo que él está aquí.
-* **EN:** I think that he is here.
-* **Plantilla:** **I THINK (THAT) + [SENTENCE]**
-* **ES espejo:** Yo pienso que él está aquí.
-* **Explicación (simple):**
-
+* **ES (natural):** Creo que él está aquí.  
+    
+* **EN:** I think that he is here.  
+    
+* **Plantilla:** **I THINK (THAT) \+ \[SENTENCE\]**  
+    
+* **ES espejo:** Yo pienso que él está aquí.  
+    
+* **Explicación (simple):**  
+    
   * “that” a veces se puede omitir, pero es útil para ver la estructura.
 
 ### P10 — Pasiva básica
 
-* **ES (natural):** La manzana fue comida.
-* **EN:** The apple was eaten.
-* **Plantilla:** **[OBJECT] + WAS/WERE + [PAST PARTICIPLE]**
-* **ES espejo:** La manzana fue comida.
-* **Explicación (simple):**
-
-  * Pasiva = “be” + participio.
+* **ES (natural):** La manzana fue comida.  
+    
+* **EN:** The apple was eaten.  
+    
+* **Plantilla:** **\[OBJECT\] \+ WAS/WERE \+ \[PAST PARTICIPLE\]**  
+    
+* **ES espejo:** La manzana fue comida.  
+    
+* **Explicación (simple):**  
+    
+  * Pasiva \= “be” \+ participio.  
   * Sirve para enfocarte en el objeto, no en quién lo hizo.
 
 ---
@@ -1023,8 +1139,8 @@ Si quieres más “huesos” del inglés, usa estas.
 
 Toma una plantilla (por ejemplo GS3) y cambia:
 
-* Juan → María
-* manzana → libro
+* Juan → María  
+* manzana → libro  
 * dar → mostrar
 
 Haz 10 variaciones.
@@ -1033,34 +1149,34 @@ Haz 10 variaciones.
 
 Toma una oración y crea 3 versiones:
 
-* Afirmación: You like apples.
-* Negación: You don’t like apples.
+* Afirmación: You like apples.  
+* Negación: You don’t like apples.  
 * Pregunta: Do you like apples?
 
 ### Ejercicio 3 — Mini‑SRS
 
 Mete en SRS:
 
-* La **plantilla** (texto corto)
+* La **plantilla** (texto corto)  
 * 2–3 ejemplos tuyos
 
 Meta: que el orden salga automático.
 
 ---
 
-## 15) Apéndice: Motor 80/20 (Step 3 Deep Dive) — “Átomos → Pegamento → Multiherramientas → Bloques”
+## 15\) Apéndice: Motor 80/20 (Step 3 Deep Dive) — “Átomos → Pegamento → Multiherramientas → Bloques”
 
-Este apéndice profundiza Step 3.
+Este apéndice profundiza Step 3\.
 
 **Meta:** sonar competente con poco vocabulario.
 
 ### 15.1 El orden correcto (para no perder tiempo)
 
-1. **Top 100 Habladas y Escritas** (palabras función)
-2. **Conectores** (pegamento)
-3. **Pantry verbs** (multiherramientas)
-4. **Modales** (atajo gramatical)
-5. **Prime chunks** (supervivencia)
+1. **Top 100 Habladas y Escritas** (palabras función)  
+2. **Conectores** (pegamento)  
+3. **Pantry verbs** (multiherramientas)  
+4. **Modales** (atajo gramatical)  
+5. **Prime chunks** (supervivencia)  
 6. **Pragmatic chunks** (fluidez)
 
 Si haces esto, tu inglés deja de ser “lista de sustantivos” y se vuelve “máquina”.
@@ -1075,11 +1191,11 @@ Solución: aprende **por patrón**, no por traducción.
 
 **Plantillas para cards:**
 
-* “I’m ___ home.” → at
-* “I’m going ___ work.” → to
-* “This is ___ problem.” → a
-* “This is ___ problem we talked about.” → the
-* “It depends ___ you.” → on
+* “I’m \_\_\_ home.” → at  
+* “I’m going \_\_\_ work.” → to  
+* “This is \_\_\_ problem.” → a  
+* “This is \_\_\_ problem we talked about.” → the  
+* “It depends \_\_\_ you.” → on
 
 **Regla:** cada función word vive mejor dentro de una mini‑frase.
 
@@ -1095,12 +1211,12 @@ Aprende 10 primero, luego amplías.
 
 **Ejercicio cavernícola (5 min):**
 
-* Di 2 frases simples.
+* Di 2 frases simples.  
 * Únelas con 1 conector.
 
 Ejemplo:
 
-* I want to go. **But** I’m tired.
+* I want to go. **But** I’m tired.  
 * I stayed home **because** it was raining.
 
 ---
@@ -1111,20 +1227,21 @@ Esto se llama **circunloquio**: explicar sin la palabra exacta.
 
 **Plantillas útiles:**
 
-* I **make** a plan.
-* I **do** a test.
-* I **get** a result.
-* I **take** a break.
-* I **go** back.
-* I **say** it again.
-* I **see** the problem.
+* I **make** a plan.  
+* I **do** a test.  
+* I **get** a result.  
+* I **take** a break.  
+* I **go** back.  
+* I **say** it again.  
+* I **see** the problem.  
 * I **know** the answer.
 
 **Ejercicio:**
 
-1. Elige una palabra que NO sabes (ej: “to install”).
-2. Explica con pantry verbs:
-
+1. Elige una palabra que NO sabes (ej: “to install”).  
+     
+2. Explica con pantry verbs:  
+     
    * “I **put** the program on my computer.” (si no sabes “install”, puedes usar “put”.)
 
 *Nota:* “put” no está en los 10, pero puedes añadirlo pronto porque es ultra común.
@@ -1133,17 +1250,17 @@ Esto se llama **circunloquio**: explicar sin la palabra exacta.
 
 ### 15.5 Modales (el bypass)
 
-**Regla mecánica:** modal + verbo base.
+**Regla mecánica:** modal \+ verbo base.
 
-* I can go
-* I must go
-* I should go
-* I might go
+* I can go  
+* I must go  
+* I should go  
+* I might go  
 * I will go
 
 **Por qué importa:**
 
-* Te deja hablar con menos conjugación.
+* Te deja hablar con menos conjugación.  
 * Te deja expresar intención (puedo/debo/debería/quizá/voy a).
 
 ---
@@ -1154,16 +1271,16 @@ Memoriza como sonidos completos.
 
 **Set mínimo:**
 
-* How do you say ___?
-* What does ___ mean?
-* Can you say that slower?
-* How do you spell that?
-* Can you repeat that?
+* How do you say \_\_\_?  
+* What does \_\_\_ mean?  
+* Can you say that slower?  
+* How do you spell that?  
+* Can you repeat that?  
 * Sorry, I mean…
 
 **Ejercicio rápido:**
 
-* Practica en voz alta 10 veces cada una.
+* Practica en voz alta 10 veces cada una.  
 * Luego en conversación, úsalas sin pensar.
 
 ---
@@ -1174,11 +1291,12 @@ No los analices demasiado. Cópialos.
 
 **Ejercicio:**
 
-* Escoge 1 chunk.
-* Crea 3 mini‑frases:
-
-  * “By the way, I’m from Colombia.”
-  * “By the way, I have a question.”
+* Escoge 1 chunk.  
+    
+* Crea 3 mini‑frases:  
+    
+  * “By the way, I’m from Colombia.”  
+  * “By the way, I have a question.”  
   * “By the way, can you repeat that?”
 
 ---
@@ -1187,36 +1305,35 @@ No los analices demasiado. Cópialos.
 
 Para decir “pasé Step 3”, el usuario debe:
 
-* Formar 20 frases con: Top 100 + conectores.
-* Improvisar 5 veces con pantry verbs.
-* Transformar 5 frases a: afirmación → negación → pregunta.
+* Formar 20 frases con: Top 100 \+ conectores.  
+* Improvisar 5 veces con pantry verbs.  
+* Transformar 5 frases a: afirmación → negación → pregunta.  
 * Usar 3 prime chunks en una mini conversación simulada.
 
 ---
 
-## 16) Apéndice: Puentes y Trampas (Cognados + Sufijos + False Friends)
+## 16\) Apéndice: Puentes y Trampas (Cognados \+ Sufijos \+ False Friends)
 
 Este apéndice te da “vocabulario gratis” y evita errores vergonzosos.
 
 ### 16.1 Puentes: cognados verdaderos (vocabulario casi gratis)
 
-Hay palabras parecidas en inglés y español que significan lo mismo.
-Ejemplos: actor, hotel, alcohol.
+Hay palabras parecidas en inglés y español que significan lo mismo. Ejemplos: actor, hotel, alcohol.
 
 **Hack poderoso:** aprende reglas de **sufijos** (multiplicadores).
 
 **Reglas comunes (ejemplos):**
 
-* English **-tion** → Spanish **-ción**: information → información
-* English **-ity** → Spanish **-dad / -idad**: activity → actividad
-* English **-ic** → Spanish **-ico**: automatic → automático
-* English **-ous** → Spanish **-oso**: famous → famoso
-* English **-al** → Spanish **-al**: natural → natural
+* English **\-tion** → Spanish **\-ción**: information → información  
+* English **\-ity** → Spanish **\-dad / \-idad**: activity → actividad  
+* English **\-ic** → Spanish **\-ico**: automatic → automático  
+* English **\-ous** → Spanish **\-oso**: famous → famoso  
+* English **\-al** → Spanish **\-al**: natural → natural
 
 **Cómo usarlo (simple):**
 
-1. Aprende 5–10 reglas.
-2. Busca 20 ejemplos.
+1. Aprende 5–10 reglas.  
+2. Busca 20 ejemplos.  
 3. Mete esos ejemplos en SRS como mini‑frases.
 
 **Gate (cognados):**
@@ -1227,60 +1344,69 @@ Ejemplos: actor, hotel, alcohol.
 
 ### 16.2 Trampas: false friends (peligro alto)
 
-Son palabras que se parecen, pero significan otra cosa.
-Esto causa malentendidos grandes.
+Son palabras que se parecen, pero significan otra cosa. Esto causa malentendidos grandes.
 
 **Lista “alta alerta” (muy comunes):**
 
-* actually = en realidad (NO “actualmente”)
-* currently = actualmente
-* eventually = finalmente (NO “eventualmente”)
-* sensible = sensato (NO “sensible” emocional)
-* sensitive = sensible (emocional)
-* embarrassed = avergonzado (NO “embarazada”)
-* pregnant = embarazada
-* pretend = fingir (NO “pretender”)
-* assist = ayudar (NO “asistir” como “ir a”)
-* attend = asistir (ir a)
-* realize = darse cuenta (NO “realizar”)
-* library = biblioteca (NO “librería”)
-* bookstore = librería
-* parents = padres (NO “parientes”)
-* relatives = parientes
+* actually \= en realidad (NO “actualmente”)  
+* currently \= actualmente  
+* eventually \= finalmente (NO “eventualmente”)  
+* sensible \= sensato (NO “sensible” emocional)  
+* sensitive \= sensible (emocional)  
+* embarrassed \= avergonzado (NO “embarazada”)  
+* pregnant \= embarazada  
+* pretend \= fingir (NO “pretender”)  
+* assist \= ayudar (NO “asistir” como “ir a”)  
+* attend \= asistir (ir a)  
+* realize \= darse cuenta (NO “realizar”)  
+* library \= biblioteca (NO “librería”)  
+* bookstore \= librería  
+* parents \= padres (NO “parientes”)  
+* relatives \= parientes
 
 **Cómo aprenderlos (sin drama):**
 
-* Crea un deck especial: “FALSE FRIENDS”.
-* Card: “actually” → en realidad + 1 ejemplo.
+* Crea un deck especial: “FALSE FRIENDS”.  
+* Card: “actually” → en realidad \+ 1 ejemplo.  
 * Practica con mini‑diálogos.
 
 **Gate (false friends):**
 
-* 20/20 correctos en reconocimiento.
+* 20/20 correctos en reconocimiento.  
 * 10 frases correctas producidas por ti.
 
 ---
 
-## 17) Mini-apéndice: IA para extraer tus 625 palabras de interés (Step 6)
+## 17\) Mini-apéndice: IA para extraer tus 625 palabras de interés (Step 6\)
 
 **Objetivo:** sacar frecuencia real de tu dominio.
 
 ### 17.1 Método (simple)
 
-1. Reúne material del dominio (10–30 piezas):
-
+1. Reúne material del dominio (10–30 piezas):  
+     
    * artículos, manuales, transcripciones, posts, videos con subtítulos.
-2. Pégalo en una IA.
-3. Pide 3 listas:
 
-   * **Palabras** más frecuentes (sin stopwords como “the, and”).
-   * **Chunks** (2–5 palabras) más frecuentes.
+   
+
+2. Pégalo en una IA.  
+     
+3. Pide 3 listas:  
+     
+   * **Palabras** más frecuentes (sin stopwords como “the, and”).  
+   * **Chunks** (2–5 palabras) más frecuentes.  
    * **Frases modelo** cortas para cada item.
-4. Filtra:
 
-   * quita cosas raras,
+   
+
+4. Filtra:  
+     
+   * quita cosas raras,  
    * deja lo que tú usarás.
-5. Mete en SRS: chunk + audio + mini‑frase.
+
+   
+
+5. Mete en SRS: chunk \+ audio \+ mini‑frase.
 
 ### 17.2 Prompt plantilla para la IA (copia y pega)
 
@@ -1288,5 +1414,1098 @@ Esto causa malentendidos grandes.
 
 ### 17.3 Gate (dominio)
 
-* Puedes hacer 3 roleplays del dominio.
-* Puedes explicar 1 idea compleja usando pantry verbs + chunks.
+* Puedes hacer 3 roleplays del dominio.  
+* Puedes explicar 1 idea compleja usando pantry verbs \+ chunks.
+
+---
+
+## 18\) Apéndice: Pronunciación Espejo — "Fonética sin comprensión"
+
+---
+
+### 18.0 ¿Qué es la Pronunciación Espejo?
+
+Es un ejercicio donde tomas frases diseñadas con palabras que ya conoces (cognados) y las lees en voz alta aplicando la **fonética del inglés**. No estás traduciendo ni memorizando vocabulario. Estás entrenando **la mecánica física de tu boca y tu oído** con las reglas sonoras del inglés.
+
+**Por qué funciona:**
+
+Aprender pronunciación mientras simultáneamente procesas gramática nueva, vocabulario desconocido y comprensión es demasiado para el cerebro. La sobrecarga hace que la pronunciación quede siempre en último lugar.
+
+La Pronunciación Espejo aplica el principio DiSSS de **Selección**: aisla una sola habilidad (el movimiento físico de los sonidos del inglés) y la trabaja sin interferencia de otras variables. El resultado es que el músculo aprende más rápido y los hábitos que se forman son limpios.
+
+**Diferencia con el Apéndice 14 (Espejo Estructural):**
+
+El Apéndice 14 usa frases en español para entender el **orden gramatical** del inglés. Este apéndice usa frases en español para aprender **cómo suena** el inglés. Son dos entrenamientos completamente distintos.
+
+---
+
+### 18.1 El 80/20 de la Fonética — Kit de Supervivencia
+
+Aprender los 44 fonemas del inglés de golpe es ineficiente. Según el principio de Selección, existe un 20% de mecánicas sonoras que producen el 80% de los resultados: pasar de ser incomprensible a ser entendido por cualquier nativo sin esfuerzo.
+
+**El error más grande del hispanohablante no es una vocal mal pronunciada. Es aplicar el ritmo del español al inglés.**
+
+El español es "metrónomo": cada sílaba dura lo mismo. El inglés es "batería de rock": hay sílabas que golpean fuerte y sílabas que casi desaparecen. Si no corriges el ritmo primero, ninguna otra mejora fonética se sostiene.
+
+**Domina esta tabla antes de pasar a cualquier otra cosa.**
+
+---
+
+#### TABLA 1: El 80/20 Absoluto — De Incomprensible a Claro
+
+| Jerarquía | Símbolo / Concepto | El problema del hispanohablante | La solución mecánica | Ejemplos críticos |
+| :---- | :---- | :---- | :---- | :---- |
+| **\#1 — El Rey** | **Ritmo y estrés** *(stress-timing)* | Todas las sílabas suenan igual en duración e intensidad. El inglés del hispanohablante suena robótico y difícil de seguir. | **Golpea y aplasta.** Identifica la sílaba fuerte de cada palabra (el acento). Esa sílaba: alarga, sube el volumen, abre la boca. Las demás sílabas: aplástalas, hazlas rápidas y pequeñas. Exagera la diferencia. | in-for-**MA**\-tion / **I WANT** to **GO** / **COM**\-pu-ter |
+| **\#2 — La Reina** | **/ə/ — La Schwa** | Pronunciar todas las vocales claramente aunque sean átonas: "to" como la "o" española, "a" como la "a" española, etc. | **El murmullo zombi.** Relaja toda la cara. Boca medio abierta sin tensión. Emite un "uh" sin esfuerzo, casi sin mover la boca. Úsala en: preposiciones (to, for, of), artículos (a, the), pronombres débiles, y en todas las sílabas no acentuadas de cualquier palabra. | **a**bout → *uh*\-bout / **the** → *thuh* / sys-tem → sis-t*uh*m / to-day → t*uh*\-DAY |
+| **\#3** | **/ɪ/ vs /iː/** *(La "i" dividida)* | Pronunciar toda "i" como la "i" latina larga y pura. Esto genera confusiones de significado y, a veces, groserías accidentales. | **/iː/ — Sonrisa tensa:** Estira las comisuras de la boca como si sonrieras. Tensa y alarga el sonido (sheeeeep). / **/ɪ/ — Relajado y seco:** Relaja la mandíbula. El sonido es corto, entre "i" y "e", y no tiene tensión (ship). | sh**ee**p /iː/ vs sh**i**p /ɪ/ / b**ea**ch /iː/ vs b**i**tch /ɪ/ / s**ee**t /iː/ vs s**i**t /ɪ/ |
+| **\#4** | **/æ/ vs /ʌ/** *(La "a" dividida)* | Pronunciar todas las "a" y "u" cortas como la "a" latina pura. Ninguna de las dos existe en español. | **/æ/ — Boca de dentista:** Abre la mandíbula hacia abajo tanto como puedas, con la lengua plana. Es un sonido entre "a" y "e" con la boca muy abierta (caat). / **/ʌ/ — Golpe del pecho:** Relajado y corto, desde el centro del pecho, más oscuro y neutro que la "a" (cup). | c**a**t /æ/ vs c**u**p /ʌ/ / m**a**n /æ/ vs m**u**n /ʌ/ / h**a**t /æ/ vs h**u**t /ʌ/ |
+| **\#5** | **/θ/ y /ð/** *(Las TH)* | Sustituir por "t", "d", "s" o "z". El hispanohablante dice "tink" en lugar de "think", o "dis" en lugar de "this". Delata el acento al instante. | **Muerde la lengua.** Saca la punta de la lengua entre los dientes superiores e inferiores. Para **/θ/** (think, three): sopla aire sin vibración de garganta. Para **/ð/** (the, this): sopla aire **con** vibración. Toca tu garganta para verificar. | **/θ/:** th**i**nk, th**r**ee, **th**ank, ba**th** / **/ð/:** **th**e, **th**is, **th**at, wi**th** |
+| **\#6** | **/h/** *(H aspirada)* | No pronunciarla (muda como en español) o pronunciarla como una "J" española que raspa desde la garganta. | **El aliento empaña-cristales.** Abre la boca. Exhala aire suave desde el fondo de la boca hacia afuera, como si quisieras empañar un cristal frío. Sin raspado. Sin vibración. Solo aire limpio. | **h**ouse, **h**ave, **h**ello, **h**appy ← nunca "jouse", "javh" |
+
+---
+
+### 18.2 El 80% → 95% — De Claro a Fluido
+
+Una vez que superas el Gate de la Tabla 1, cualquier nativo te entiende. Pero para pasar de "entendible con esfuerzo" a "suena natural", necesitas esta segunda capa. No la trabajes antes de tener la Tabla 1 sólida.
+
+---
+
+#### TABLA 2: El Puente del 80% al 95% — De Claro a Natural
+
+| Categoría | Símbolo / Concepto | El problema del hispanohablante | La solución mecánica | Ejemplos críticos |
+| :---- | :---- | :---- | :---- | :---- |
+| **Consonante vibrante** | **/z/ vs /s/** | Usar siempre la "s" sorda española para todo. Esto arruina sistemáticamente los plurales y los verbos en tercera persona del singular. | **/s/ — Serpiente:** Solo aire, sin vibración de garganta (ice, bus). / **/z/ — Abeja:** Toca tu garganta, **debe vibrar** (eyes, buzz). Regla: si la letra "s" va entre vocales o después de vocal sonora, casi siempre es /z/. | ice /s/ vs eyes /z/ / play**s**, car**s**, use**s** → todos son /z/ |
+| **Consonante labial** | **/v/ vs /b/** | Pronunciar "v" y "b" igual, como la "b" española. El inglés las distingue siempre. | **/b/ — Explosión de labios:** Junta los dos labios completamente y explota (berry). / **/v/ — Mordida vibrante:** El labio inferior toca los dientes superiores. Fuerza que vibre (very). | **b**erry vs **v**ery / **b**oat vs **v**ote / **b**ase vs **v**ase |
+| **Consonante vibrante** | **/ɹ/ — La R flotante** | Tocar el paladar con la lengua (como la "r" española) o hacerla vibrar (como la "rr" española). Ninguna funciona en inglés. | **Lengua que no toca nada.** Tira la lengua hacia atrás. Hazla gruesa y curva. La **punta de la lengua no toca ninguna superficie**. El sonido sale oscuro y amortiguado. Practica esto con la boca abierta frente a un espejo. | **r**ed, ca**r**, wate**r**, **r**ight, di**r**ector |
+| **Fluidez americana** | **Flap T /ɾ/** | Pronunciar la "T" con una explosión de aire completa en medio de las palabras, como en español o en inglés formal/británico. Suena rígido. | **La "r" suave española.** Cuando la "t" o "d" está entre dos vocales en inglés americano, se pronuncia exactamente como la "r" de "pe**r**o" o "ca**r**o" en español. Solo un toque rápido de la lengua. | wa**t**er → wa-**r**er / be**tt**er → be-**r**er / ci**t**y → ci-**r**y / me**t**al → me-**r**al |
+| **Gramática sonora** | **Terminaciones \-ED** | Pronunciar "-ed" del pasado simple como se escribe: "work-ed" (dos sílabas), "play-ed" (dos sílabas). Es un error que suena muy extranjero porque en inglés nativo el "-ed" casi nunca se pronuncia como sílaba separada. | **Regla de tres vías:** 1\) Después de sonido sordo (p, k, f, s, sh, ch): el pasado suena **/t/** (un "t" seco). 2\) Después de sonido sonoro o vocal: suena **/d/** (una "d" suave). 3\) Solo después de "t" o "d": suena **/ɪd/** (sílaba real). | work**ed** /t/ / play**ed** /d/ / want**ed** /ɪd/ / talk**ed** /t/ / open**ed** /d/ |
+| **Vocales diptongadas** | **/oʊ/ y /eɪ/** | Pronunciar las "o" y "a" tónicas del inglés como las vocales puras y cortas del español. El resultado es plano y suena a acento español marcado. | **Las vocales elásticas.** Casi toda "o" tónica en inglés esconde un movimiento hacia "u" al final: /oʊ/ → suena *"ou"*. La "a" tónica en palabras como "make" o "say" esconde un movimiento hacia "i": /eɪ/ → suena *"ei"*. Alarga y mueve la boca durante la vocal. | g**o** /oʊ/ → *gou* / n**o** /oʊ/ → *nou* / m**a**ke /eɪ/ → *meik* / s**a**y /eɪ/ → *sei* |
+| **Discurso conectado** | **Linking (Enlace vocal-consonante)** | Pronunciar cada palabra como una unidad separada, con pequeñas pausas entre ellas. "It... is... an... apple." El inglés hablado real no tiene esas pausas. | **El efecto acordeón.** Cuando una palabra termina en consonante y la siguiente empieza en vocal, únelas como si fueran una sola palabra. Practica eliminar todos los espacios. | "It is an apple" → *i-ti-zuh-NAA-pul* (una sola palabra continua) |
+
+---
+
+### 18.3 Las 13 Golden Pronunciation Sentences
+
+Estas 13 frases son tu **gimnasio fonético**. Están diseñadas exclusivamente para este apéndice: no son las Golden Sentences del Blueprint (que entrenan gramática). Cada frase aquí tiene un objetivo fonético único.
+
+Todas usan **cognados** (palabras similares en inglés y español) para que tu cerebro no gaste energía procesando vocabulario nuevo. El 100% de tu atención va a la mecánica del sonido.
+
+**Cómo practicar cada frase:**
+
+1. Lee la frase en español para saber qué dice. (Un segundo, no más.)  
+2. Lee la **Pronunciación Espejo**: el español escrito, pero pronunciado con acento inglés exagerado. Esto fuerza la postura física del inglés antes de decir la frase real.  
+3. Lee los comentarios fonéticos. Entiende qué músculo estás entrenando.  
+4. Lee la frase en inglés con la transcripción fonética.  
+5. Grábate. Compara con audio nativo.  
+6. Repite hasta que la postura sea automática.
+
+**Regla de oro:** mientras practicas el sonido, no pienses en el significado. Son tareas separadas. Si tu cabeza empieza a traducir o analizar gramática, pausa y regresa al sonido.
+
+---
+
+#### GPS-1 — El Ritmo y la Schwa (el punto de partida de todo)
+
+**Frase en español:** El profesor de historia es fantástico. **Pronunciación Espejo:** *el pruh-FEH-sur duh hees-TOR-ee-uh eez fan-TAS-tihk* **Transcripción:** /ɛl prəˈfɛsər də hɪsˈtɔːriə ɪz fænˈtæstɪk/
+
+**Comentario fonético:** En español pronuncias 13 sílabas con peso similar. En inglés, la frase se comprime drásticamente. Las sílabas fuertes son **FES**, **TOR** y **TAS**. Todo lo demás colapsa hacia schwa /ə/: "el" → *uh*, "de" → *duh*, la terminación "ia" → *ee-uh*. Practica exagerar este colapso hasta que las sílabas débiles casi no se escuchen.
+
+**Frase en inglés:** The history professor is fantastic. **Pronunciación:** /ðə ˈhɪstəri prəˈfɛsər ɪz fænˈtæstɪk/ → *thuh HIS-tuh-ree pruh-FEH-sur ihz fan-TAS-tihk*
+
+---
+
+#### GPS-2 — La "i" dividida (/ɪ/ vs /iː/)
+
+**Frase en español:** El líder visita la clínica principal. **Pronunciación Espejo:** *el LEE-dur VIH-zihts thuh KLIH-nihk PRIN-suh-pul* **Transcripción:** /ɛl ˈliːdər ˈvɪzɪts ðə ˈklɪnɪk ˈprɪnsɪpəl/
+
+**Comentario fonético:** En "leader" la "ea" es larga y tensa: /iː/, sonrisa activa. En "visits", "clinic" y "principal", todas las "i" son cortas y relajadas: /ɪ/, mandíbula sin tensión, sonido seco. Tu cerebro va a querer igualarlas. No lo permitas. La diferencia entre estas dos "íes" cambia el significado de docenas de palabras comunes.
+
+**Frase en inglés:** The leader visits the principal clinic. **Pronunciación:** /ðə ˈliːdər ˈvɪzɪts ðə ˈprɪnsɪpəl ˈklɪnɪk/ → *thuh LEE-dur VIH-zihts thuh PRIN-suh-pul KLIH-nihk*
+
+---
+
+#### GPS-3 — La "a" dividida (/æ/ vs /ʌ/)
+
+**Frase en español:** El público cancela el canal central. **Pronunciación Espejo:** *thuh PUHB-lihk KAAN-suhlz thuh KAAN-ul SEN-trul* **Transcripción:** /ðə ˈpʌblɪk ˈkænsəlz ðə ˈkænəl ˈsɛntrəl/
+
+**Comentario fonético:** "public" tiene /ʌ/: golpe corto desde el centro, oscuro, como un gruñido. "cancel" y "canal" tienen /æ/: mandíbula muy abajo, lengua plana, como si el dentista dijera "abre más". Si tu quijada no trabaja un poco, no estás abriendo suficiente para el /æ/.
+
+**Frase en inglés:** The public cancels the central canal. **Pronunciación:** /ðə ˈpʌblɪk ˈkænsəlz ðə ˈsɛntrəl ˈkænəl/ → *thuh PUHB-lihk KAN-suhlz thuh SEN-trul KAN-ul*
+
+---
+
+#### GPS-4 — Las TH sordas y sonoras (/θ/ vs /ð/)
+
+**Frase en español:** El autor considera la teoría con entusiasmo. **Pronunciación Espejo:** *thuh AW-thur kun-SIH-durz thuh THEE-uh-ree wihth en-THYOO-zee-az-um* **Transcripción:** /ðə ˈɔːθər kənˈsɪdərz ðə ˈθɪəri wɪð ɪnˈθjuːziæzəm/
+
+**Comentario fonético:** Cuatro TH distintas en la misma frase. "The" tiene /ð/ (con vibración). "Author", "theory" y "enthusiasm" tienen /θ/ (solo aire). Pon el dedo en la garganta: en /ð/ debe vibrar, en /θ/ no. Si confundes las dos, practica primero /θ/ diciendo "sss" y luego sacando la lengua sin cambiar nada más.
+
+**Frase en inglés:** The author considers the theory with enthusiasm. **Pronunciación:** /ðə ˈɔːθər kənˈsɪdərz ðə ˈθɪəri wɪð ɪnˈθjuːziæzəm/ → *thuh AW-thur kun-SIH-durz thuh THEE-uh-ree with en-THYOO-zee-az-um*
+
+---
+
+#### GPS-5 — La H aspirada (/h/)
+
+**Frase en español:** El hotel humano tiene historia y humor. **Pronunciación Espejo:** *thuh HYOO-mun how-TEL haz HIS-tuh-ree und HYOO-mur* **Transcripción:** /ðə ˈhjuːmən hoʊˈtɛl hæz ˈhɪstəri ænd ˈhjuːmər/
+
+**Comentario fonético:** Cinco palabras con /h/ en la frase. Ninguna debe raspar. Exhala aire desde el fondo de la boca, como cuando empañas un cristal o cuando suspiras. El truco: abre la boca, di "aaah", y luego añade esa "h" suave al inicio. Grábate y escucha si suena como soplo suave (correcto) o como raspado de garganta (incorrecto).
+
+**Frase en inglés:** The human hotel has history and humor. **Pronunciación:** /ðə ˈhjuːmən hoʊˈtɛl hæz ˈhɪstəri ænd ˈhjuːmər/ → *thuh HYOO-mun how-TEL haz HIS-tuh-ree an HYOO-mur*
+
+---
+
+#### GPS-6 — La S vibrante (/z/ vs /s/)
+
+**Frase en español:** El presidente organiza y usa las bases. **Pronunciación Espejo:** *thuh PREH-zih-dunt OR-guh-nyzz-uz und YOOZ-uz thuh BAY-suz* **Transcripción:** /ðə ˈprɛzɪdənt ˈɔːrɡənaɪzɪz ænd ˈjuːzɪz ðə ˈbeɪsɪz/
+
+**Comentario fonético:** "president", "organizes" y "uses" tienen múltiples /z/ (zumbido de abeja, garganta vibra). "Bases" al final tiene /s/ en "base" y /z/ en la "-s" del plural. La regla más fácil: en inglés, la "-s" de los plurales y verbos casi siempre zumba. Pon el dedo en la garganta para verificar la vibración.
+
+**Frase en inglés:** The president organizes and uses the bases. **Pronunciación:** /ðə ˈprɛzɪdənt ˈɔːrɡənaɪzɪz ænd ˈjuːzɪz ðə ˈbeɪsɪz/ → *thuh PREH-zih-dunt OR-guh-nye-ziz an YOO-ziz thuh BAY-siz*
+
+---
+
+#### GPS-7 — V y B distintas (/v/ vs /b/)
+
+**Frase en español:** El cable visual vibra con volumen bajo. **Pronunciación Espejo:** *thuh VIH-zhoo-ul KAY-bul VAY-brayts wihth HIGH VAHL-yum* **Transcripción:** /ðə ˈvɪʒuəl ˈkeɪbəl ˈveɪbreɪts wɪð haɪ ˈvɒljuːm/
+
+**Comentario fonético:** "Cable" tiene /b/: ambos labios se juntan y explotan. "Visual", "vibrates" y "volume" tienen /v/: el labio inferior toca los dientes superiores y vibra. Son movimientos físicamente distintos. Practica alternando: *"ba-va-ba-va"* hasta que sientas claramente la diferencia entre labios juntos y labio mordido.
+
+**Frase en inglés:** The visual cable vibrates with high volume. **Pronunciación:** /ðə ˈvɪʒuəl ˈkeɪbəl ˈveɪbreɪts wɪð haɪ ˈvɒljuːm/ → *thuh VIH-zhoo-ul KAY-bul VAY-brayts with hye VOHL-yoom*
+
+---
+
+#### GPS-8 — La R flotante (/ɹ/)
+
+**Frase en español:** El director rural controla el radar de carbono. **Pronunciación Espejo:** *thuh duh-REK-tur RUR-ul kun-TROWLZ thuh RAY-dar uv KAR-bun* **Transcripción:** /ðə dəˈrɛktər ˈrʊrəl kənˈtroʊlz ðə ˈreɪdɑːr əv ˈkɑːrbən/
+
+**Comentario fonético:** Esta frase tiene seis sonidos /ɹ/. Para cada uno: tira la lengua hacia atrás, hazla gruesa, **sin tocar ninguna superficie**. Frente a un espejo, comprueba que la punta de la lengua flota. El sonido saldrá oscuro y amortiguado. Si la lengua toca el paladar, estás haciendo la "r" española.
+
+**Frase en inglés:** The rural director controls the carbon radar. **Pronunciación:** /ðə ˈrʊrəl dəˈrɛktər kənˈtroʊlz ðə ˈkɑːrbən ˈreɪdɑːr/ → *thuh RUR-ul duh-REK-tur kun-TROWLZ thuh KAR-bun RAY-dar*
+
+---
+
+#### GPS-9 — La Flap T (la "r" suave americana)
+
+**Frase en español:** El motor de metal es total y natural. **Pronunciación Espejo:** *thuh MEH-rul MOW-rur iz TOW-rul un NACH-ur-ul* **Transcripción:** /ðə ˈmɛɾəl ˈmoʊɾər ɪz ˈtoʊɾəl ænd ˈnæʧərəl/
+
+**Comentario fonético:** Cada "t" en medio de dos vocales se convierte en la "r" suave del español (como en "pero", "caro"). "Metal" → *me-ral*. "Motor" → *mo-rer*. "Total" → *to-ral*. "Natural" → *na-chur-ul*. Esta regla aplica a cientos de palabras comunes del inglés americano. Es uno de los cambios más transformadores para sonar natural.
+
+**Frase en inglés:** The metal motor is total and natural. **Pronunciación:** /ðə ˈmɛɾəl ˈmoʊɾər ɪz ˈtoʊɾəl ænd ˈnæʧərəl/ → *thuh MEH-rul MOW-rur iz TOW-rul an NACH-ur-ul*
+
+---
+
+#### GPS-10 — Terminaciones \-ED (las tres reglas del pasado)
+
+**Frase en español:** El grupo escapó, observó y decidió continuar. **Pronunciación Espejo:** *thuh groop ih-SKAYPT, uhb-ZURVD, un dih-SY-dihd tuh kun-TIH-nyoo* **Transcripción:** /ðə ɡruːp ɪˈskeɪpt, əbˈzɜːrvd, ænd dɪˈsaɪdɪd tə kənˈtɪnjuː/
+
+**Comentario fonético:** "escaped" termina en /t/: la "p" es sorda, entonces el pasado es un "t" seco invisible. "observed" termina en /d/: la "v" es sonora, entonces el pasado zumba suavemente. "decided" termina en /ɪd/: la "d" original obliga a pronunciar la sílaba completa. Memoriza los tres ejemplos como anclas para la regla.
+
+**Frase en inglés:** The group escaped, observed, and decided to continue. **Pronunciación:** /ðə ɡruːp ɪˈskeɪpt, əbˈzɜːrvd, ænd dɪˈsaɪdɪd tə kənˈtɪnjuː/ → *thuh groop ih-SKAYPT, uhb-ZURVD, an dih-SY-dihd tuh kun-TIN-yoo*
+
+---
+
+#### GPS-11 — Vocales elásticas (/oʊ/ y /eɪ/)
+
+**Frase en español:** El momento local es famoso en la nación global. **Pronunciación Espejo:** *thuh LOW-kul MOW-munt iz FAY-mus in thuh GLO-bul NAY-shun* **Transcripción:** /ðə ˈloʊkəl ˈmoʊmənt ɪz ˈfeɪməs ɪn ðə ˈɡloʊbəl ˈneɪʃən/
+
+**Comentario fonético:** Ninguna de estas "o" ni "a" es la vocal pura y seca del español. "Local", "moment" y "global" tienen /oʊ/: la boca se mueve de "o" hacia "u" al final (como "ou"). "Famous" y "nation" tienen /eɪ/: la boca se mueve de "e" hacia "i" al final (como "ei"). Alarga cada vocal y siente el movimiento de la boca.
+
+**Frase en inglés:** The local moment is famous in the global nation. **Pronunciación:** /ðə ˈloʊkəl ˈmoʊmənt ɪz ˈfeɪməs ɪn ðə ˈɡloʊbəl ˈneɪʃən/ → *thuh LOW-kul MOW-munt iz FAY-mus in thuh GLOW-bul NAY-shun*
+
+---
+
+#### GPS-12 — Discurso conectado (Linking)
+
+**Frase en español:** Es una opción activa y eficiente. **Pronunciación Espejo:** *ih-TIH-zuh-NAK-tihv-uhnd-ih-FIH-shunt-OP-shun* **Transcripción:** /ɪtɪzənˈæktɪvənɪˈfɪʃəntˈɒpʃən/
+
+**Comentario fonético:** En inglés hablado natural, esta frase de seis palabras se convierte en **una sola corriente de sonido continua** sin pausas. "It is an" → *i-ti-zun*. "active and" → *ak-tih-van*. "efficient" → *ih-FIH-shunt*. El error del hispanohablante es dejar espacios entre palabras. El inglés los elimina cuando la última letra es consonante y la siguiente es vocal.
+
+**Frase en inglés:** It is an active and efficient option. **Pronunciación (conectada):** /ɪtɪzənˈæktɪvənɪˈfɪʃəntˈɒpʃən/ → *ih-tih-zun-AK-tih-vun-ih-FIH-shunt-OP-shun*
+
+---
+
+#### GPS-13 — El Jefe Final (Todos los puntos integrados)
+
+**Frase en español:** El doctor americano visita el hospital original con gran energía. **Pronunciación Espejo:** *thuh uh-MEH-rih-kun DAHK-tur VIH-zihts thee uh-RIH-jih-nul HAHS-pih-tul wihth GRAYT EH-nur-jee* **Transcripción:** /ðə əˈmɛrɪkən ˈdɑːktər ˈvɪzɪts ði əˈrɪdʒɪnəl ˈhɑːspɪtəl wɪð ɡreɪt ˈɛnərʤi/
+
+**Comentario fonético:** Esta frase lo contiene todo. Hay cuatro schwas (/ə/ en "the", "American", "original"). La /v/ en "visits" (labio mordido). La /ɹ/ en "doctor" y "original" (lengua flotante). La /ð/ en "the" y "with" (lengua entre dientes con vibración). La /oʊ/ en "original" y el /eɪ/ en "great". Y la H aspirada en "hospital". Seis mecánicas en una sola frase. Este es tu punto de referencia: cuando puedas leerla fluidamente, tienes el motor fonético activo.
+
+**Frase en inglés:** The American doctor visits the original hospital with great energy. **Pronunciación:** /ðə əˈmɛrɪkən ˈdɑːktər ˈvɪzɪts ði əˈrɪdʒɪnəl ˈhɑːspɪtəl wɪð ɡreɪt ˈɛnərʤi/ → *thuh uh-MEH-rih-kun DAHK-tur VIH-zihts thee uh-RIH-jih-nul HAHS-pih-tul with grayt EH-nur-jee*
+
+---
+
+### 18.4 El Banco Fonético — Tu "Top 100 de Sonidos"
+
+En el cuerpo del documento (Step 3 y Sección 15), aprendes vocabulario organizado por frecuencia: las 100 palabras más usadas, luego conectores, luego verbos despensa. El principio es siempre el mismo: aprende lo que aparece más, no lo que es más fácil.
+
+El Banco Fonético aplica este mismo principio a la pronunciación. En lugar de aprender todos los fonemas del inglés de forma abstracta, aquí aprendes los **sonidos a través de las palabras reales más frecuentes que los contienen**. El resultado es doble: tu oído y tu boca aprenden el sonido, y de paso vas absorbiendo vocabulario de alta utilidad.
+
+El Banco se divide en tres secciones que puedes trabajar en orden:
+
+- **18.4.1 — Palabras Ancla por Fonema:** las palabras más comunes del inglés, agrupadas por el fonema que entrenan.  
+- **18.4.2 — Frases Fonéticas de Alta Frecuencia:** 20 frases que los nativos usan todos los días, seleccionadas porque en pocas palabras concentran muchos fonemas críticos.  
+- **18.4.3 — Gate del Banco Fonético.**
+
+---
+
+### 18.4.1 Palabras Ancla por Fonema
+
+Estas palabras son dobles herramientas: son vocabulario de alta frecuencia **y** son los mejores ejercicios físicos para cada fonema. Al aprenderlas, no estás haciendo fonética abstracta, estás aprendiendo palabras que usarás en toda conversación.
+
+**Cómo trabajar con esta sección:**
+
+1. Lee el fonema y el comentario de postura.  
+2. Practica cada palabra en voz alta 5 veces, pensando en el movimiento físico (no en el significado).  
+3. Grábate diciendo las 5 palabras en cadena.  
+4. Compara con audio nativo de cada palabra (cualquier diccionario online tiene audio).  
+5. Cuando una palabra suena consistentemente correcta, ponla en SRS con el formato: audio de la palabra → tú la repites \+ la dices en una mini-frase.
+
+---
+
+**CLUSTER A — /ə/ Schwa** *(El sonido más frecuente del inglés. Aparece en casi todas las palabras de más de una sílaba.)*
+
+**Postura:** Boca sin tensión, mandíbula relajada, lengua en posición neutra. Un "uh" casi sin esfuerzo.
+
+| Palabra | Transcripción | Cómo suena | Dónde está el schwa |
+| :---- | :---- | :---- | :---- |
+| about | /əˈbaʊt/ | *uh-BOUT* | Primera sílaba |
+| problem | /ˈprɒbləm/ | *PROB-lum* | Segunda sílaba |
+| system | /ˈsɪstəm/ | *SIS-tum* | Segunda sílaba |
+| support | /səˈpɔːrt/ | *suh-PORT* | Primera sílaba |
+| today | /təˈdeɪ/ | *tuh-DAY* | Primera sílaba |
+| official | /əˈfɪʃəl/ | *uh-FIH-shul* | Primera y tercera sílaba |
+| important | /ɪmˈpɔːrtənt/ | *ihm-POR-tunt* | Última sílaba |
+| national | /ˈnæʃənəl/ | *NAA-shuh-nul* | Segunda y tercera sílaba |
+| possible | /ˈpɒsɪbəl/ | *PAH-suh-bul* | Última sílaba |
+| original | /əˈrɪdʒɪnəl/ | *uh-RIH-jih-nul* | Primera y última sílaba |
+
+---
+
+**CLUSTER B — /ɪ/ Short i** *(Aparece constantemente en palabras de función y en sílabas átonas.)*
+
+**Postura:** Relajado. La boca no está tensa. El sonido es corto, seco, entre "i" y "e". No lo alargues.
+
+| Palabra | Transcripción | Cómo suena | Nota |
+| :---- | :---- | :---- | :---- |
+| it | /ɪt/ | *iht* | La "i" más común del inglés |
+| in | /ɪn/ | *ihn* | Preposición de altísima frecuencia |
+| is | /ɪz/ | *ihz* | La "s" también zumba |
+| this | /ðɪs/ | *dhihs* | TH sonora \+ /ɪ/ |
+| with | /wɪð/ | *wihth* | TH sonora al final |
+| which | /wɪʧ/ | *wihch* | Muy común en preguntas |
+| if | /ɪf/ | *ihf* | Condicional básico |
+| will | /wɪl/ | *wihl* | Modal de futuro |
+| still | /stɪl/ | *stihl* | Adverbio muy frecuente |
+| think | /θɪŋk/ | *thihngk* | TH sorda \+ /ɪ/ |
+
+---
+
+**CLUSTER C — /iː/ Long i** *(La "i" larga y tensa. Confundirla con /ɪ/ cambia el significado de la palabra.)*
+
+**Postura:** Sonríe. Estira las comisuras. Tensa los labios. Alarga el sonido. Es la única vocal del inglés que exige este esfuerzo muscular.
+
+| Palabra | Transcripción | Cómo suena | Nota |
+| :---- | :---- | :---- | :---- |
+| he | /hiː/ | *hee* | H aspirada \+ /iː/ |
+| she | /ʃiː/ | *shee* | Altísima frecuencia |
+| we | /wiː/ | *wee* | Pronombre fundamental |
+| be | /biː/ | *bee* | Verbo más importante del inglés |
+| see | /siː/ | *see* | Pantry verb |
+| need | /niːd/ | *need* | Muy frecuente |
+| feel | /fiːl/ | *feel* | Emocional y físico |
+| keep | /kiːp/ | *keep* | Muy común en instrucciones |
+| read | /riːd/ | *reed* | Presente; el pasado es /rɛd/ |
+| meet | /miːt/ | *meet* | Crucial en conversación |
+
+---
+
+**CLUSTER D — /æ/ (boca de dentista)** *(Una de las vocales más difíciles para hispanohablantes. Requiere trabajo muscular activo.)*
+
+**Postura:** Abre la mandíbula hacia abajo tanto como puedas. Lengua plana. Es más esfuerzo del que parece natural.
+
+| Palabra | Transcripción | Cómo suena | Nota |
+| :---- | :---- | :---- | :---- |
+| that | /ðæt/ | *dhaat* | Palabra de altísima frecuencia |
+| have | /hæv/ | *haav* | No es la "a" española |
+| can | /kæn/ | *kaan* | Modal fundamental |
+| at | /æt/ | *aat* | Preposición muy común |
+| and | /ænd/ | *aand* | La conjunción más usada |
+| back | /bæk/ | *baak* | Muy común (go back, come back) |
+| fact | /fækt/ | *faakt* | Frecuente en argumentos |
+| actually | /ˈæktʃuəli/ | *AAK-choo-uh-lee* | False friend clásico |
+| happen | /ˈhæpən/ | *HAA-pun* | Muy frecuente |
+| example | /ɪɡˈzɑːmpəl/ | *ihg-ZAA-mpul* | Imprescindible |
+
+---
+
+**CLUSTER E — /ʌ/ (golpe del pecho)** *(Suena oscura y relajada. No es la "a" española ni la "o" española.)*
+
+**Postura:** Boca semi-abierta, sin tensión. El sonido sale del centro del pecho, corto y oscuro. Como un pequeño gruñido neutro.
+
+| Palabra | Transcripción | Cómo suena | Nota |
+| :---- | :---- | :---- | :---- |
+| but | /bʌt/ | *buht* | Conector fundamental |
+| up | /ʌp/ | *uhp* | Muy frecuente (phrasal verbs) |
+| come | /kʌm/ | *kuhm* | Pantry verb |
+| some | /sʌm/ | *suhm* | Cuantificador común |
+| love | /lʌv/ | *luhv* | La "o" no es /oʊ/ aquí |
+| money | /ˈmʌni/ | *MUH-nee* | La "o" aquí es /ʌ/ |
+| must | /mʌst/ | *muhst* | Modal de obligación |
+| enough | /ɪˈnʌf/ | *ih-NUHF* | Frecuente en negaciones |
+| country | /ˈkʌntri/ | *KUHN-tree* | La "ou" aquí es /ʌ/ |
+| trouble | /ˈtrʌbəl/ | *TRUH-bul* | Frecuente en conversación |
+
+---
+
+**CLUSTER F — /θ/ y /ð/ (Las TH)** *(El sonido que más delata el acento español. Aparece en las palabras de función más usadas del idioma.)*
+
+**Postura /θ/:** Lengua entre dientes. Solo aire, sin vibración. **Postura /ð/:** Lengua entre dientes. Aire CON vibración de garganta.
+
+| Palabra | Fonema | Transcripción | Cómo suena |
+| :---- | :---- | :---- | :---- |
+| the | /ð/ | /ðə/ | *dhuh* (la palabra más frecuente del inglés) |
+| this | /ð/ | /ðɪs/ | *dhihs* |
+| that | /ð/ | /ðæt/ | *dhaatt* |
+| they | /ð/ | /ðeɪ/ | *dhey* |
+| there | /ð/ | /ðɛr/ | *dhehr* |
+| think | /θ/ | /θɪŋk/ | *thihngk* |
+| thank | /θ/ | /θæŋk/ | *thaangk* |
+| three | /θ/ | /θriː/ | *three* |
+| through | /θ/ | /θruː/ | *throo* |
+| everything | /θ/ | /ˈɛvriθɪŋ/ | *EV-ree-thihng* |
+
+---
+
+**CLUSTER G — /ɹ/ La R flotante** *(Uno de los sonidos más difíciles. Requiere práctica física diaria hasta que sea automático.)*
+
+**Postura:** Tira la lengua hacia atrás. Hazla gruesa. La **punta no toca nada**. El sonido es oscuro y amortiguado.
+
+| Palabra | Transcripción | Cómo suena | Nota |
+| :---- | :---- | :---- | :---- |
+| right | /ɹaɪt/ | *rayt* | No toques el paladar |
+| really | /ˈɹiːli/ | *REE-lee* | Muy frecuente en conversación |
+| problem | /ˈpɹɒbləm/ | *PRAHB-lum* | La R al inicio |
+| try | /tɹaɪ/ | *try* | Muy frecuente |
+| great | /ɡɹeɪt/ | *grayt* | Diptongo /eɪ/ también |
+| work | /wɜːrk/ | *wurk* | La "or" en inglés americano |
+| word | /wɜːrd/ | *wurd* | Similar a "work" |
+| world | /wɜːrld/ | *wurld* | Difícil: /ɹ/ \+ /l/ |
+| important | /ɪmˈpɔːrtənt/ | *ihm-POR-tunt* | R en medio de palabra |
+| doctor | /ˈdɒktər/ | *DAHK-tur* | Schwa \+ R final |
+
+---
+
+**CLUSTER H — /z/ La S vibrante** *(Convierte automáticamente todos tus plurales y verbos en tercera persona en sonido nativo.)*
+
+**Postura:** Igual que la "s", pero la garganta vibra. Toca tu nuez de Adán: debe sentirse el zumbido.
+
+| Palabra | Transcripción | Cómo suena | Nota |
+| :---- | :---- | :---- | :---- |
+| is | /ɪz/ | *ihz* | Altísima frecuencia |
+| his | /hɪz/ | *hihz* | Posesivo |
+| because | /bɪˈkɒz/ | *bih-KOZ* | La "se" final zumba |
+| these | /ðiːz/ | *dheez* | Plural de "this" |
+| those | /ðoʊz/ | *dhowz* | Plural de "that" |
+| always | /ˈɔːlweɪz/ | *AWL-wayz* | La "s" final zumba |
+| says | /sɛz/ | *sez* | No es "says" como se escribe |
+| goes | /ɡoʊz/ | *gowz* | Tercera persona de "go" |
+| does | /dʌz/ | *duhz* | Auxiliar fundamental |
+| news | /njuːz/ | *nyooz* | La "s" final zumba |
+
+---
+
+**CLUSTER I — /v/ La V mordida** *(Fácil de explicar, pero difícil de automatizar. Requiere repetición hasta que el movimiento del labio sea instintivo.)*
+
+**Postura:** El labio inferior toca los dientes superiores. Fuerza la vibración. Si no sientes el labio cosquillear, no estás haciendo /v/.
+
+| Palabra | Transcripción | Cómo suena | Nota |
+| :---- | :---- | :---- | :---- |
+| very | /ˈvɛri/ | *VEH-ree* | La confusión clásica con "berry" |
+| have | /hæv/ | *haav* | También tiene /æ/ |
+| give | /ɡɪv/ | *gihv* | Pantry verb |
+| live | /lɪv/ | *lihv* | (verbo; el adjetivo "live" tiene /aɪ/) |
+| love | /lʌv/ | *luhv* | También tiene /ʌ/ |
+| move | /muːv/ | *moov* | Muy frecuente |
+| every | /ˈɛvri/ | *EV-ree* | Alta frecuencia |
+| never | /ˈnɛvər/ | *NEH-vur* | Schwa \+ R al final |
+| over | /ˈoʊvər/ | *OW-vur* | Muy frecuente |
+| available | /əˈveɪləbəl/ | *uh-VAY-luh-bul* | Frecuente en comunicación |
+
+---
+
+**CLUSTER J — Flap T y terminaciones \-ED** *(Dos reglas que convierten tu inglés escrito en inglés hablado natural.)*
+
+**Flap T:** La "t" entre vocales → "r" suave española (como en "pero"). **\-ED:** Tres versiones según el sonido final del verbo.
+
+| Palabra / Forma | Transcripción | Cómo suena | Regla que aplica |
+| :---- | :---- | :---- | :---- |
+| water | /ˈwɔːɾər/ | *WAW-rur* | Flap T |
+| better | /ˈbɛɾər/ | *BEH-rur* | Flap T |
+| button | /ˈbʌɾən/ | *BUH-run* | Flap T |
+| meeting | /ˈmiːɾɪŋ/ | *MEE-ring* | Flap T |
+| wanted | /ˈwɒntɪd/ | *WAHN-tid* | \-ED como /ɪd/ (termina en "t") |
+| needed | /ˈniːdɪd/ | *NEE-did* | \-ED como /ɪd/ (termina en "d") |
+| talked | /tɔːkt/ | *tawkt* | \-ED como /t/ (termina en "k" sordo) |
+| used | /juːzd/ | *yoozd* | \-ED como /d/ (termina en "z" sonoro) |
+| stopped | /stɒpt/ | *stahpt* | \-ED como /t/ (termina en "p" sordo) |
+| called | /kɔːld/ | *kawld* | \-ED como /d/ (termina en "l" sonoro) |
+
+---
+
+### 18.4.2 Frases Fonéticas de Alta Frecuencia
+
+El equivalente a los **Prime Chunks** y los **Pragmatic Chunks** del vocabulario, pero aquí cada frase fue seleccionada con dos criterios: (1) es una frase que los nativos realmente usan todos los días, y (2) concentra varios fonemas del 80/20 en pocas palabras. Al memorizarlas, entrenas sonidos Y absorbes lenguaje útil al mismo tiempo.
+
+**Cómo trabajar con estas frases:**
+
+1. Escucha la frase en audio nativo (búscala en cualquier diccionario online o en YouTube con "forvo \+ frase").  
+2. Repítela exactamente como suena, no como se escribe.  
+3. Practica cada frase 10 veces en voz alta con los ojos cerrados.  
+4. Ponla en SRS: audio de la frase → tú la repites de memoria.  
+5. Úsala en conversación real o en simulación al menos 3 veces esta semana.
+
+---
+
+**Las 20 Frases Fonéticas de Alta Frecuencia:**
+
+| \# | Frase | Transcripción y pronunciación | Fonemas que entrena |
+| :---- | :---- | :---- | :---- |
+| 1 | *What do you think?* | /wʌt də jə ˈθɪŋk/ → *wuht-duh-yuh-THIHNGK* | /ʌ/, /θ/, schwa, linking |
+| 2 | *I don't know.* | /aɪ doʊnt noʊ/ → *ay-DONT-now* | /oʊ/ diptongo, linking |
+| 3 | *That's a good idea.* | /ðæts ə ɡʊd aɪˈdɪə/ → *dhaats-uh-good-ay-DEE-uh* | /ð/, /æ/, schwa, /ɪ/ |
+| 4 | *Let me think about it.* | /lɛt miː θɪŋk əˈbaʊt ɪt/ → *let-mee-THIHNGK-uh-BOUT-iht* | /θ/, schwa, linking, /ɪ/ |
+| 5 | *It depends on the situation.* | /ɪt dɪˈpɛndz ɒn ðə ˌsɪtʃuˈeɪʃən/ → *iht-dih-PENDZ-on-thuh-sih-choo-AY-shun* | /ð/, /ɪ/, /z/, /eɪ/, schwa |
+| 6 | *Could you say that again?* | /kʊd jə seɪ ðæt əˈɡɛn/ → *kood-yuh-say-DHAATT-uh-GEN* | /ð/, /æ/, schwa, linking |
+| 7 | *I'm not sure about that.* | /aɪm nɒt ʃʊr əˈbaʊt ðæt/ → *aym-not-shur-uh-BOUT-dhaatt* | /ð/, /æ/, schwa, /ɹ/ |
+| 8 | *That makes sense.* | /ðæt meɪks sɛns/ → *dhaatt-MAYKS-sens* | /ð/, /æ/, /eɪ/ |
+| 9 | *What do you mean?* | /wʌt də jə miːn/ → *wuht-duh-yuh-MEEN* | /ʌ/, /iː/, schwa, linking |
+| 10 | *I need to think about it.* | /aɪ niːd tə θɪŋk əˈbaʊt ɪt/ → *ay-NEED-tuh-THIHNGK-uh-BOUT-iht* | /iː/, /θ/, schwa, /ɪ/ |
+| 11 | *That's not what I said.* | /ðæts nɒt wʌt aɪ sɛd/ → *dhaats-not-WUHT-ay-sed* | /ð/, /æ/, /ʌ/ |
+| 12 | *I've been working on it.* | /aɪv bɪn ˈwɜːrkɪŋ ɒn ɪt/ → *ayv-bihn-WUR-king-on-iht* | /ɪ/, /ɹ/, /z/ en have |
+| 13 | *It's worth the effort.* | /ɪts wɜːrθ ðə ˈɛfərt/ → *ihts-WURTH-thuh-EH-furt* | /θ/, /ð/, /ɹ/, schwa |
+| 14 | *I have no idea.* | /aɪ hæv noʊ aɪˈdɪə/ → *ay-HAAV-now-ay-DEE-uh* | /h/, /æ/, /oʊ/, /ɪ/ |
+| 15 | *Let's figure it out.* | /lɛts ˈfɪɡjər ɪt aʊt/ → *lets-FIH-gyur-iht-owt* | /ɪ/, /ɹ/, linking |
+| 16 | *That's the thing, though.* | /ðæts ðə θɪŋ ðoʊ/ → *dhaats-thuh-THIHNG-dhow* | /θ/, /ð/ dos veces, diptongo /oʊ/ |
+| 17 | *I should have done that.* | /aɪ ʃʊd əv dʌn ðæt/ → *ay-SHOOD-uv-DUN-dhaatt* | /ʌ/, /ð/, /æ/, schwa en "have" |
+| 18 | *What are you thinking?* | /wʌt ər jə ˈθɪŋkɪŋ/ → *wuht-ur-yuh-THIHNG-king* | /ʌ/, /θ/, /ɪ/, schwa, linking |
+| 19 | *The weather has been really nice.* | /ðə ˈwɛðər hæz bɪn ˈɹiːli naɪs/ → *thuh-WEH-dhur-haaz-bihn-REE-lee-nays* | /ð/ dos veces, /h/, /æ/, /ɪ/, /ɹ/ |
+| 20 | *I really appreciate it.* | /aɪ ˈɹiːli əˈpɹiːʃieɪt ɪt/ → *ay-REE-lee-uh-PREE-shee-ayt-iht* | /ɹ/ dos veces, /iː/, schwa, /ɪ/ |
+
+---
+
+### 18.4.3 Gate del Banco Fonético
+
+Para considerar que has completado el Banco Fonético, debes cumplir estos criterios:
+
+**Nivel 1 — Reconocimiento (leer bien):** De los 10 Clusters (A–J), elige 5 palabras al azar de cada uno (50 palabras en total). Léelas en voz alta. Un oyente nativo puede entenderte sin pedir que repitas más de una vez por cluster.
+
+**Nivel 2 — Producción automática (hablar sin pensar):** Di las 20 Frases Fonéticas de Alta Frecuencia sin mirar la transcripción. El ritmo y los sonidos deben ser razonablemente naturales, no perfectos.
+
+**Nivel 3 — Integración (identificar y corregir):** Grábate hablando en inglés durante 2 minutos sobre cualquier tema (tu trabajo, tu ciudad, tu rutina). Escucha la grabación e identifica al menos 5 momentos donde aplicaste correctamente alguno de los fonemas del 80/20. Esto confirma que los sonidos están pasando a tu habla natural, no solo a ejercicios controlados.
+
+**Si fallas un nivel:** No vuelves a empezar desde cero. Vuelves al Cluster o frase específica que falló, practicas con audio nativo ese sonido durante una semana más, y repruebas solo ese nivel.
+
+---
+
+### 18.5 Rutina Diaria de Pronunciación Espejo
+
+Integra esto en tu rutina de Step 2 (Sound Lab):
+
+| Bloque | Tiempo | Actividad |
+| :---- | :---- | :---- |
+| Calentamiento | 3 min | Lee 3 GPS del día, exagerando el ritmo y los sonidos. Rota las 13 en ciclo. |
+| Cluster del día | 5 min | Elige un Cluster del Banco Fonético. Lee todas sus palabras 3 veces en cadena, luego grábate. |
+| Frase del día | 5 min | Elige 2 Frases Fonéticas de Alta Frecuencia. Repítelas 10 veces cada una con los ojos cerrados. |
+| Shadowing | 10–20 min | Escucha audio nativo lento. Repite inmediatamente copiando ritmo y sonido. (Esto viene del Step 2 del documento.) |
+| Grabación de control | 2 min | Grábate diciendo 5 frases libres. Escucha. Identifica 1 cosa que mejorar mañana. |
+
+**Total: 25–35 minutos.** Esto es compatible con el bloque de pronunciación del Step 2\.
+
+---
+
+### 18.6 Gate Final del Apéndice 18
+
+Para cerrar este apéndice y pasar al siguiente módulo:
+
+1. Puedes leer las 13 GPS con ritmo de estrés claramente marcado (sílabas fuertes vs. débiles audibles).  
+2. Produces correctamente al menos 6 de los 10 fonemas de los Clusters cuando se te muestra una palabra al azar.  
+3. Las 20 Frases Fonéticas de Alta Frecuencia salen sin mirar la transcripción.  
+4. En una conversación o grabación libre de 2 minutos, un oyente nativo no pide que repitas más de 2 veces por minuto.
+
+**Nota importante:** La pronunciación no se "termina". Es una práctica continua que mejora con cada ciclo del Roadmap. Este apéndice te da el motor fonético mínimo para comunicarte. La maestría llega con meses de input y shadowing acumulado.
+
+# Appendix 19: The Michel Thomas Engine
+
+## Conversational 80/20 Acquisition — A Protocol for Humans and LLMs
+
+---
+
+### 19.0 What This Appendix Is (and Why It Exists)
+
+The rest of this manual gives you the *what* of the 80/20 vocabulary (Step 3, Appendix 15\) and the *what* of pronunciation (Appendix 18). What it does not fully give you is a **conversational delivery engine** — a way to *move through* those 675 core items not as a flashcard queue, but as a guided, progressive dialogue that feels less like studying and more like building.
+
+This appendix is that engine.
+
+It synthesizes two frameworks:
+
+- **Michel Thomas (MT):** A conversation-first, zero-memorization methodology where the teacher (or LLM) sequences items so that every new thing is built from something the student already controls. The student never "studies." The student *constructs*.  
+- **Tim Ferriss (TF):** A deconstruction-first, frequency-driven methodology that isolates the smallest set of high-leverage items (the 675 core cards) and sequences them by impact, not by textbook order.
+
+**The synthesis:** use the TF card list as the *material* and the MT principles as the *delivery method*. The result is a chatbot (human tutor or LLM) that takes your 675 cards and runs progressive, adaptive, conversation-based sessions — no rote memorization, no drills, no fear — until those cards become automatic tools, not studied objects.
+
+**Who this appendix is for:**
+
+1. A **human learner** who wants to understand the philosophy behind the sessions.  
+2. An **LLM acting as tutor** that receives the 675-card list and needs a complete operating spec to run Michel Thomas-style sessions with it.  
+3. A **meta-prompt author** who wants to wire this logic into a system prompt.
+
+---
+
+### 19.1 The Two Philosophies — What Each Contributes
+
+#### The Michel Thomas Contribution
+
+Michel Thomas taught languages to tens of thousands of students, including those who had "failed" at every prior method. His core insight was that **failure to learn is always the teacher's fault, never the student's.** From this came a set of operational principles:
+
+| MT Principle | What it means in practice |
+| :---- | :---- |
+| Never ask the student to memorize | Present items in context. Repetition emerges from use, not drilling. |
+| Build on what is already known | Every new item is introduced as a logical extension of a prior item the student has already produced. |
+| The student must construct, not recall | The tutor gives the ingredients; the student assembles. |
+| Pause before revealing | Give the student 3–5 seconds to attempt construction before helping. |
+| The fault is always the teacher's | If the student fails, the tutor re-sequences, not the student re-studies. |
+| Positive forward momentum | Never dwell on errors. Acknowledge, correct, move forward. |
+| Spiral, not linear | Return to earlier items in new contexts, never announce a "review." |
+| Conversational tone throughout | No lesson-voice. Talk like a guide, not a professor. |
+
+#### The Tim Ferriss Contribution
+
+Ferriss applied DiSSS (Deconstruction, Selection, Sequencing, Stakes) to language. His core insight was that **you do not need all of a language — you need the right part of it first.** From this:
+
+| TF Principle | What it means in practice |
+| :---- | :---- |
+| Deconstruct before you build | Know the skeleton (Blueprint, Step 1\) before adding flesh. |
+| Select the 20% that does 80% of the work | The 675 cards are that 20%. Nothing outside that list until those are automatic. |
+| Sequence by leverage, not by textbook | Teach function words before nouns. Teach modals before conjugation tables. |
+| Golden sentences reveal grammar | A handful of key sentences expose the full structural logic. |
+| Frequency is the north star | What appears most → learn first. Always. |
+
+#### The Synthesis: What Changes When You Combine Them
+
+Alone, TF gives you a great *list* but no *delivery method*. Alone, MT gives you a great *delivery method* but no principled way to select the material. Together:
+
+- The **675 cards are your curriculum.** They are the only material.  
+- **MT delivery principles govern every session.** No memorization ever requested. No drills announced as drills.  
+- The **sequencing follows TF frequency logic**, but within each session, items are introduced via MT construction chains.  
+- The **chatbot (LLM or human tutor)** holds the sequence state, adapts to user performance, and weaves in user interests to create relevance.
+
+---
+
+### 19.2 The 12 Principles of the Engine
+
+These are the operating rules. A human tutor follows them intuitively. An LLM must implement them explicitly. They are listed in order of priority — if principles conflict, the one with the lower number wins.
+
+---
+
+**Principle 1 — Never announce a lesson.**
+
+The session is always framed as a conversation or a game, not a class. The LLM does not say "today we will learn prepositions." It says "let me show you something useful — I'm going to give you a phrase in Spanish and I want you to say it in English. I'll give you every piece you need." The learning is real; the framing is never academic.
+
+---
+
+**Principle 2 — Every new item is introduced, not explained.**
+
+An item is introduced by placing it in a sentence the student can already almost build. The LLM gives the sentence, provides the new piece explicitly ("the word for 'but' is *but* — same job as *pero*"), and immediately asks the student to use it. Explanation is minimal (one sentence max). Construction is immediate.
+
+*Wrong:* "The word 'but' is a coordinating conjunction used to introduce contrast..." *Right:* "The word for *pero* is *but*. Try this: 'I want to go, but I'm tired.' Go."
+
+---
+
+**Principle 3 — Sequence items by construction dependency, not frequency rank.**
+
+Within the 675 cards, some items are prerequisites for others. A pronoun must be active before a verb. A verb must be active before a modal wraps around it. A modal must be active before a negation is added. The LLM maps these dependency chains and never introduces item B before item A is confirmed active.
+
+The master dependency order is defined in Section 19.4.
+
+---
+
+**Principle 4 — The student assembles; the LLM provides scaffolding.**
+
+For each new sentence, the LLM gives the Spanish, gives any new piece the student doesn't have yet, and waits. The student produces the English. This is the MT "construction pause." The LLM never produces the answer before the student attempts it. After a student attempt (correct or not), the LLM confirms, corrects if needed, and moves on. No dwelling.
+
+---
+
+**Principle 5 — Correct silently through positive reconstruction.**
+
+When a student makes an error, the LLM does not say "wrong" or "incorrect." It says the correct form naturally and moves forward. Example: Student says "I am go to work." LLM responds: "Right idea — *I'm going to work*. Now say: 'She's going to the office.'" The correction is embedded in the next instruction, not announced as a correction.
+
+---
+
+**Principle 6 — Spiral without announcement.**
+
+Every 5–7 new items, the LLM re-uses 2–3 previously introduced items in new sentence contexts. This is never called "review." It is just the natural texture of conversation. The student experiences it as fluency, not testing.
+
+---
+
+**Principle 7 — Adapt to user domain and interests.**
+
+The 675 cards are domain-neutral. The sentences used to introduce and practice them are not. If the user works in tech, the LLM uses tech-context sentences. If the user is into travel, travel sentences. The vocabulary being introduced is always from the 675-card list. The context sentences wrapping those vocabulary items reflect the user's world. This is configured at session start (see Section 19.6).
+
+---
+
+**Principle 8 — Modals are the first grammar shortcut.**
+
+Following the TF hack from Section 3D: modals eliminate conjugation complexity. Introduce *can, must, should, will, want to* early. Once the student can wrap any base verb in a modal, they can generate hundreds of grammatically safe sentences without learning a single conjugation table. This is MT efficiency: teach the tool that multiplies everything else.
+
+---
+
+**Principle 9 — Pantry verbs are the circumlocution safety net.**
+
+*Be, have, do, say, get, make, go, know, take, see* (plus *put, keep*) are introduced as early as possible. When a student doesn't know a word, the LLM actively coaches them to circumlocute with pantry verbs instead of freezing. This is introduced explicitly once, early, then practiced by example throughout.
+
+*LLM prompt:* "You don't know the word 'install'? No problem. Use what you have: 'I put the program on my computer.' Try it with a different verb you don't know yet."
+
+---
+
+**Principle 10 — Chunks are acquired whole, not analyzed.**
+
+Survival chunks (*How do you say...?, Can you repeat that?, Sorry, I mean...*) and pragmatic chunks (*By the way..., As far as I know..., It turns out...*) are introduced as single audio units, not as grammatical structures. The LLM presents them, asks the student to say them aloud (or type them in full), and uses them as-is. Grammatical analysis of chunks is permanently deferred.
+
+---
+
+**Principle 11 — False friends are flagged exactly once, dramatically.**
+
+When a false friend from the card list first appears in a sentence context, the LLM flags it with a brief, memorable contrast and never lectures about it again. The drama of the moment is the memory anchor.
+
+*LLM:* "One trap here: *actually* does NOT mean *actualmente*. It means *en realidad*. Say 'Actually, I don't know.' — now you own that word forever."
+
+---
+
+**Principle 12 — The session ends before fatigue, not after.**
+
+MT sessions are short by design. The LLM targets 15–25 minutes of active construction per session. It does not try to cover a fixed number of cards per session. It covers what can be fully activated in the time available, and it ends on a win — always with a sentence the student produced correctly. The student should feel slightly wanting more, not relieved it's over.
+
+---
+
+### 19.3 The Card Categories and Their MT Role
+
+The 675 cards in your SRS map to specific roles in the MT construction chain. The LLM must understand each category's function before sequencing:
+
+| Card Category | MT Role | When to Introduce |
+| :---- | :---- | :---- |
+| **Pronouns / Subject markers** | The engine subjects. Without these, no sentence can be constructed. | First block, Session 1\. |
+| **Pantry verbs (base form)** | The engine verbs. 11 verbs that can express almost anything. | First block, alongside pronouns. |
+| **Modals** | The first grammar multiplier. Wrap any base verb, eliminate conjugation. | Second block, as soon as Subject \+ Verb chains are stable. |
+| **Function words / Connectors** | The glue. Without these, sentences are isolated. With them, ideas link. | Third block. Introduce *and, but, because, if, so* as construction expands. |
+| **Question starters (WH-)** | The conversation unlocks. Transform statements into inquiries. | Fourth block, once affirmative sentences are stable. |
+| **Temporal markers** | The time layer. Locates actions in time without verb tense changes. | Woven in from block two onward. Low cognitive load, high payoff. |
+| **Prepositional chunks** | Location and context. Anchor sentences in real situations. | Block four onward, always as complete chunks (never isolated prepositions). |
+| **Survival / Pragmatic chunks** | The conversation life-preservers. Introduced early and practiced constantly. | One per session from Session 2 onward. |
+| **Cognates** | The quick wins. Build confidence and rapid vocabulary expansion. | Sprinkled into any session as reward moments. ("You already know this word.") |
+| **False friends** | The landmines. Introduced dramatically, exactly once each. | When their context naturally arises in sentence construction. |
+| **Cloze cards** | The student's construction gym. Used as session exercises, not flashcards. | Converted to live oral/written construction prompts by the LLM. |
+
+---
+
+### 19.4 The Master Sequencing Architecture
+
+This is the dependency map the LLM uses to order sessions. It is not a rigid script — it is a constraint graph. The LLM cannot introduce a node until all its prerequisite nodes are marked *Active* for the current student.
+
+LAYER 0 — FOUNDATION (Session 1\)
+
+├── Pronouns: I, you, he, she, it, we, they
+
+├── Pantry verbs (present, base): be, have, do, say, get, make, go, know, take, see
+
+└── Survival chunk pack 1: "How do you say \_\_\_?", "Can you repeat that?"
+
+LAYER 1 — FIRST SENTENCES (Session 1–2)
+
+├── \[Pronoun\] \+ \[Pantry verb\] \+ \[object/complement\]
+
+│   Example: "I have a problem." / "She knows the answer."
+
+├── Temporal markers layer 1: now, today, tomorrow
+
+├── Connector: and (join two ideas)
+
+└── Survival chunk pack 2: "I don't know.", "Sorry, I mean..."
+
+LAYER 2 — MODALS (Session 2–3)
+
+├── can (ability/permission)
+
+├── must (strong obligation)
+
+├── should (recommendation)
+
+├── will (future intention)
+
+├── want to (desire \+ base verb)
+
+│   Construction: \[Pronoun\] \+ \[Modal\] \+ \[Base verb\] \+ \[Object\]
+
+│   Example: "I can do it." / "She must go." / "We want to know."
+
+├── Connector: but (contrast)
+
+└── Temporal markers layer 2: always, never, sometimes
+
+LAYER 3 — NEGATION \+ QUESTIONS (Session 3–4)
+
+├── don't / doesn't (do-support negation)
+
+├── can't (modal negation)
+
+├── Do you...? / Does she...? (do-support question)
+
+├── Question starters: what, where, when, why, how
+
+│   Construction: \[WH-\] \+ do/does \+ \[Pronoun\] \+ \[Base verb\]?
+
+│   Example: "What do you know?" / "Where does she go?"
+
+├── Connectors: because, if, so
+
+└── Survival chunk pack 3: "What does \_\_\_ mean?", "How do you spell that?"
+
+LAYER 4 — EXPANSION \+ CHUNKS (Session 4–6)
+
+├── Prepositional chunks (at home, in the office, from work, with \+ \[person\])
+
+├── Pragmatic chunks (By the way..., As far as I know..., It turns out...)
+
+├── False friends (introduced contextually as sentences trigger them)
+
+├── Cognates (introduced as quick-win vocabulary boosts)
+
+├── Connector: although, however
+
+└── Construction: complex sentences with 2 connectors
+
+LAYER 5 — FLUENCY LAYER (Session 6+)
+
+├── Cloze cards converted to open production prompts
+
+├── Spiral of all prior layers in new domain contexts
+
+├── User's personal domain vocabulary begins to be woven in
+
+└── Chunks used spontaneously by student (no prompting from LLM)
+
+**State tracking rule for LLM:** Each item has one of three states:
+
+- **Introduced** — the student has seen it once.  
+- **Active** — the student has produced it correctly in 3 different sentence contexts.  
+- **Automatic** — the student uses it without a prompt from the LLM.
+
+The LLM never moves a prerequisite item to the next layer until it is at minimum *Active* for the current student.
+
+---
+
+### 19.5 The Session Flow Model
+
+Each session follows this rhythm. It is not a rigid script — it is a default groove the LLM follows and departs from when student signals (confusion, speed, enthusiasm) require it.
+
+\[SESSION OPEN — 2 min\]
+
+LLM greets the student conversationally.
+
+LLM states the session frame (not "today's lesson" — something like
+
+"Let's pick up where we left off. Last time you built sentences with
+
+'can' — today we're going to add one more tool to that and you'll
+
+be able to express almost anything.")
+
+LLM optionally asks: "Anything you tried to say in English this week
+
+and got stuck? Tell me in Spanish."
+
+(If yes: this becomes the first construction target of the session.)
+
+\[WARM-UP SPIRAL — 3–4 min\]
+
+LLM gives 3–5 sentences from prior sessions for the student to
+
+produce. These are items the student has already activated.
+
+No announcement that this is "review." Just: "Say this in English: ..."
+
+LLM confirms quickly and moves on.
+
+\[NEW ITEM BLOCK — 10–15 min\]
+
+LLM introduces 3–5 new items from the current layer.
+
+For each new item:
+
+  1\. LLM introduces the item in one sentence: what it is, its
+
+     Spanish equivalent, how it sits in a sentence.
+
+  2\. LLM gives a simple sentence using it and asks student to repeat
+
+     or reconstruct.
+
+  3\. LLM gives a second sentence (slightly more complex) and asks
+
+     student to construct it from Spanish.
+
+  4\. LLM gives a third sentence in the student's domain context.
+
+  5\. If all three are produced correctly → item marked Active.
+
+  6\. If student fails on step 3: LLM breaks it down further,
+
+     re-sequences (never blames student).
+
+\[CIRCUMLOCUTION CHALLENGE — 2–3 min\]
+
+LLM gives the student a word or concept they haven't learned yet
+
+(always chosen from outside the 675 cards — something the student
+
+would genuinely not know).
+
+LLM says: "You don't have the exact word for this. Show me you can
+
+say it anyway."
+
+Student uses pantry verbs \+ active vocabulary to express it.
+
+This trains the most critical real-world skill: not freezing.
+
+\[SESSION CLOSE — 1–2 min\]
+
+LLM asks: "Build one sentence — any sentence — that uses something
+
+from today."
+
+Student produces. LLM confirms.
+
+LLM gives a brief forward pointer: "Next time, we add one more piece
+
+to this and you'll be able to ask any question you need."
+
+Session ends.
+
+**Session length rule:** Target 20 minutes of active construction. Maximum 30\. Never end mid-construction. Always end on a correct production.
+
+---
+
+### 19.6 The Adaptation Protocol — Personalizing to the Student
+
+At the start of the first session (or when reconfiguring), the LLM runs a brief intake to calibrate the session experience. This is conversational, not a form.
+
+#### The Four Adaptation Inputs
+
+**1\. Domain / Interest Context** What world does this student live in? This determines the nouns and scenarios used in practice sentences. *LLM asks:* "What's the main situation where you need to use English? Work? Travel? Online? Something specific?" *Result:* All example sentences from that point onward are set in that domain. A developer hears "I can make the code work." A traveler hears "I have to go to the airport."
+
+**2\. Current Activation Level** What layer is the student already in? This prevents starting at Layer 0 with someone already at Layer 3\. *LLM protocol:* Run a 3-minute diagnostic — give 5 sentences from each layer as construction prompts. The layer where the student begins to fail is the entry point.
+
+**3\. Session Pace Preference** Some students want to be pushed fast. Some want more construction time per item. *LLM asks:* "Do you prefer moving quickly and building lots of sentences, or do you want to sit with each piece until it feels solid?" *Result:* Adjusts the number of new items per session (fast pace: 5–7 items; slow pace: 2–3 items) and the number of construction attempts per item.
+
+**4\. Error Sensitivity** Some students are motivated by being challenged when they're wrong. Some need the correction to be invisible. *LLM default:* Use Principle 5 (silent reconstruction). If student explicitly says "tell me when I'm wrong," switch to explicit but brief correction: "Almost — it's *doesn't*, not *don't*. Go again."
+
+#### The Adaptation State
+
+The LLM maintains (in its context window or in a persistent store) a simple student profile:
+
+{
+
+  "domain": "tech / travel / business / general",
+
+  "current\_layer": 0-5,
+
+  "active\_items": \["I", "you", "can", "make", ...\],
+
+  "introduced\_items": \["although", "however", ...\],
+
+  "pace": "fast / slow",
+
+  "error\_mode": "silent / explicit",
+
+  "stuck\_words": \["install", "negotiate", ...\],
+
+  "session\_count": 0
+
+}
+
+Every session, the LLM reads this state, picks up from `current_layer`, uses `active_items` for the warm-up spiral, targets the next 3–5 items from the layer for the new block, and pulls from `stuck_words` for the circumlocution challenge if any exist.
+
+---
+
+### 19.7 LLM Implementation Specification
+
+This section is written directly for an LLM receiving the 675-card list and a system prompt. It translates the principles above into explicit operating instructions.
+
+#### System Prompt Core (copy-adaptable)
+
+You are an English language tutor running Michel Thomas-style sessions
+
+for a Spanish-speaking student. You have been given a list of 675 core
+
+vocabulary items (the student's SRS card set). These are your ONLY
+
+teaching material until explicitly told otherwise.
+
+Your operating rules:
+
+1\. Never ask the student to memorize anything.
+
+2\. Always give the student the ingredients, then ask them to build.
+
+3\. Introduce items in the dependency order defined in your session state.
+
+4\. Every sentence you ask the student to produce should be achievable
+
+   with items they already have PLUS the one new item you are introducing.
+
+5\. Correct errors by rebuilding, never by labeling them wrong.
+
+6\. Session length target: 20 minutes of active construction.
+
+7\. End every session on a correct production.
+
+8\. Adapt all example sentences to the student's stated domain.
+
+9\. Track item state: Introduced / Active / Automatic.
+
+10\. Never move to the next layer until all prerequisite items are Active.
+
+Session format:
+
+\- Open conversationally (no "lesson" framing).
+
+\- 3–5 warm-up constructions from prior sessions.
+
+\- 3–5 new items introduced via MT construction chains.
+
+\- 1 circumlocution challenge.
+
+\- Close on a free construction from the student.
+
+Your tone: warm, confident, slightly playful. Never academic. Never
+
+robotic. You are a guide who believes completely that the student will
+
+succeed because the method works.
+
+#### How the LLM Processes the Card List
+
+When given the 675-card JSON, the LLM should:
+
+1. **Classify each card** by its dependency layer (0–5) using the architecture in Section 19.4.  
+2. **Sort within each layer** by frequency/leverage (function words before nouns, modals before full conjugations, chunks before isolated words).  
+3. **Flag false friends** for special handling (Principle 11).  
+4. **Group chunks** as atomic units — never break them into components for instruction.  
+5. **Mark cognates** as quick-win items that can be sprinkled into any session for confidence boosts.
+
+#### The Construction Prompt Formula
+
+Every time the LLM asks a student to produce something, it follows this formula:
+
+\[Spanish sentence\] → English?
+
+(If new item involved: "Remember, \_\_\_ in English is \_\_\_.")
+
+(Pause for student.)
+
+\[Student produces.\]
+
+(If correct: "Good. Now: \[next sentence\].")
+
+(If incorrect: "Almost — \[silent reconstruction\]. Now try: \[simpler version\].")
+
+The LLM never gives more than one new item per construction prompt. If a sentence requires two new items, the LLM introduces them sequentially before combining them.
+
+#### Session State After Each Turn
+
+After each student response, the LLM internally updates:
+
+- Was this item produced correctly? (→ advance toward Active)  
+- Was the student fast or slow? (→ adjust pace signal)  
+- Did the student spontaneously use a prior item? (→ flag as Automatic candidate)  
+- Did the student show confusion about a specific structure? (→ add to re-sequence queue)
+
+#### When the Student Goes Off-Script
+
+Students will sometimes ask questions outside the session flow ("wait, why does English do X?") or try to produce things beyond their current layer. The LLM handles this as follows:
+
+- **Grammar questions:** Give a one-sentence answer, then immediately return to construction. "Right — English needs *do* to make questions. Now try: 'Do you know her?'"  
+- **Vocabulary requests (outside the 675):** Coach circumlocution. "We'll get to that word later. For now, can you say it with what you have?"  
+- **Emotional signals (frustration, confidence drops):** Step back one layer, give 2–3 very easy wins, then advance again. Never acknowledge the regression as regression.
+
+---
+
+### 19.8 Gates for This Appendix's Method
+
+The session-level gate from the main document (Section 8\) applies here, but with a specific MT-flavored version for this engine:
+
+**Layer Gate (general):** A layer is complete when the student can produce any sentence from that layer's item set, given any Spanish prompt, without pausing more than 3 seconds, and without input from the LLM.
+
+**Specific layer gates:**
+
+| Layer | Gate condition |
+| :---- | :---- |
+| Layer 0 | Student produces any \[Pronoun\] \+ \[Pantry verb\] sentence in 3 seconds without help. |
+| Layer 1 | Student uses *and* and *but* correctly in multi-clause sentences. Uses 3 temporal markers correctly without prompting. |
+| Layer 2 | Student wraps any pantry verb in any modal without error. Produces 10 modal sentences on demand in under 90 seconds. |
+| Layer 3 | Student forms correct do-support questions and negations for all pantry verbs and modals. Uses 4 WH- question starters correctly. |
+| Layer 4 | Student uses 3 prepositional chunks correctly in context. Uses 2 pragmatic chunks spontaneously (without LLM prompt). Correctly identifies and self-corrects 5 false friends. |
+| Layer 5 | Student holds a 5-minute conversation in their domain using vocabulary from all prior layers plus spontaneous circumlocution when needed. |
+
+---
+
+### 19.9 A Worked Example Session
+
+This is a concrete example of what a Layer 1 → Layer 2 transition session looks like using this engine. It is intended for both human tutors and LLM developers as a reference implementation.
+
+---
+
+**\[SESSION OPEN\]**
+
+LLM: "Good to see you again. Last time you built sentences with *can* and *must* — you got really solid with those. Today we're going to add one more piece and you'll basically be able to express what you want, need, and plan to do in English. Sound good? Let's warm up first."
+
+---
+
+**\[WARM-UP SPIRAL — prior items\]**
+
+LLM: "Say this in English: *Yo sé la respuesta.*" Student: "I know the answer." LLM: "Good. *Ella tiene que ir.*" Student: "She must go." LLM: "Perfect. *No puedo hacerlo.*" Student: "I can't do it." LLM: "Great. *¿Qué sabes?*" Student: "What do you know?" LLM: "Exactly. One more: *Siempre voy al trabajo.*" Student: "I always go to work." LLM: "Perfect. You've got those. Now let's add something new."
+
+---
+
+**\[NEW ITEM BLOCK — introducing "want to"\]**
+
+LLM: "The phrase *quiero* — 'I want' — in English becomes *I want to*, and the verb after it stays in base form. So: 'I want to go.' Try it: *Quiero ir.*" Student: "I want to go." LLM: "Good. *Quiero saber.*" Student: "I want to know." LLM: "Perfect. Now in your world — you work in tech, right? Say: *Quiero hacer el sistema.*" Student: "I want to make the system." LLM: "Exactly. See how that works? Now *she* wants something. *Ella quiere ir a casa.*" Student: "She wants to go home." LLM: "Right — notice: *she wants*, with an *s* at the end. That's the only thing that changes. Now: *¿Quieres ir?*" Student: "Do you want to go?" LLM: "Perfect. You just combined *want to* with a question. That's Layer 3 logic — you're already there."
+
+---
+
+**\[CIRCUMLOCUTION CHALLENGE\]**
+
+LLM: "Okay, one challenge. You don't know the word for *implementar*. Show me you can say it anyway." Student: "I want to... put the code in the system?" LLM: "That's exactly it. You don't need the word *implement* to say that. You already said it."
+
+---
+
+**\[SESSION CLOSE\]**
+
+LLM: "Build me one sentence — anything — that uses something from today." Student: "I want to make a better app." LLM: "Solid. That's a sentence a developer in any English-speaking company could say in a meeting. Next time we add one more tool — you'll be able to talk about what you're *going to* do, which is huge for planning conversations. See you then."
+
+---
+
+### 19.10 How This Appendix Connects to the Rest of the Manual
+
+This appendix does not replace any prior steps. It is a **delivery layer** that sits on top of the existing architecture:
+
+- **Steps 0–1 (Blueprint):** Still required first. You need the structural skeleton before this engine runs.  
+- **Step 2 (Sound Lab):** Still runs in parallel. This engine is text-first but should be done aloud.  
+- **Step 3 (Core Database / SRS):** The 675 cards live here. This appendix provides the *conversational activation* of those cards. SRS handles the *long-term retention*. Both are needed. Neither replaces the other.  
+- **Steps 4–6 (Immersion, Islands, Stakes):** This engine prepares you for those. Once Layer 5 is complete, you are ready for Step 4's immersion loop with genuine confidence.  
+- **Appendix 18 (Pronunciation):** Run the phonetic clusters alongside this engine's sessions. The LLM can be prompted to use the GPS sentences from Appendix 18 as the construction material for Sessions 2–4.
+
+**The cycle:** This engine runs you through your 675 cards once conversationally. Then SRS consolidates them. Then immersion (Step 4\) tests them under real conditions. Then you return to this engine for your next 625 domain-specific words (Section 6.1), and the cycle repeats. The engine never ends. It just gets faster.
+
+---
+
+*End of Appendix 19\.*  
