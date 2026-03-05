@@ -107,11 +107,29 @@ export const main = () => {
       Router.navigate('#settings');
     });
   };
+
+  const getActiveTrack = (settings) => {
+    return settings.activeTrack === 'phonetics' ? 'phonetics' : 'structure';
+  };
+
+  const filterTrackCards = (cards, activeTrack) => {
+    return cards.filter(c => (c.track || 'structure') === activeTrack);
+  };
   
   const renderHome = async (container, settings) => {
+    const activeTrack = getActiveTrack(settings);
     const dueCards = await getDueCards(999);
-    const goldenCount = dueCards.filter(c => c.goldenSet).length;
-    const coreCount = dueCards.filter(c => c.category === 'core').length;
+    const trackCards = filterTrackCards(dueCards, activeTrack);
+    const goldenCount = trackCards.filter(c => c.goldenSet === true || c.phoneticsDeck === 'golden').length;
+    const coreCount = activeTrack === 'phonetics'
+      ? trackCards.filter(c => c.phoneticsDeck === 'core').length
+      : trackCards.filter(c => c.category === 'core').length;
+    const dailyImage = activeTrack === 'phonetics' ? 'assets/img/deck_sound.png' : 'assets/img/deck_daily.png';
+    const dailyTitle = activeTrack === 'phonetics' ? 'Daily Sound Mix' : 'Daily Challenge';
+    const dailyDesc = activeTrack === 'phonetics' ? 'Your daily pronunciation loop' : 'Your daily mix of cards';
+    const coreTitle = activeTrack === 'phonetics' ? 'Core Phonetic Chunks' : 'Core Chunks';
+    const goldenTitle = activeTrack === 'phonetics' ? 'Golden Pronunciation' : 'Golden Sentences';
+    const modeHeading = activeTrack === 'phonetics' ? 'Phonetics Track' : 'Structure Track';
 
     container.className = 'flex-1 bg-coral dot-grid';
     container.innerHTML = `
@@ -119,24 +137,32 @@ export const main = () => {
       <div class="home-view">
         <div class="decks-headline">
           <h2>Today's practice decks</h2>
-          <p>Pick a focus. Small sessions win.</p>
+          <p>Pick a focus. Small sessions win. <strong>${modeHeading}</strong></p>
+          <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.5rem; margin: 1rem auto 0; max-width: 360px;">
+            <button class="kawaii-btn-secondary track-switch" data-track="structure" style="${activeTrack === 'structure' ? 'background: var(--sunny);' : ''}">
+              Estructura
+            </button>
+            <button class="kawaii-btn-secondary track-switch" data-track="phonetics" style="${activeTrack === 'phonetics' ? 'background: var(--mint);' : ''}">
+              Fonetica
+            </button>
+          </div>
         </div>
 
         <div class="deck-grid">
           <div class="deck-card--large kawaii-card card--interactive" data-deck="daily">
             <div class="kawaii-pill bg-sunny" style="position: absolute; top: 1rem; right: 1rem;">
               <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg>
-              ${dueCards.length} cards
+              ${trackCards.length} cards
             </div>
-            <img src="assets/img/deck_daily.png" alt="Daily">
-            <h3>Daily Challenge</h3>
-            <p>Your daily mix of cards</p>
+            <img src="${dailyImage}" alt="Daily">
+            <h3>${dailyTitle}</h3>
+            <p>${dailyDesc}</p>
           </div>
 
           <div class="deck-card--small kawaii-card card--interactive" data-deck="core">
             <img src="assets/img/deck_core.png" alt="Core">
             <div>
-              <h3>Core Chunks</h3>
+              <h3>${coreTitle}</h3>
               <p>${coreCount} cards</p>
             </div>
           </div>
@@ -144,7 +170,7 @@ export const main = () => {
           <div class="deck-card--small kawaii-card card--interactive" data-deck="golden">
             <img src="assets/img/deck_golden.png" alt="Golden">
             <div>
-              <h3>Golden Sentences</h3>
+              <h3>${goldenTitle}</h3>
               <p>${goldenCount} cards</p>
             </div>
           </div>
@@ -160,17 +186,26 @@ export const main = () => {
     `;
     
     setupNavListeners();
+
+    container.querySelectorAll('.track-switch').forEach((btn) => {
+      btn.addEventListener('click', async () => {
+        const nextTrack = btn.dataset.track;
+        await saveSettings({ activeTrack: nextTrack });
+        const latestSettings = await getSettings();
+        await renderHome(container, latestSettings);
+      });
+    });
     
     container.querySelectorAll('.card--interactive').forEach(card => {
       card.addEventListener('click', async () => {
         const deckType = card.dataset.deck;
-        await startSession(settings.dailyReviewLimit, deckType);
+        await startSession(settings.dailyReviewLimit, deckType, activeTrack);
         Router.navigate('#review');
       });
     });
 
     document.getElementById('quick-start').addEventListener('click', async () => {
-      await startSession(settings.dailyReviewLimit, 'daily');
+      await startSession(settings.dailyReviewLimit, 'daily', activeTrack);
       Router.navigate('#review');
     });
   };
@@ -215,9 +250,10 @@ export const main = () => {
   };
   
   const renderReview = async (container, settings) => {
+    const activeTrack = getActiveTrack(settings);
     const progress = getSessionProgress();
     if (progress.total === 0) {
-      await startSession(settings.dailyReviewLimit);
+      await startSession(settings.dailyReviewLimit, 'daily', activeTrack);
     }
     
     const { reviewed, total, correct } = getSessionProgress();
@@ -274,39 +310,90 @@ export const main = () => {
     }
 
     const cardType = card.cardType || 'word';
-    const badgeHtml = card.goldenSet ? '<div class="badge badge--golden">Golden Sentence</div>' : 
-                      cardType === 'chunk' ? '<div class="badge badge--success">Chunk</div>' : '';
+    const isPhoneticsCard = card.track === 'phonetics' || cardType === 'phonetics';
+    const badgeHtml = card.goldenSet
+      ? '<div class="badge badge--golden">Golden Sentence</div>'
+      : cardType === 'chunk'
+        ? '<div class="badge badge--success">Chunk</div>'
+        : isPhoneticsCard
+          ? '<div class="badge badge--success">Phonetics</div>'
+          : '';
 
-    container.innerHTML = `
-      <div class="review-flashcard kawaii-card">
-        <div>
-          <span style="font-size: 0.75rem; font-weight: 800; color: var(--muted-plum); text-transform: uppercase;">Spanish</span>
-          <div class="flashcard-prompt">${card.front}</div>
-          ${badgeHtml}
-        </div>
-        
-        <div id="reveal-content" class="hidden" style="margin-top: 1.5rem; border-top: 2px solid rgba(42,30,79,0.1); padding-top: 1.5rem;">
-          <span style="font-size: 0.75rem; font-weight: 800; color: var(--muted-plum); text-transform: uppercase;">English</span>
-          <div class="flashcard-answer">${card.back}</div>
-          <div class="flashcard-ipa">${card.ipa || ''}</div>
-          
-          <div class="flashcard-example">
-            <p>${card.context || ''}</p>
-            <div class="ipa">${card.contextIpa || ''}</div>
+    if (isPhoneticsCard) {
+      const phonBadge = card.goldenSet
+        ? '<div class="badge badge--golden">Golden Pronunciation</div>'
+        : '<div class="badge badge--success">Core Phonetic Chunk</div>';
+      const spanishCommentaryHtml = `<span style="font-size: 0.75rem; font-weight: 800; color: var(--muted-plum); text-transform: uppercase; margin-top: 1rem; display: block;">Comentario fonetico (ES)</span>
+          <div id="analysis-box-es" class="analysis-content">${card.analysisEs || ''}</div>`;
+      const englishCommentaryHtml = card.analysisEn
+        ? `<span style="font-size: 0.75rem; font-weight: 800; color: var(--muted-plum); text-transform: uppercase; margin-top: 1rem; display: block;">Comentario fonetico (EN)</span>
+            <div id="analysis-box-en" class="analysis-content">${card.analysisEn || ''}</div>`
+        : '';
+
+      container.innerHTML = `
+        <div class="review-flashcard kawaii-card">
+          <div>
+            <span style="font-size: 0.75rem; font-weight: 800; color: var(--muted-plum); text-transform: uppercase;">Frase en Espanol</span>
+            <div class="flashcard-prompt">${card.front}</div>
+            ${phonBadge}
           </div>
+          
+          <div id="reveal-content" class="hidden" style="margin-top: 1.5rem; border-top: 2px solid rgba(42,30,79,0.1); padding-top: 1.5rem;">
+            <span style="font-size: 0.75rem; font-weight: 800; color: var(--muted-plum); text-transform: uppercase;">Pronunciacion espejo (ES)</span>
+            <div class="flashcard-answer">${card.esMirror || ''}</div>
 
-          <button class="kawaii-btn-secondary" style="width: 100%; margin-bottom: 1rem;" id="toggle-analysis">
-            Show Explanation
-          </button>
-          <div id="analysis-box" class="analysis-content hidden">${card.analysisEs || card.analysisEn || ''}</div>
+            ${spanishCommentaryHtml}
 
-          <button class="kawaii-btn-secondary" style="width: 100%;" id="play-tts">
-            <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M11 5L6 9H2v6h4l5 4V5zM19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>
-            Speak
-          </button>
+            <span style="font-size: 0.75rem; font-weight: 800; color: var(--muted-plum); text-transform: uppercase; margin-top: 1rem; display: block;">Frase en Ingles</span>
+            <div class="flashcard-answer">${card.back}</div>
+
+            <span style="font-size: 0.75rem; font-weight: 800; color: var(--muted-plum); text-transform: uppercase;">Pronunciacion espejo (EN)</span>
+            <div class="flashcard-answer">${card.enMirror || ''}</div>
+            ${englishCommentaryHtml}
+
+            <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 0.75rem; margin-top: 1rem;">
+              <button class="kawaii-btn-secondary" id="play-tts-es">
+                Escuchar ES
+              </button>
+              <button class="kawaii-btn-secondary" id="play-tts-en">
+                Escuchar EN
+              </button>
+            </div>
+          </div>
         </div>
-      </div>
-    `;
+      `;
+    } else {
+      container.innerHTML = `
+        <div class="review-flashcard kawaii-card">
+          <div>
+            <span style="font-size: 0.75rem; font-weight: 800; color: var(--muted-plum); text-transform: uppercase;">Spanish</span>
+            <div class="flashcard-prompt">${card.front}</div>
+            ${badgeHtml}
+          </div>
+          
+          <div id="reveal-content" class="hidden" style="margin-top: 1.5rem; border-top: 2px solid rgba(42,30,79,0.1); padding-top: 1.5rem;">
+            <span style="font-size: 0.75rem; font-weight: 800; color: var(--muted-plum); text-transform: uppercase;">English</span>
+            <div class="flashcard-answer">${card.back}</div>
+            <div class="flashcard-ipa">${card.ipa || ''}</div>
+            
+            <div class="flashcard-example">
+              <p>${card.context || ''}</p>
+              <div class="ipa">${card.contextIpa || ''}</div>
+            </div>
+
+            <button class="kawaii-btn-secondary" style="width: 100%; margin-bottom: 1rem;" id="toggle-analysis">
+              Show Explanation
+            </button>
+            <div id="analysis-box" class="analysis-content hidden">${card.analysisEs || card.analysisEn || ''}</div>
+
+            <button class="kawaii-btn-secondary" style="width: 100%;" id="play-tts">
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M11 5L6 9H2v6h4l5 4V5zM19.07 4.93a10 10 0 0 1 0 14.14M15.54 8.46a5 5 0 0 1 0 7.07"/></svg>
+              Speak
+            </button>
+          </div>
+        </div>
+      `;
+    }
 
     actionBar.innerHTML = `
       <button class="kawaii-btn" id="reveal-btn">
@@ -331,19 +418,32 @@ export const main = () => {
       revealContent.classList.remove('hidden');
       
       if (settings.audioEnabled) {
-        playAudioModule(null, card.context || card.back);
+        if (isPhoneticsCard) {
+          playAudioModule(null, card.front, { lang: 'es-ES' });
+        } else {
+          playAudioModule(null, card.context || card.back, { lang: 'en-US' });
+        }
       }
     });
 
-    document.getElementById('toggle-analysis').addEventListener('click', (e) => {
-      const box = document.getElementById('analysis-box');
-      box.classList.toggle('hidden');
-      e.target.textContent = box.classList.contains('hidden') ? 'Show Explanation' : 'Hide Explanation';
-    });
+    if (isPhoneticsCard) {
+      document.getElementById('play-tts-es')?.addEventListener('click', () => {
+        playAudioModule(null, card.front, { lang: 'es-ES' });
+      });
+      document.getElementById('play-tts-en')?.addEventListener('click', () => {
+        playAudioModule(null, card.back, { lang: 'en-US' });
+      });
+    } else {
+      document.getElementById('toggle-analysis')?.addEventListener('click', (e) => {
+        const box = document.getElementById('analysis-box');
+        box.classList.toggle('hidden');
+        e.target.textContent = box.classList.contains('hidden') ? 'Show Explanation' : 'Hide Explanation';
+      });
 
-    document.getElementById('play-tts').addEventListener('click', () => {
-      playAudioModule(null, card.context || card.back);
-    });
+      document.getElementById('play-tts')?.addEventListener('click', () => {
+        playAudioModule(null, card.context || card.back, { lang: 'en-US' });
+      });
+    }
 
     ratingRow.querySelectorAll('.rating-btn').forEach(btn => {
       btn.addEventListener('click', async () => {

@@ -14,6 +14,7 @@ const SETTINGS_KEY = 'settings';
  * @property {boolean} glitchEffectEnabled - Default: true
  * @property {boolean} reducedMotion - Default: false (detected)
  * @property {string} englishVariant - 'american' | 'british' - Default: 'american'
+ * @property {string} activeTrack - 'structure' | 'phonetics' - Default: 'structure'
  * @property {boolean} onboardingCompleted - Default: false
  */
 
@@ -25,6 +26,7 @@ const DEFAULT_SETTINGS = {
   glitchEffectEnabled: true,
   reducedMotion: false,
   englishVariant: 'american',
+  activeTrack: 'structure',
   onboardingCompleted: false
 };
 

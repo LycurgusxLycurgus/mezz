@@ -1,0 +1,606 @@
+{
+  "version": 1,
+  "source": "m4-pronunciacion-espejo",
+  "corePhoneticChunks": [
+    {
+      "id": "pron-core-001",
+      "cluster": "A",
+      "es": "¿Qué piensas?",
+      "esMirror": "keh PYEN-sahs",
+      "en": "What do you think",
+      "enMirror": "wuht-duh-yuh-THIHNGK",
+      "notaEn": "En ingles, marca el ritmo fuerte/debil y reduce vocales en palabras no acentuadas.",
+      "notaEs": "Ritmo + schwa + linking en frase ultra frecuente."
+    },
+    {
+      "id": "pron-core-002",
+      "cluster": "A",
+      "es": "Es una opción.",
+      "esMirror": "es OO-nah op-see-ON",
+      "en": "It is an option.",
+      "enMirror": "ih-tih-zun-OP-shun",
+      "notaEn": "En ingles, marca el ritmo fuerte/debil y reduce vocales en palabras no acentuadas.",
+      "notaEs": "Encadena it-is-an con reduccin natural."
+    },
+    {
+      "id": "pron-core-003",
+      "cluster": "A",
+      "es": "Puedo hacerlo hoy.",
+      "esMirror": "PWEH-doh ah-SEHR-loh oy",
+      "en": "I can do it today.",
+      "enMirror": "ai-kun-DOO-it tuh-DAY",
+      "notaEn": "En ingles, marca el ritmo fuerte/debil y reduce vocales en palabras no acentuadas.",
+      "notaEs": "Schwa en can/to y golpe en do/day."
+    },
+    {
+      "id": "pron-core-004",
+      "cluster": "A",
+      "es": "Estamos apurados.",
+      "esMirror": "es-TAH-mohs ah-poo-RAH-dohs",
+      "en": "We are in a hurry.",
+      "enMirror": "wee-ur-in-uh-HUR-ee",
+      "notaEn": "En ingles, marca el ritmo fuerte/debil y reduce vocales en palabras no acentuadas.",
+      "notaEs": "Reduce are/a sin perder claridad."
+    },
+    {
+      "id": "pron-core-005",
+      "cluster": "A",
+      "es": "Es mejor idea.",
+      "esMirror": "es meh-HOR ee-DEH-ah",
+      "en": "This is a better idea.",
+      "enMirror": "dhis-iz-uh-BEH-rur-ai-DEE-uh",
+      "notaEn": "En ingles, marca el ritmo fuerte/debil y reduce vocales en palabras no acentuadas.",
+      "notaEs": "Reduccin de funcin + ritmo fuerte/dbil."
+    },
+    {
+      "id": "pron-core-006",
+      "cluster": "A",
+      "es": "¿Puedes repetirlo?",
+      "esMirror": "PWEH-dehs reh-peh-TEER-loh",
+      "en": "Can you say it again",
+      "enMirror": "kun-yuh-SAY-it-uh-GEN",
+      "notaEn": "En ingles, marca el ritmo fuerte/debil y reduce vocales en palabras no acentuadas.",
+      "notaEs": "Schwas mltiples con intencin comunicativa."
+    },
+    {
+      "id": "pron-core-007",
+      "cluster": "B",
+      "es": "Esto es difícil.",
+      "esMirror": "ES-toh es dee-FEE-seel",
+      "en": "This is difficult.",
+      "enMirror": "dhis-iz-DIH-fi-kult",
+      "notaEn": "Manten la i corta y relajada; no la alargues como i larga.",
+      "notaEs": "Short i relajada en this/is/difficult."
+    },
+    {
+      "id": "pron-core-008",
+      "cluster": "B",
+      "es": "Lo arreglo rápido.",
+      "esMirror": "loh ah-RREH-gloh RRAH-pee-doh",
+      "en": "I will fix it quickly.",
+      "enMirror": "ai-wil-FIHK-sit-KWIHK-lee",
+      "notaEn": "Manten la i corta y relajada; no la alargues como i larga.",
+      "notaEs": "Mante // corta en will/fix/it/quickly."
+    },
+    {
+      "id": "pron-core-009",
+      "cluster": "B",
+      "es": "Si es simple, hazlo.",
+      "esMirror": "see es SEEM-pleh AHS-loh",
+      "en": "If it is simple, do it.",
+      "enMirror": "if-it-iz-SIHM-pul-do-it",
+      "notaEn": "Manten la i corta y relajada; no la alargues como i larga.",
+      "notaEs": "No alargues // en if/it/is/simple."
+    },
+    {
+      "id": "pron-core-010",
+      "cluster": "B",
+      "es": "Ese detalle importa.",
+      "esMirror": "EH-seh deh-TAH-yeh eem-POR-tah",
+      "en": "This little detail matters.",
+      "enMirror": "dhis LIH-rul DEE-tail MA-rurz",
+      "notaEn": "Manten la i corta y relajada; no la alargues como i larga.",
+      "notaEs": "Contraste // breve vs vocales largas vecinas."
+    },
+    {
+      "id": "pron-core-011",
+      "cluster": "B",
+      "es": "Aún necesito esto.",
+      "esMirror": "a-OON neh-seh-SEE-toh ES-toh",
+      "en": "We still need this.",
+      "enMirror": "wee-stihl-NEED-dhis",
+      "notaEn": "Manten la i corta y relajada; no la alargues como i larga.",
+      "notaEs": "Short i en still/this con cierre rpido."
+    },
+    {
+      "id": "pron-core-012",
+      "cluster": "B",
+      "es": "Piénsalo bien.",
+      "esMirror": "PYEN-sah-loh byen",
+      "en": "Think it through.",
+      "enMirror": "THIHNGK-it-THROO",
+      "notaEn": "Manten la i corta y relajada; no la alargues como i larga.",
+      "notaEs": "Combinacin // + TH sorda."
+    },
+    {
+      "id": "pron-core-013",
+      "cluster": "C",
+      "es": "Necesitamos verlo.",
+      "esMirror": "neh-seh-see-TAH-mohs VEHR-loh",
+      "en": "We need to see it.",
+      "enMirror": "wee-NEED-tuh-SEE-it",
+      "notaEn": "Sosten la i larga con tension y duracion donde corresponda.",
+      "notaEs": "Long i /i/ en we/need/see."
+    },
+    {
+      "id": "pron-core-014",
+      "cluster": "C",
+      "es": "Ella sigue leyendo.",
+      "esMirror": "EH-yah SEE-geh leh-YEN-doh",
+      "en": "She keeps reading.",
+      "enMirror": "shee-KEEPS-REE-ding",
+      "notaEn": "Sosten la i larga con tension y duracion donde corresponda.",
+      "notaEs": "Soste /i/ en she/keeps/read."
+    },
+    {
+      "id": "pron-core-015",
+      "cluster": "C",
+      "es": "Por favor, listo.",
+      "esMirror": "por fah-BOR LEES-toh",
+      "en": "Please be ready.",
+      "enMirror": "pleez-bee-REH-dee",
+      "notaEn": "Sosten la i larga con tension y duracion donde corresponda.",
+      "notaEs": "Cadena de i larga en please/be."
+    },
+    {
+      "id": "pron-core-016",
+      "cluster": "C",
+      "es": "Parece muy calmado.",
+      "esMirror": "pah-REH-seh mooy kal-MAH-doh",
+      "en": "He seems really calm.",
+      "enMirror": "hee-SEEMZ-REE-lee-kahm",
+      "notaEn": "Sosten la i larga con tension y duracion donde corresponda.",
+      "notaEs": "Long i en he/seems/really."
+    },
+    {
+      "id": "pron-core-017",
+      "cluster": "C",
+      "es": "Reuniones sencillas.",
+      "esMirror": "reh-oo-NYOH-nehs sen-SEE-yahs",
+      "en": "Team meetings feel easy.",
+      "enMirror": "teem-MEE-ringz-feel-EE-zee",
+      "notaEn": "Sosten la i larga con tension y duracion donde corresponda.",
+      "notaEs": "i larga dominante con flap opcional en meeting."
+    },
+    {
+      "id": "pron-core-018",
+      "cluster": "C",
+      "es": "Tres llaves limpias.",
+      "esMirror": "trehs YAH-behs LEEM-pyahs",
+      "en": "These three keys are clean.",
+      "enMirror": "dheez-three-KEEZ-ur-KLEEN",
+      "notaEn": "Sosten la i larga con tension y duracion donde corresponda.",
+      "notaEs": "i larga en these/three/keys/clean."
+    },
+    {
+      "id": "pron-core-019",
+      "cluster": "D",
+      "es": "Ese plan fue malo.",
+      "esMirror": "EH-seh plan fweh MAH-loh",
+      "en": "That plan was bad.",
+      "enMirror": "dhaat-PLAN-wuz-BAAD",
+      "notaEn": "Abre mas la mandibula para la a abierta; evita neutralizarla.",
+      "notaEs": "Entrena // abierta en that/plan/bad."
+    },
+    {
+      "id": "pron-core-020",
+      "cluster": "D",
+      "es": "¿Puedo agregar eso?",
+      "esMirror": "PWEH-doh ah-greh-GAR EH-soh",
+      "en": "Can I add that",
+      "enMirror": "kaan-ai-AAD-dhaat",
+      "notaEn": "Abre mas la mandibula para la a abierta; evita neutralizarla.",
+      "notaEs": "Apertura total en can/add/that."
+    },
+    {
+      "id": "pron-core-021",
+      "cluster": "D",
+      "es": "Ten plan de respaldo.",
+      "esMirror": "ten plan deh rehs-PAL-doh",
+      "en": "Have a backup plan.",
+      "enMirror": "haav-uh-BAK-up-plan",
+      "notaEn": "Abre mas la mandibula para la a abierta; evita neutralizarla.",
+      "notaEs": "Mante // en have/back/plan."
+    },
+    {
+      "id": "pron-core-022",
+      "cluster": "D",
+      "es": "Por fin pasó eso.",
+      "esMirror": "por feen pah-SOH EH-soh",
+      "en": "At last, that happened.",
+      "enMirror": "aat-LAST-dhat-HAA-pund",
+      "notaEn": "Abre mas la mandibula para la a abierta; evita neutralizarla.",
+      "notaEs": "Triple // con ritmo marcado."
+    },
+    {
+      "id": "pron-core-023",
+      "cluster": "D",
+      "es": "Y eso es práctico.",
+      "esMirror": "ee EH-soh es PRAK-tee-koh",
+      "en": "And that is practical.",
+      "enMirror": "aand-dhat-iz-PRAK-tih-kul",
+      "notaEn": "Abre mas la mandibula para la a abierta; evita neutralizarla.",
+      "notaEs": "and/that/practical con boca abierta."
+    },
+    {
+      "id": "pron-core-024",
+      "cluster": "D",
+      "es": "Puedo manejar eso.",
+      "esMirror": "PWEH-doh mah-neh-HAR EH-soh",
+      "en": "I can manage that.",
+      "enMirror": "ai-kan-MA-nij-dhat",
+      "notaEn": "Abre mas la mandibula para la a abierta; evita neutralizarla.",
+      "notaEs": "No reemplaces // por /a/ plana."
+    },
+    {
+      "id": "pron-core-025",
+      "cluster": "E",
+      "es": "Amo este país.",
+      "esMirror": "AH-moh ES-teh pah-EES",
+      "en": "I love this country.",
+      "enMirror": "ai-LUHV-dhis-KUHN-tree",
+      "notaEn": "Usa una vocal central corta y relajada, sin tensar la boca.",
+      "notaEs": "Golpe // en love/country."
+    },
+    {
+      "id": "pron-core-026",
+      "cluster": "E",
+      "es": "Sube con algo.",
+      "esMirror": "SOO-beh kon AL-goh",
+      "en": "Come up with something.",
+      "enMirror": "kuhm-UP-with-SUHM-thing",
+      "notaEn": "Usa una vocal central corta y relajada, sin tensar la boca.",
+      "notaEs": "// repetida en come/up/some."
+    },
+    {
+      "id": "pron-core-027",
+      "cluster": "E",
+      "es": "Pero debemos enfocarnos.",
+      "esMirror": "PEH-roh deh-BEH-mohs en-foh-KAR-nohs",
+      "en": "But we must focus.",
+      "enMirror": "buht-wee-MUHST-FOH-kus",
+      "notaEn": "Usa una vocal central corta y relajada, sin tensar la boca.",
+      "notaEs": "but/must con vocal central oscura."
+    },
+    {
+      "id": "pron-core-028",
+      "cluster": "E",
+      "es": "Es suficiente.",
+      "esMirror": "es soo-fee-see-EN-teh",
+      "en": "Enough is enough.",
+      "enMirror": "ih-NUHF-iz-ih-NUHF",
+      "notaEn": "Usa una vocal central corta y relajada, sin tensar la boca.",
+      "notaEs": "Ancla auditiva de //."
+    },
+    {
+      "id": "pron-core-029",
+      "cluster": "E",
+      "es": "El dinero no llega rápido.",
+      "esMirror": "el dee-NEH-roh noh YEH-gah RRAH-pee-doh",
+      "en": "Money does not come fast.",
+      "enMirror": "MUH-nee-duhz-not-kuhm-fast",
+      "notaEn": "Usa una vocal central corta y relajada, sin tensar la boca.",
+      "notaEs": "money/does/come en // consistente."
+    },
+    {
+      "id": "pron-core-030",
+      "cluster": "E",
+      "es": "Un toque basta.",
+      "esMirror": "oon TOH-keh BAS-tah",
+      "en": "One touch is enough.",
+      "enMirror": "wuhn-TUHCH-iz-ih-NUHF",
+      "notaEn": "Usa una vocal central corta y relajada, sin tensar la boca.",
+      "notaEs": "// central en one/touch/enough."
+    },
+    {
+      "id": "pron-core-031",
+      "cluster": "F",
+      "es": "Gracias por esto.",
+      "esMirror": "GRAH-syahs por ES-toh",
+      "en": "Thank you for this.",
+      "enMirror": "THAANK-yuh-fur-dhis",
+      "notaEn": "Diferencia TH sonora y TH sorda con posicion de lengua y vibracion.",
+      "notaEs": "Alterna TH sorda en thank y sonora en this."
+    },
+    {
+      "id": "pron-core-032",
+      "cluster": "F",
+      "es": "Ellos creen eso.",
+      "esMirror": "EH-yohs KREH-en EH-soh",
+      "en": "They think that too.",
+      "enMirror": "dhey-THIHNGK-dhat-TOO",
+      "notaEn": "Diferencia TH sonora y TH sorda con posicion de lengua y vibracion.",
+      "notaEs": "// en they/that; // en think."
+    },
+    {
+      "id": "pron-core-033",
+      "cluster": "F",
+      "es": "El método es claro.",
+      "esMirror": "el MEH-toh-doh es KLAH-roh",
+      "en": "The method is clear.",
+      "enMirror": "dhuh-MEH-thud-iz-KLEER",
+      "notaEn": "Diferencia TH sonora y TH sorda con posicion de lengua y vibracion.",
+      "notaEs": "the // + method //."
+    },
+    {
+      "id": "pron-core-034",
+      "cluster": "F",
+      "es": "Esta teoría funciona.",
+      "esMirror": "ES-tah teh-oh-REE-ah foon-see-OH-nah",
+      "en": "This theory works.",
+      "enMirror": "dhis-THEE-uh-ree-WURKS",
+      "notaEn": "Diferencia TH sonora y TH sorda con posicion de lengua y vibracion.",
+      "notaEs": "Combinacin this/theory con contraste TH."
+    },
+    {
+      "id": "pron-core-035",
+      "cluster": "F",
+      "es": "¿Ese es el punto?",
+      "esMirror": "EH-seh es el POON-toh",
+      "en": "Is that the thing",
+      "enMirror": "iz-dhat-dhuh-THIHNG",
+      "notaEn": "Diferencia TH sonora y TH sorda con posicion de lengua y vibracion.",
+      "notaEs": "Tres TH en secuencia controlada."
+    },
+    {
+      "id": "pron-core-036",
+      "cluster": "F",
+      "es": "Por este camino.",
+      "esMirror": "por ES-teh kah-MEE-noh",
+      "en": "Through this path.",
+      "enMirror": "THROO-dhis-PATH",
+      "notaEn": "Diferencia TH sonora y TH sorda con posicion de lengua y vibracion.",
+      "notaEs": "TH inicial y final en una sola cadena."
+    },
+    {
+      "id": "pron-core-037",
+      "cluster": "G",
+      "es": "Realmente prefiero esto.",
+      "esMirror": "rreh-AHL-men-teh preh-fee-EH-roh ES-toh",
+      "en": "I really prefer this.",
+      "enMirror": "ai-REE-lee-prih-FUR-dhis",
+      "notaEn": "Haz la R inglesa sin vibrar ni golpear; lengua atras sin tocar el paladar.",
+      "notaEs": "R inglesa en really/prefer."
+    },
+    {
+      "id": "pron-core-038",
+      "cluster": "G",
+      "es": "Prueba otra ruta.",
+      "esMirror": "PRWEH-bah OH-trah ROO-tah",
+      "en": "Try a different route.",
+      "enMirror": "trai-uh-DIH-frunt-ROOT",
+      "notaEn": "Haz la R inglesa sin vibrar ni golpear; lengua atras sin tocar el paladar.",
+      "notaEs": "R no vibrante en try/route."
+    },
+    {
+      "id": "pron-core-039",
+      "cluster": "G",
+      "es": "Gran trabajo en eso.",
+      "esMirror": "gran trah-BAH-hoh en EH-soh",
+      "en": "Great work on that.",
+      "enMirror": "grayt-WURK-on-dhat",
+      "notaEn": "Haz la R inglesa sin vibrar ni golpear; lengua atras sin tocar el paladar.",
+      "notaEs": "R oscura en great/work."
+    },
+    {
+      "id": "pron-core-040",
+      "cluster": "G",
+      "es": "Nuestro reporte está listo.",
+      "esMirror": "NWES-troh rreh-POR-teh es-TAH LEES-toh",
+      "en": "Our report is ready.",
+      "enMirror": "aur-rih-PORT-iz-REH-dee",
+      "notaEn": "Haz la R inglesa sin vibrar ni golpear; lengua atras sin tocar el paladar.",
+      "notaEs": "R al inicio y en slaba tnica."
+    },
+    {
+      "id": "pron-core-041",
+      "cluster": "G",
+      "es": "El mundo cambia.",
+      "esMirror": "el MOON-doh KAHM-byah",
+      "en": "The world is changing.",
+      "enMirror": "dhuh-WURLD-iz-CHAYN-jing",
+      "notaEn": "Haz la R inglesa sin vibrar ni golpear; lengua atras sin tocar el paladar.",
+      "notaEs": "Secuencia difcil world con // + /l/."
+    },
+    {
+      "id": "pron-core-042",
+      "cluster": "G",
+      "es": "Corrige el error.",
+      "esMirror": "koh-RREE-heh el eh-RROR",
+      "en": "Correct the error.",
+      "enMirror": "kuh-REKT-dhi-ER-rur",
+      "notaEn": "Haz la R inglesa sin vibrar ni golpear; lengua atras sin tocar el paladar.",
+      "notaEs": "R flotante en correct/error."
+    },
+    {
+      "id": "pron-core-043",
+      "cluster": "H",
+      "es": "Siempre está ocupado.",
+      "esMirror": "SYEM-preh es-TAH oh-koo-PAH-doh",
+      "en": "He is always busy.",
+      "enMirror": "hee-iz-AWL-wayz-BIH-zee",
+      "notaEn": "Manten la z sonora con vibracion, sobre todo en terminaciones frecuentes.",
+      "notaEs": "Z sonora en is/always/busy."
+    },
+    {
+      "id": "pron-core-044",
+      "cluster": "H",
+      "es": "Estos días pasan rápido.",
+      "esMirror": "ES-tohs DEE-ahs PAH-sahn RRAH-pee-doh",
+      "en": "These days go fast.",
+      "enMirror": "dheez-dayz-GOW-fast",
+      "notaEn": "Manten la z sonora con vibracion, sobre todo en terminaciones frecuentes.",
+      "notaEs": "Z final en these/days/goes implcito."
+    },
+    {
+      "id": "pron-core-045",
+      "cluster": "H",
+      "es": "Porque es fácil.",
+      "esMirror": "POR-keh es FAH-seel",
+      "en": "Because it is easy.",
+      "enMirror": "bih-KOZ-it-iz-EE-zee",
+      "notaEn": "Manten la z sonora con vibracion, sobre todo en terminaciones frecuentes.",
+      "notaEs": "because/is/easy con zumbido."
+    },
+    {
+      "id": "pron-core-046",
+      "cluster": "H",
+      "es": "¿Suena bien eso?",
+      "esMirror": "SWEH-nah byen EH-soh",
+      "en": "Does this sound right",
+      "enMirror": "duhz-dhis-SOWND-rayt",
+      "notaEn": "Manten la z sonora con vibracion, sobre todo en terminaciones frecuentes.",
+      "notaEs": "does con /z/ claro."
+    },
+    {
+      "id": "pron-core-047",
+      "cluster": "H",
+      "es": "Usa esos ejemplos.",
+      "esMirror": "OO-sah EH-sohs eh-HEM-plohs",
+      "en": "Use those examples.",
+      "enMirror": "yooz-dhowz-ig-ZAM-pulz",
+      "notaEn": "Manten la z sonora con vibracion, sobre todo en terminaciones frecuentes.",
+      "notaEs": "/z/ en use/those/examples."
+    },
+    {
+      "id": "pron-core-048",
+      "cluster": "H",
+      "es": "Su voz fue clara.",
+      "esMirror": "soo BOHS fweh KLAH-rah",
+      "en": "His voice was clear.",
+      "enMirror": "hiz-VOYS-wuz-KLEER",
+      "notaEn": "Manten la z sonora con vibracion, sobre todo en terminaciones frecuentes.",
+      "notaEs": "his/was con /z/ sonoro."
+    },
+    {
+      "id": "pron-core-049",
+      "cluster": "I",
+      "es": "Versión muy vívida.",
+      "esMirror": "ber-see-ON mooy BEE-bee-dah",
+      "en": "Very vivid version.",
+      "enMirror": "VEH-ree-VIH-vid-VUR-zhun",
+      "notaEn": "Para v, labio inferior con dientes superiores; no la mezcles con b.",
+      "notaEs": "/v/ constante en very/vivid/version."
+    },
+    {
+      "id": "pron-core-050",
+      "cluster": "I",
+      "es": "Tenemos cinco videos.",
+      "esMirror": "teh-NEH-mohs SEEN-koh BEE-deh-ohs",
+      "en": "We have five videos.",
+      "enMirror": "wee-haav-faiv-VIH-dee-ohz",
+      "notaEn": "Para v, labio inferior con dientes superiores; no la mezcles con b.",
+      "notaEs": "/v/ en have/five/videos."
+    },
+    {
+      "id": "pron-core-051",
+      "cluster": "I",
+      "es": "Muévete despacio.",
+      "esMirror": "MWEH-beh-teh dehs-PAH-syoh",
+      "en": "Move over very slowly.",
+      "enMirror": "moov-OH-vur-VEH-ree-SLOW-lee",
+      "notaEn": "Para v, labio inferior con dientes superiores; no la mezcles con b.",
+      "notaEs": "move/over/very con labio-diente."
+    },
+    {
+      "id": "pron-core-052",
+      "cluster": "I",
+      "es": "Dame ese valor.",
+      "esMirror": "DAH-meh EH-seh bah-LOR",
+      "en": "Give me that value.",
+      "enMirror": "gihv-mee-dhat-VAL-yoo",
+      "notaEn": "Para v, labio inferior con dientes superiores; no la mezcles con b.",
+      "notaEs": "give/value con /v/ clara."
+    },
+    {
+      "id": "pron-core-053",
+      "cluster": "I",
+      "es": "Vive y ama aprender.",
+      "esMirror": "BEE-beh ee AH-mah ah-pren-DEHR",
+      "en": "Live and love learning.",
+      "enMirror": "lihv-an-luhv-LUR-ning",
+      "notaEn": "Para v, labio inferior con dientes superiores; no la mezcles con b.",
+      "notaEs": "live/love con /v/ en cadena."
+    },
+    {
+      "id": "pron-core-054",
+      "cluster": "I",
+      "es": "Cada semana revisamos.",
+      "esMirror": "KAH-dah seh-MAH-nah rreh-bee-SAH-mohs",
+      "en": "Every week we review.",
+      "enMirror": "EV-ree-week-wee-rih-VYOO",
+      "notaEn": "Para v, labio inferior con dientes superiores; no la mezcles con b.",
+      "notaEs": "every/review con /v/ estable."
+    },
+    {
+      "id": "pron-core-055",
+      "cluster": "J",
+      "es": "Mejor tarde que nunca.",
+      "esMirror": "meh-HOR TAR-deh keh NOON-kah",
+      "en": "Better later than never.",
+      "enMirror": "BEH-rur-LAY-rur-dhan-NEH-vur",
+      "notaEn": "Aplica flap T y terminaciones -ed correctas para sonar natural.",
+      "notaEs": "Flap T en better/later."
+    },
+    {
+      "id": "pron-core-056",
+      "cluster": "J",
+      "es": "El agua está más tibia.",
+      "esMirror": "el AH-gwah es-TAH mahs TEE-byah",
+      "en": "Water is getting warmer.",
+      "enMirror": "WAW-rur-iz-GEH-ring-WOR-mur",
+      "notaEn": "Aplica flap T y terminaciones -ed correctas para sonar natural.",
+      "notaEs": "Flap T en water/getting."
+    },
+    {
+      "id": "pron-core-057",
+      "cluster": "J",
+      "es": "Quería preguntar.",
+      "esMirror": "keh-REE-ah preh-goon-TAR",
+      "en": "I wanted to ask.",
+      "enMirror": "ai-WAHN-tid-tuh-AASK",
+      "notaEn": "Aplica flap T y terminaciones -ed correctas para sonar natural.",
+      "notaEs": "-ed /d/ en wanted."
+    },
+    {
+      "id": "pron-core-058",
+      "cluster": "J",
+      "es": "Ellos lo usaron bien.",
+      "esMirror": "EH-yohs loh oo-SAH-rohn byen",
+      "en": "They used it well.",
+      "enMirror": "dhey-YOOZD-it-WEHL",
+      "notaEn": "Aplica flap T y terminaciones -ed correctas para sonar natural.",
+      "notaEs": "-ed /d/ en used."
+    },
+    {
+      "id": "pron-core-059",
+      "cluster": "J",
+      "es": "Nos detuvimos y esperamos.",
+      "esMirror": "nohs deh-too-BEE-mohs ee es-peh-RAH-mohs",
+      "en": "We stopped and waited.",
+      "enMirror": "wee-STAHPT-an-WAY-rid",
+      "notaEn": "Aplica flap T y terminaciones -ed correctas para sonar natural.",
+      "notaEs": "-ed /t/ en stopped y flap en waited."
+    },
+    {
+      "id": "pron-core-060",
+      "cluster": "J",
+      "es": "Edité el título.",
+      "esMirror": "eh-deh-TEH el TEE-too-loh",
+      "en": "I edited the title.",
+      "enMirror": "ai-EH-duh-rid-dhuh-TAI-rul",
+      "notaEn": "Aplica flap T y terminaciones -ed correctas para sonar natural.",
+      "notaEs": "Flap T + -ed en edited/title."
+    }
+  ]
+}

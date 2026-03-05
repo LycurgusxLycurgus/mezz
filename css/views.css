@@ -82,10 +82,16 @@
 .home-view {
   padding: 1.5rem;
   padding-bottom: 8rem;
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 .decks-headline {
   margin-bottom: 2rem;
+  text-align: center;
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .decks-headline h2 {

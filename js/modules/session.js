@@ -30,17 +30,23 @@ let sessionState = {
  * Start a new review session
  * @param {number} [limit] - Maximum cards to include (default from settings)
  * @param {string} [deckType] - Type of deck: 'daily', 'core', 'golden'
+ * @param {string} [track] - Track: 'structure' | 'phonetics'
  * @returns {Promise<SessionState>}
  */
-export const startSession = async (limit = 50, deckType = 'daily') => {
-  logEvent('INFO', 'session-start', { limit, deckType });
+export const startSession = async (limit = 50, deckType = 'daily', track = 'structure') => {
+  logEvent('INFO', 'session-start', { limit, deckType, track });
   
   let cards = await getDueCards(999); // Get all due cards first
+  cards = cards.filter(c => (c.track || 'structure') === track);
 
   if (deckType === 'golden') {
-    cards = cards.filter(c => c.goldenSet === true);
+    cards = cards.filter(c => c.goldenSet === true || c.phoneticsDeck === 'golden');
   } else if (deckType === 'core') {
-    cards = cards.filter(c => c.category === 'core');
+    if (track === 'phonetics') {
+      cards = cards.filter(c => c.phoneticsDeck === 'core');
+    } else {
+      cards = cards.filter(c => c.category === 'core');
+    }
   }
   
   // Apply limit
@@ -57,7 +63,8 @@ export const startSession = async (limit = 50, deckType = 'daily') => {
   
   logEvent('INFO', 'session-queued', {
     cardCount: sessionState.queue.length,
-    deckType
+    deckType,
+    track
   });
   
   updateProgressDisplay();

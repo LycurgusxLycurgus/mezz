@@ -1,0 +1,222 @@
+{
+  "version": 1,
+  "source": "m4-pronunciacion-espejo",
+  "goldenPronunciation": [
+    {
+      "id": "pron-golden-001",
+      "cluster": "A",
+      "es": "El profesor de historia es fantástico.",
+      "esMirror": "el pruh-FEH-sur duh hees-TOR-ee-ah eez fan-TAS-ti-kou",
+      "notaEs": "Ritmo y schwa: golpea FES/TOR/TAS y reduce silabas debiles.",
+      "en": "The history professor is fantastic.",
+      "enMirror": "thuh HIS-tuh-ree pruh-FEH-sur iz fan-TAS-tik"
+    },
+    {
+      "id": "pron-golden-002",
+      "cluster": "B",
+      "es": "El líder visita la clínica principal.",
+      "esMirror": "el LEE-dur VIH-zits thuh KLIH-nik PRIN-suh-pul",
+      "notaEs": "Contraste i larga vs i corta: leader largo, visits/clinic/principal cortas.",
+      "en": "The leader visits the principal clinic.",
+      "enMirror": "thuh LEE-dur VIH-zits thuh PRIN-suh-pul KLIH-nik"
+    },
+    {
+      "id": "pron-golden-003",
+      "cluster": "D",
+      "es": "El público cancela el canal central.",
+      "esMirror": "el PUHB-lih-koh kan-SEH-lah el kah-NAHL sen-TRAL",
+      "notaEs": "Contraste vocal central oscura vs a abierta: public oscuro; cancel/canal con boca muy abierta.",
+      "en": "The public cancels the central canal.",
+      "enMirror": "thuh PUHB-lik KAN-suhlz thuh SEN-trul KAN-ul"
+    },
+    {
+      "id": "pron-golden-004",
+      "cluster": "F",
+      "es": "El autor considera la teoría con entusiasmo.",
+      "esMirror": "el aw-TOR kon-see-DEH-rah lah teh-oh-REE-ah kon en-too-see-AHS-moh",
+      "notaEs": "TH sonora y sorda: sonora en the, sorda en author/theory/enthusiasm.",
+      "en": "The author considers the theory with enthusiasm.",
+      "enMirror": "thuh AW-thur kun-SIH-durz thuh THEE-uh-ree with en-THYOO-zee-az-um"
+    },
+    {
+      "id": "pron-golden-005",
+      "cluster": "A",
+      "es": "El hotel humano tiene historia y humor.",
+      "esMirror": "el oh-TEL oo-MAH-noh TEE-neh ees-TOR-yah ee oo-MOR",
+      "notaEs": "H aspirada limpia y schwa en silabas debiles.",
+      "en": "The human hotel has history and humor.",
+      "enMirror": "thuh HYOO-mun how-TEL haz HIS-tuh-ree and HYOO-mur"
+    },
+    {
+      "id": "pron-golden-006",
+      "cluster": "H",
+      "es": "El presidente organiza y usa las bases.",
+      "esMirror": "el preh-see-DEN-teh or-gah-NEE-sah ee OO-sah lahs BAH-sehs",
+      "notaEs": "Zumbido /z/ en organizes/uses/plurales, no /s/ plana en todo.",
+      "en": "The president organizes and uses the bases.",
+      "enMirror": "thuh PREH-zih-dent OR-guh-nay-ziz and YOO-ziz thuh BAY-siz"
+    },
+    {
+      "id": "pron-golden-007",
+      "cluster": "I",
+      "es": "El cable visual vibra con volumen bajo.",
+      "esMirror": "el KAH-bleh bee-soo-AHL BEE-brah kon boh-LOO-men BAH-hoh",
+      "notaEs": "Diferencia f?sica entre v (labio+dientes) y b (labios juntos).",
+      "en": "The visual cable vibrates with low volume.",
+      "enMirror": "thuh VIH-zhoo-ul KAY-bul VAY-brayts with LOW VAHL-yum"
+    },
+    {
+      "id": "pron-golden-008",
+      "cluster": "G",
+      "es": "El director rural controla el radar de carbono.",
+      "esMirror": "el dee-rek-TOR roo-RAHL kon-TROH-lah el rah-DAR deh kar-BOH-noh",
+      "notaEs": "R inglesa flotante: lengua atrs sin tocar el paladar.",
+      "en": "The rural director controls the carbon radar.",
+      "enMirror": "thuh RUR-ul duh-REK-tur kun-TROWLZ thuh KAR-bun RAY-dar"
+    },
+    {
+      "id": "pron-golden-009",
+      "cluster": "J",
+      "es": "El motor de metal es total y natural.",
+      "esMirror": "el moh-TOR deh meh-TAL es toh-TAL ee nah-too-RAHL",
+      "notaEs": "Flap T americana: metal/motor/total/natural con toque rpido tipo r suave.",
+      "en": "The metal motor is total and natural.",
+      "enMirror": "thuh MEH-rul MOW-rur iz TOW-rul and NACH-ur-ul"
+    },
+    {
+      "id": "pron-golden-010",
+      "cluster": "J",
+      "es": "El grupo escapó, observó y decidió continuar.",
+      "esMirror": "el GROO-poh es-kah-POH ob-ser-BOH ee deh-see-DYOH kon-tee-noo-AR",
+      "notaEs": "Terminacin -ed: /t/, /d/ e /d/ segn el sonido final.",
+      "en": "The group escaped, observed, and decided to continue.",
+      "enMirror": "thuh groop ih-SKAYPT uhb-ZURVD and dih-SAI-did tuh kun-TIH-nyoo"
+    },
+    {
+      "id": "pron-golden-011",
+      "cluster": "C",
+      "es": "El momento local es famoso en la nación global.",
+      "esMirror": "el moh-MEN-toh loh-KAHL es fah-MOH-soh en lah nah-see-ON gloh-BAHL",
+      "notaEs": "Diptongos /o/ y /e/: mueve la boca, no vocal plana.",
+      "en": "The local moment is famous in the global nation.",
+      "enMirror": "thuh LOW-kul MOW-munt iz FAY-mus in thuh GLOW-bul NAY-shun"
+    },
+    {
+      "id": "pron-golden-012",
+      "cluster": "A",
+      "es": "Es una opción activa y eficiente.",
+      "esMirror": "es OO-nah op-see-ON ak-TEE-bah ee eh-fee-see-EN-teh",
+      "notaEs": "Linking: frase continua, sin pausas slaba por slaba.",
+      "en": "It is an active and efficient option.",
+      "enMirror": "ih-tih-zun-AK-tiv-an-ih-FIH-shunt-OP-shun"
+    },
+    {
+      "id": "pron-golden-013",
+      "cluster": "A",
+      "es": "El doctor americano visita el hospital original con gran energía.",
+      "esMirror": "el DOK-tor ah-meh-ree-KAH-noh bee-SEE-tah el os-pee-TAL oh-ree-hee-NAHL kon gran eh-ner-HEE-ah",
+      "notaEs": "Frase integradora: schwa, /v/, //, /r/, diptongos y ritmo en una sola cadena.",
+      "en": "The American doctor visits the original hospital with great energy.",
+      "enMirror": "thuh uh-MEH-rih-kun DAHK-tur VIH-zits thee uh-RIH-jih-nul HAHS-pih-tul with GRAYT EH-nur-jee"
+    },
+    {
+      "id": "pron-golden-014",
+      "cluster": "A",
+      "es": "El sistema oficial de soporte está activo.",
+      "esMirror": "el sees-TEH-mah oh-fee-see-AHL deh soh-POR-teh es-TAH ak-TEE-boh",
+      "notaEs": "Schwa en slabas tonas y estrs en palabras largas.",
+      "en": "The official support system is active.",
+      "enMirror": "thuh uh-FIH-shul suh-PORT SIS-tum iz AK-tiv"
+    },
+    {
+      "id": "pron-golden-015",
+      "cluster": "B",
+      "es": "El equipo vive en esta ciudad difícil.",
+      "esMirror": "el eh-KEE-poh BEE-beh en ES-tah see-oo-DAD dee-FEE-seel",
+      "notaEs": "Seca las // en live/this/city/difficult para evitar i latina larga.",
+      "en": "The team lives in this difficult city.",
+      "enMirror": "thuh TEEM LIVZ in dhis DIH-fi-kult SIH-tee"
+    },
+    {
+      "id": "pron-golden-016",
+      "cluster": "C",
+      "es": "Vemos tres ideas limpias cada semana.",
+      "esMirror": "BEH-mohs trehs ee-DEH-ahs LEEM-pee-ahs KAH-dah seh-MAH-nah",
+      "notaEs": "Marca /i/ larga en we/see/clean/week y no la mezcles con //.",
+      "en": "We see three clean ideas every week.",
+      "enMirror": "wee SEE three KLEEN ai-DEE-uhz EV-ree WEEK"
+    },
+    {
+      "id": "pron-golden-017",
+      "cluster": "D",
+      "es": "Ese plan cambia rápido y abre cada canal.",
+      "esMirror": "EH-seh plan KAHM-byah RAH-pee-doh ee AH-breh KAH-dah kah-NAHL",
+      "notaEs": "Abre mandbula para // en that/plan/canal, sin cerrarla al centro.",
+      "en": "That plan changes fast and opens every channel.",
+      "enMirror": "dhat PLAN CHAYN-jiz FAST and OH-punz EV-ree CHAN-ul"
+    },
+    {
+      "id": "pron-golden-018",
+      "cluster": "E",
+      "es": "Mi club ama esta cultura joven.",
+      "esMirror": "MEE kloob AH-mah ES-tah kool-TOO-rah HOH-ben",
+      "notaEs": "Entrena // oscuro y corto en club/love/culture/young.",
+      "en": "My club loves this young culture.",
+      "enMirror": "mai KLUHB LUHVZ dhis YUHN KUHL-chur"
+    },
+    {
+      "id": "pron-golden-019",
+      "cluster": "F",
+      "es": "Estos autores piensan que ese método funciona.",
+      "esMirror": "ES-tohs aw-TOH-rehs pee-EN-sahn keh EH-seh MEH-toh-doh foon-see-OH-nah",
+      "notaEs": "Alterna // y // sin sustituir por t/d/s.",
+      "en": "These authors think that this method works.",
+      "enMirror": "dheez AW-thurz THINK that dhis METH-ud works"
+    },
+    {
+      "id": "pron-golden-020",
+      "cluster": "G",
+      "es": "La respuesta correcta requiere práctica real.",
+      "esMirror": "lah rehs-PWES-tah koh-REK-tah reh-KYEE-reh PRAK-tee-kah reh-AHL",
+      "notaEs": "R inglesa en response/correct/requires/real, siempre sin toque alveolar.",
+      "en": "The correct response requires real practice.",
+      "enMirror": "thuh kuh-REKT ri-SPAHNS ri-KWAI-urz REEL PRAK-tis"
+    },
+    {
+      "id": "pron-golden-021",
+      "cluster": "H",
+      "es": "Su voz usa frases fáciles y precisas.",
+      "esMirror": "soo BOHS OO-sah FRAH-sehs FAH-see-lehs ee preh-SEE-sahs",
+      "notaEs": "Z sonora en voice/uses/easy/precise final.",
+      "en": "His voice uses easy, precise phrases.",
+      "enMirror": "hiz VOYS YOO-ziz EE-zee pri-SAIS FRAY-ziz"
+    },
+    {
+      "id": "pron-golden-022",
+      "cluster": "I",
+      "es": "Vemos la versión breve del video nuevo.",
+      "esMirror": "BEH-mohs lah ber-see-ON BREH-beh del BEE-deh-oh NWAY-boh",
+      "notaEs": "Labio inferior contra dientes para /v/ sostenida.",
+      "en": "We view the brief version of the new video.",
+      "enMirror": "wee VYOO thuh BREEF VUR-zhun uhv thuh NYOO VIH-dee-oh"
+    },
+    {
+      "id": "pron-golden-023",
+      "cluster": "J",
+      "es": "El editor notó que la nota era total.",
+      "esMirror": "el eh-dee-TOR noh-TOH keh lah NOH-tah EH-rah toh-TAL",
+      "notaEs": "Flap T en editor/noted/total para ritmo americano natural.",
+      "en": "The editor noted that the note was total.",
+      "enMirror": "thuh EH-duh-rur NOH-rid that thuh NOHT wuz TOH-rul"
+    },
+    {
+      "id": "pron-golden-024",
+      "cluster": "A",
+      "es": "Cuando lo usamos a diario, todo se conecta.",
+      "esMirror": "KWAN-doh loh OO-sah-mohs ah dee-AH-ree-oh TOH-doh seh koh-NEK-tah",
+      "notaEs": "Integracin final: estrs, reduccin, linking y continuidad.",
+      "en": "When we use it daily, everything connects.",
+      "enMirror": "wen wee YOO-zit DAY-lee EV-ree-thing kuh-NEKTS"
+    }
+  ]
+}

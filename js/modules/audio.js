@@ -47,19 +47,19 @@ export const preloadAudio = async (urls = []) => {
  * Play audio by URL
  * @param {string} url
  * @param {string} fallbackText
- * @param {{ onEnd?: Function, onStart?: Function }} [options]
+ * @param {{ onEnd?: Function, onStart?: Function, lang?: string }} [options]
  * @returns {Promise<void>}
  */
 export const playAudio = async (url, fallbackText = '', options = {}) => {
-  const { onEnd, onStart } = options;
-  logEvent('INFO', 'audio-play-request', { audioUrl: url, fallbackTextLength: fallbackText.length });
+  const { onEnd, onStart, lang = 'en-US' } = options;
+  logEvent('INFO', 'audio-play-request', { audioUrl: url, fallbackTextLength: fallbackText.length, lang });
   if (USE_TTS_ONLY) {
-    await playSpeechFallback(fallbackText, { onEnd, onStart });
+    await playSpeechFallback(fallbackText, { onEnd, onStart, lang });
     return;
   }
   if (!url) {
     logEvent('WARN', 'audio-play', { audioUrl: url, error: 'missing-url' });
-    return playSpeechFallback(fallbackText, { onEnd, onStart });
+    return playSpeechFallback(fallbackText, { onEnd, onStart, lang });
   }
   
   try {
@@ -86,12 +86,12 @@ export const playAudio = async (url, fallbackText = '', options = {}) => {
     logEvent('INFO', 'audio-play', { audioUrl: url });
   } catch (error) {
     logEvent('WARN', 'audio-play', { audioUrl: url, error: error.message });
-    await playSpeechFallback(fallbackText, { onEnd, onStart });
+    await playSpeechFallback(fallbackText, { onEnd, onStart, lang });
   }
 };
 
 const playSpeechFallback = async (text, options = {}) => {
-  const { onEnd, onStart } = options;
+  const { onEnd, onStart, lang = 'en-US' } = options;
   if (!text) {
     announce('Audio unavailable. Continue with text only.');
     return;
@@ -112,11 +112,12 @@ const playSpeechFallback = async (text, options = {}) => {
     }
     
     const utterance = new SpeechSynthesisUtterance(text);
-    utterance.lang = 'en-US';
-    
-    const preferredVoice = voices.find((voice) => voice.lang === 'en-US') || voices[0];
+    utterance.lang = lang;
+
+    const preferredVoice = selectBestVoice(voices, lang);
     if (preferredVoice) {
       utterance.voice = preferredVoice;
+      utterance.lang = preferredVoice.lang || lang;
     }
     
     utterance.onend = () => {
@@ -135,11 +136,20 @@ const playSpeechFallback = async (text, options = {}) => {
       onStart();
     }
     window.speechSynthesis.speak(utterance);
-    logEvent('INFO', 'audio-tts', { textLength: text.length, voice: utterance.voice?.name });
+    logEvent('INFO', 'audio-tts', { textLength: text.length, voice: utterance.voice?.name, lang: utterance.lang });
   } catch (error) {
     logEvent('WARN', 'audio-tts', { error: error.message });
     announce('Audio unavailable. Continue with text only.');
   }
+};
+
+const selectBestVoice = (voices, lang) => {
+  const normalized = (lang || 'en-US').toLowerCase();
+  const family = normalized.split('-')[0];
+  return voices.find((voice) => voice.lang && voice.lang.toLowerCase() === normalized)
+    || voices.find((voice) => voice.lang && voice.lang.toLowerCase().startsWith(family + '-'))
+    || voices.find((voice) => voice.lang && voice.lang.toLowerCase().startsWith('en-'))
+    || voices[0];
 };
 
 const ensureVoices = () => {

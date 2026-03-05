@@ -1,0 +1,81 @@
+﻿# en2es_m4_pronunciation_highfreqitems
+
+## Cluster A - Ritmo, Schwa, Linking (6)
+* What do you think?
+* It is an option.
+* I can do it today.
+* We are in a hurry.
+* This is a better idea.
+* Can you say it again?
+
+## Cluster B - Short i (6)
+* This is difficult.
+* I will fix it quickly.
+* If it is simple, do it.
+* This little detail matters.
+* We still need this.
+* Think it through.
+
+## Cluster C - Long i (6)
+* We need to see it.
+* She keeps reading.
+* Please be ready.
+* He seems really calm.
+* Team meetings feel easy.
+* These three keys are clean.
+
+## Cluster D - Open a (/ae/) (6)
+* That plan was bad.
+* Can I add that?
+* Have a backup plan.
+* At last, that happened.
+* And that is practical.
+* I can manage that.
+
+## Cluster E - Central vowel (/uh/) (6)
+* I love this country.
+* Come up with something.
+* But we must focus.
+* Enough is enough.
+* Money does not come fast.
+* One touch is enough.
+
+## Cluster F - TH contrast (6)
+* Thank you for this.
+* They think that too.
+* The method is clear.
+* This theory works.
+* Is that the thing?
+* Through this path.
+
+## Cluster G - English R (6)
+* I really prefer this.
+* Try a different route.
+* Great work on that.
+* Our report is ready.
+* The world is changing.
+* Correct the error.
+
+## Cluster H - Voiced Z (6)
+* He is always busy.
+* These days go fast.
+* Because it is easy.
+* Does this sound right?
+* Use those examples.
+* His voice was clear.
+
+## Cluster I - V motor (6)
+* Very vivid version.
+* We have five videos.
+* Move over very slowly.
+* Give me that value.
+* Live and love learning.
+* Every week we review.
+
+## Cluster J - Flap T and -ed (6)
+* Better later than never.
+* Water is getting warmer.
+* I wanted to ask.
+* They used it well.
+* We stopped and waited.
+* I edited the title.
